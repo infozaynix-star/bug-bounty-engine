@@ -1,0 +1,108 @@
+{
+  "programs": {
+    "Shopify": {
+      "organization": "Shopify",
+      "in_scope_repos": ["*"],
+      "in_scope": false,
+      "all_public_repositories_confirmed": false,
+      "bounty_eligible": false,
+      "source_code_eligible": false,
+      "requirements_confirmed": false,
+      "policy_url": "",
+      "allowed_types": [],
+      "excluded_repositories": [],
+      "excluded_paths": []
+    },
+    "GitLab": {
+      "organization": "gitlab-org",
+      "in_scope_repos": ["*"],
+      "in_scope": false,
+      "all_public_repositories_confirmed": false,
+      "bounty_eligible": false,
+      "source_code_eligible": false,
+      "requirements_confirmed": false,
+      "policy_url": "",
+      "allowed_types": [],
+      "excluded_repositories": [],
+      "excluded_paths": []
+    },
+    "Automattic": {
+      "organization": "Automattic",
+      "in_scope_repos": ["*"],
+      "in_scope": false,
+      "all_public_repositories_confirmed": false,
+      "bounty_eligible": false,
+      "source_code_eligible": false,
+      "requirements_confirmed": false,
+      "policy_url": "",
+      "allowed_types": [],
+      "excluded_repositories": [],
+      "excluded_paths": []
+    },
+    "Brave": {
+      "organization": "brave",
+      "in_scope_repos": ["*"],
+      "in_scope": false,
+      "all_public_repositories_confirmed": false,
+      "bounty_eligible": false,
+      "source_code_eligible": false,
+      "requirements_confirmed": false,
+      "policy_url": "",
+      "allowed_types": [],
+      "excluded_repositories": [],
+      "excluded_paths": []
+    },
+    "PayPal": {
+      "organization": "PayPal",
+      "in_scope_repos": ["*"],
+      "in_scope": false,
+      "all_public_repositories_confirmed": false,
+      "bounty_eligible": false,
+      "source_code_eligible": false,
+      "requirements_confirmed": false,
+      "policy_url": "",
+      "allowed_types": [],
+      "excluded_repositories": [],
+      "excluded_paths": []
+    },
+    "Uber": {
+      "organization": "uber",
+      "in_scope_repos": ["*"],
+      "in_scope": false,
+      "all_public_repositories_confirmed": false,
+      "bounty_eligible": false,
+      "source_code_eligible": false,
+      "requirements_confirmed": false,
+      "policy_url": "",
+      "allowed_types": [],
+      "excluded_repositories": [],
+      "excluded_paths": []
+    },
+    "Salesforce": {
+      "organization": "salesforce",
+      "in_scope_repos": ["*"],
+      "in_scope": false,
+      "all_public_repositories_confirmed": false,
+      "bounty_eligible": false,
+      "source_code_eligible": false,
+      "requirements_confirmed": false,
+      "policy_url": "",
+      "allowed_types": [],
+      "excluded_repositories": [],
+      "excluded_paths": []
+    },
+    "HashiCorp": {
+      "organization": "hashicorp",
+      "in_scope_repos": ["*"],
+      "in_scope": false,
+      "all_public_repositories_confirmed": false,
+      "bounty_eligible": false,
+      "source_code_eligible": false,
+      "requirements_confirmed": false,
+      "policy_url": "",
+      "allowed_types": [],
+      "excluded_repositories": [],
+      "excluded_paths": []
+    }
+  }
+}
