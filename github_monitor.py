@@ -6,7 +6,7 @@ import json
 import subprocess
 from urllib.parse import quote
 
-from config import My_GITHUB_TOKEN, TARGET_REPOS
+from config import GITHUB_TOKEN, TARGET_REPOS
 from detector import context_from_source
 from dependency_analysis import analyze_dependency_manifest
 from detection_engine import DetectionContext, detect_candidates, merge_independent_evidence
@@ -33,8 +33,8 @@ HEADERS = {
     "Accept": "application/vnd.github.v3+json"
 }
 logger = logging.getLogger(__name__)
-if My_GITHUB_TOKEN:
-    HEADERS["Authorization"] = f"token {My_GITHUB_TOKEN}"
+if GITHUB_TOKEN:
+    HEADERS["Authorization"] = f"token {GITHUB_TOKEN}"
 
 
 class GitHubAPIError(RuntimeError):
@@ -356,7 +356,7 @@ def run_monitoring_cycle():
             (company_name, org_name, repository) for repository in repositories
         )
 
-    print(f"GitHub token configured: {'yes' if My_GITHUB_TOKEN else 'no (unauthenticated API limits)'}")
+    print(f"GitHub token configured: {'yes' if GITHUB_TOKEN else 'no (unauthenticated API limits)'}")
     if TARGET_REPOS:
         print(f"TARGET_REPOS filter configured: {len(TARGET_REPOS)} repository/repositories")
     if not authorized_targets:

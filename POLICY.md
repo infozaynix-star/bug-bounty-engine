@@ -91,10 +91,12 @@ not identify a repository and may be scanned again once after upgrading.
 The `.github/workflows/scanner.yml` workflow runs `main.py --once` every five
 minutes and can also be started manually. Add `GROQ_API_KEY`,
 `TELEGRAM_BOT_TOKEN`, and `TELEGRAM_CHAT_ID` as repository Actions secrets.
-The workflow uses the automatically provided `My_GITHUB_TOKEN` and requires
+The workflow uses the `MY_GITHUB_TOKEN` repository secret when configured,
+falling back to the automatically provided `GITHUB_TOKEN`, and requires
 Actions workflow permissions to allow contents writes so it can commit updated
-scan state. Its state commits include `[skip ci]`; the workflow is not
-configured to run on push events.
+scan state. It passes `GROQ_MODEL` through from its optional repository secret;
+the application default is used if it is unset. Its state commits include
+`[skip ci]`; the workflow is not configured to run on push events.
 
 `TARGET_REPOS` is an optional comma-separated environment variable (or Actions
 repository variable) that filters the authorized repositories for a run. It

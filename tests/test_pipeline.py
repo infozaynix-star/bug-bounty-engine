@@ -749,6 +749,20 @@ class EvidencePipelineTests(unittest.TestCase):
             {"org/repo", "another/project"},
         )
 
+    def test_github_token_configuration_accepts_standard_and_legacy_secret_names(self) -> None:
+        self.assertEqual(
+            config.github_token_from_environment({"GITHUB_TOKEN": " standard "}),
+            "standard",
+        )
+        self.assertEqual(
+            config.github_token_from_environment({"MY_GITHUB_TOKEN": "custom"}),
+            "custom",
+        )
+        self.assertEqual(
+            config.github_token_from_environment({"My_GITHUB_TOKEN": "legacy"}),
+            "legacy",
+        )
+
     def test_github_api_rate_limit_is_reported_instead_of_empty_results(self) -> None:
         response = Mock()
         response.status_code = 403
