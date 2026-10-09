@@ -1318,7 +1318,9 @@
       "882898ee1485a9102239b5dcd6b7ceec07b0f603",
       "f7829d78520617e6f487d8d2d88bddca220ba736",
       "488a1ff15a7802ddb73a41cbd23b6bc1d5f2606a",
-      "78e29fbf5978849e725d3613fb1cf37e448550b3"
+      "78e29fbf5978849e725d3613fb1cf37e448550b3",
+      "c0200e85586f397a4c6f25a349a20f21c7cf9a4b",
+      "d90a1dd237299394cb39f51579e8b0e096e0b5ad"
     ],
     "Automattic/blocks-engine-php-transformer": [
       "23cc29f2da29df5adf7863b71d713252bd232c46",
@@ -1350,7 +1352,9 @@
       "0aa2d2746299caa877cdec2940983a7020217dd3",
       "f9a52f0dcea085aa1c92ae43d259d068632b9710",
       "d3eaca126517b5b90269448df851dc7b554b0bc0",
-      "b8676c82abc1eecb346114defc18eb06b174c134"
+      "b8676c82abc1eecb346114defc18eb06b174c134",
+      "babcb8384801a78df31c9837b484893612e45323",
+      "67efb714306be70d148a7c74293872b5af2e74ac"
     ],
     "Automattic/blocks-everywhere": [
       "1857fcca96989bc58c57db05a70712c2dba0e0df",
@@ -1616,7 +1620,8 @@
       "171f91b16d103e19610fd9a2b1ca2ca8db307b8e",
       "076d5a37958f6eb74104b9c1aeb457572800d878",
       "23ff7eb99e8fa449d76c9c875d1df2cd46b99f63",
-      "a48f3f404b9aa5edda93f714afd623848df1a92f"
+      "a48f3f404b9aa5edda93f714afd623848df1a92f",
+      "2561b93cfbcbb303ebea37b3bf3c541afffde142"
     ],
     "Automattic/chat.a8c.com": [
       "d72c8f663307e4c9e9e90e3df88fc3bd20848125",
@@ -2154,7 +2159,12 @@
       "6631a2c918712b80fd1c29560f01efa9e3ffacbf",
       "8bd8b5a0a1de4f6c65e65a9e1a19de82dfa78215",
       "cdca60536d7370f0319932b53b09eb8456e737fd",
-      "b2f7d6d93665f2ed944f4aee58d8344393f78a48"
+      "b2f7d6d93665f2ed944f4aee58d8344393f78a48",
+      "99e7afc0475fd00a6c1ee33ccd70a4948620520b",
+      "52b3adc4d7b031f13113840d71c14a418ddf405b",
+      "c8bd567172aab82d65ef0fd0918ad25940990f52",
+      "18cdc513627124034a2a6214ee1975d8d2c6c750",
+      "4578ccd00b816f32c63873ae04b30b4432cc0a72"
     ],
     "Automattic/dataviz-blocks": [
       "e0ec03b6a614ca85c5461b38bd8df8589c78fe9d",
@@ -3340,7 +3350,8 @@
       "f9f62d69291834cead534ed69e253d868645f565",
       "b23bb8c5e83d010a6c3447a0e6b9f729da438ecb",
       "e12404769ad92013dddab6dec54d6a5f67f9f412",
-      "7a2111c6b543c990d0ab8f1a7ffc4104d70e3c19"
+      "7a2111c6b543c990d0ab8f1a7ffc4104d70e3c19",
+      "f784ed47e4bfa5f54005b8f815b84914f2e5e20c"
     ],
     "Automattic/harper-obsidian-plugin": [
       "de5b305b94d83ac62b61ae81c1106092aa3876bf",
@@ -3617,7 +3628,12 @@
       "4f498ec7aac668c71959cb44493baff344f0b797",
       "5c4523a2aa29927b5b7968f9d845b34fead9f23e",
       "74215909be6936af853d2eb2fc0e4bba6d372dd7",
-      "816003ce05bbfc385ecff2a60597b87d7f1ca86e"
+      "816003ce05bbfc385ecff2a60597b87d7f1ca86e",
+      "7a46789344e1c06f430a73f19dc74359f1f715a3",
+      "be61926d6aa620ee27ae94c89ecd939520363380",
+      "b8f87483e9da64c3f78e36d76367e214e5369cd1",
+      "85231608879fb14d2cda3db204c6a4a0379ed021",
+      "fb31d58886225bd769ed5b3f662a81d45cd492cc"
     ],
     "Automattic/jetpack-a8c-mc-stats": [
       "5e7f8613a1aca06564f517a1f3567dba1441ed06",
@@ -3702,7 +3718,8 @@
       "75714429a673ed797af09862c3fc4e4e332647d9",
       "ae161ca632d68028d31d6a5bd6ab2a5bd312eeb1",
       "8517a03a33c05f83c1e492066ddd217fb91b0e10",
-      "c1b454fe92ba4b69a9dd202cc1ee7d1d6cd98807"
+      "c1b454fe92ba4b69a9dd202cc1ee7d1d6cd98807",
+      "c1b42e743b72d65c382f92388a8d0226de12acc2"
     ],
     "Automattic/jetpack-analytics": [
       "ce7adf4cf4af82498cb9f743cd7a787cad01a8b0",
@@ -3781,7 +3798,8 @@
       "116162259be10dfb501f619e3f5a6e8530ef4515",
       "ba4e2cf66892a0440e3a86ab44b195c28e139214",
       "4a17aec2f02d9d27ee651dab0c7b94a1ad94c3d4",
-      "5d04997e2ba2c9ce7f36c3df6d3bb6c7dc821256"
+      "5d04997e2ba2c9ce7f36c3df6d3bb6c7dc821256",
+      "3f08aa0dd2c5ce44595adf2b429b37bd3187c731"
     ],
     "Automattic/jetpack-base-styles": [
       "8341441403a5fb5c05685aadc01d99f6fcc9efd7",
@@ -3850,7 +3868,8 @@
       "70d1a5369729324d1697bb0e70c33f2910562db8",
       "2b4261e7001e22955006b0a41988fafd908ee114",
       "a81ea86233ccf155d158896e2517ed8a2e56dd4f",
-      "19735f1ac1aad3b3d2a39049af97db58e87d7328"
+      "19735f1ac1aad3b3d2a39049af97db58e87d7328",
+      "fd824a9350d5c6a60f351ff28481afc615d9ac9b"
     ],
     "Automattic/jetpack-boost-score-api": [
       "8935dc7e5d665265700a2f2154d27b7ec734f333",
@@ -3928,7 +3947,9 @@
       "2b42bf797e0bf1824340252cfd0ea5e6ffaccc14",
       "9a6facbf280e010b3e82cf91dcca5a5e43319c44",
       "1e761bf9cb21ae55419572815253920e1efd837f",
-      "32913ec6adbbb5c6cb7e9771f93c47776f8c77e3"
+      "32913ec6adbbb5c6cb7e9771f93c47776f8c77e3",
+      "83072f62cdf95f51c39060f5cf574df5c2443529",
+      "00fedf2ea009b7fe272b1e451647b680b9915167"
     ],
     "Automattic/jetpack-compat": [
       "c371e2d647c0a7ab0c4ba3740c9f1e1772b840a7",
@@ -3943,7 +3964,8 @@
       "88cff127c9eab4e7bd0497283c7ad461572e8e50",
       "874c6fe8fbea814334de375d658c4f83a89cc177",
       "af9295c72d674285135aabfaef5bcb2ba89fdc43",
-      "38a04f205096a88c9fdb8abf776a1299ec983e61"
+      "38a04f205096a88c9fdb8abf776a1299ec983e61",
+      "da295b553fcdd5fdb751a395ee08619b6de0e4f3"
     ],
     "Automattic/jetpack-composer-plugin": [
       "6d6c391c7185036dfb18274a07b7ebe99630c8a1",
@@ -3981,7 +4003,8 @@
       "45e68a7242265a0e2d5157b3cfd41fe354250754",
       "d5d79d52a2b65051b2eb744191d5e8eb3afb717d",
       "ae4b996237def1a7b12848dd239d612ffd839440",
-      "11c18dedec74170d397bd5117d82d2e5a1e1f754"
+      "11c18dedec74170d397bd5117d82d2e5a1e1f754",
+      "b24279b96e97422eb012b166f8c4c223b00a42b6"
     ],
     "Automattic/jetpack-connection-ui": [
       "e8bd47419352bd2c9c2c55acbaa31cd36a3e4754",
@@ -4335,7 +4358,9 @@
       "e7a5f0a1a9325f9bb684b36b3a89d731e2878a84",
       "5f230cc803c867f08ca963ce72ac7f01881a30e1",
       "572ce134fba3b0db6e89977bec0e10779ce01ef9",
-      "a026ced172421c151f4331ad784b081ba056c671"
+      "a026ced172421c151f4331ad784b081ba056c671",
+      "51eedfc75e50da13fbe7e4bd321cd1581936a44f",
+      "5e46ae20ef0cbcbc286b49da7f693866a3b8514a"
     ],
     "Automattic/jetpack-my-jetpack": [
       "31f677ddec963627887034186d32b3cab83416ce",
@@ -4351,7 +4376,8 @@
       "cc5226be56f148689d75960c5f8f1bb10ac94d8d",
       "a388cd2324a0d564d9f850e990dba63f09e2a70c",
       "5f2b323217925bbe394ff3697045cba74a14185b",
-      "8c21f4cc2434acf26e9dd6b467b369798c5e518b"
+      "8c21f4cc2434acf26e9dd6b467b369798c5e518b",
+      "b833becc00494774703013df42f31152ce862642"
     ],
     "Automattic/jetpack-newsletter": [
       "b02724771013ceacb0fa89082a4e3811189b2ad3",
@@ -4364,7 +4390,8 @@
       "798bb85ac0ad59b14dbb0ec72b9b953c812997d0",
       "37576c82ff975e815cdcab78492d631a386643ea",
       "6247b613d91709449c4cb91bd10f88d9f215d682",
-      "7fb34db13028fa835ed90485878b1160fb1a4066"
+      "7fb34db13028fa835ed90485878b1160fb1a4066",
+      "0fcf86e96cee3485536bec470fe3832bc309b629"
     ],
     "Automattic/jetpack-onboarding": [
       "06c6c51417b95d7b766ee5aad762769b9c208571",
@@ -4448,7 +4475,8 @@
       "cefb459035f0464d9af34b2c9f87c1e1bdf12c0c",
       "99300760127e1effa01524e67b2acbeaa3203c88",
       "71dff13320e8b7b9eec55c6dcc1d3f7bcb0809c7",
-      "b65c07ab84d405ff488bebd47e8856bb2577beb3"
+      "b65c07ab84d405ff488bebd47e8856bb2577beb3",
+      "aed243d46c7f0dfa869118aa8b7dbc1b3d9503ae"
     ],
     "Automattic/jetpack-post-images": [
       "191a672b9c725014c6764ddd31533ef7cbcfc466"
@@ -4489,7 +4517,11 @@
       "40e1b39069ca4caf1f4ec873a0b1b10b011d73de",
       "97e5d7f5e182d1d5b3ce345284416f7150455cec",
       "4e4d5a88c4938030de1e2b044fe0ef6e413c7dc3",
-      "b28e1b52890456e899c1e338521307a609eaaaeb"
+      "b28e1b52890456e899c1e338521307a609eaaaeb",
+      "63da4dd2063306909e85223645503fcd99f5a765",
+      "069b7effaffe5639d2677e991871dac1746e6b26",
+      "09825af9004e7b9b27b780eed947b92a7165abbb",
+      "9bd65b43c599d8e33cce337f835609a978ab6543"
     ],
     "Automattic/jetpack-production": [
       "86defbf83896e5258cdcc7838582be237e2438b9",
@@ -4521,7 +4553,12 @@
       "318958c32f0e941a9ad2850439bc48b4806ee6d4",
       "609305b4f72ff5f1f1cda87b8e8859758c27af07",
       "e861d7bf1b9f9c57189fccda6e8ddabcc41b92d8",
-      "d80ce0787e5c454427c1359dbfaac98ff5e17cbb"
+      "d80ce0787e5c454427c1359dbfaac98ff5e17cbb",
+      "2b7fd618d689d5a934d614bead0c9857ce2f4f8c",
+      "b62669b5e67fe58aac66cc516b4bc4058cc1a843",
+      "9499221baa1122b1386a9cd0519bed48282718b6",
+      "13cf8ae965e60aaf15437499af41da034d291f3e",
+      "ce77f6cf4c7ab9b8515174f1e54e7f3c42974333"
     ],
     "Automattic/jetpack-promote-posts": [
       "f420d3db07973371e8d3a2f67a413e319797f0e3",
@@ -4562,7 +4599,8 @@
       "fda2a64410f1352d7ad44168b01809a50789bb77",
       "1243160860d60ccb45b294bc25ba115a4c0c82ce",
       "f4a39a566d39e46997ba561ea8b488639f7c754b",
-      "ace2f33c687323cb3036061385adcb77f28f2557"
+      "ace2f33c687323cb3036061385adcb77f28f2557",
+      "358a97e04a58e1629d63bd71a04f2f0e4c18ac7d"
     ],
     "Automattic/jetpack-protect-status": [
       "b644465307cc95837a181a4b04ea1fcf31e07f43",
@@ -4584,7 +4622,8 @@
       "e290a9b1889ef6bafa6dd2f79a0c5574e2b9243e",
       "5f2c08cdad23f7b8810f03261e106c3baddfd2a5",
       "25e1dfe5281df69f66dd7a5161e901f67be80913",
-      "e71f759949b32e6805dd88ab945b96e5cc05a6dc"
+      "e71f759949b32e6805dd88ab945b96e5cc05a6dc",
+      "c5cd28516d00df685c98199e07fc3a7254e53cdb"
     ],
     "Automattic/jetpack-publicize-components": [
       "2b968bea1774cf43edb81bcd9d345182ddbf586f",
@@ -4638,7 +4677,8 @@
       "80c54251dba50322b98007dd7b5a77deef79d7a1",
       "15d0a2696f171614801f77bbc185ed6290130d5d",
       "c2ad0fea3d98badef1a176a8c6e48107521e632d",
-      "6983f28117712670811779d11d07e595ad62272f"
+      "6983f28117712670811779d11d07e595ad62272f",
+      "931518d01edb5a4b7012dc419edfcad5b8a8c034"
     ],
     "Automattic/jetpack-scan-page": [
       "43e93392b86f7dc6f0401da02a44ee6ef2dc0ca2",
@@ -4670,7 +4710,8 @@
       "9c65d169aa8eafc563ab5f0aa1b9c78f2eb1abf4",
       "7f8ba2f778c968b3b448f55549f1b1a45f8daf71",
       "6a02c7f91ba948c5885cbd1daec2df2b9e62df59",
-      "dc64ac7b5e5de03d57a08a31965d7c095d40b299"
+      "dc64ac7b5e5de03d57a08a31965d7c095d40b299",
+      "e8f679a1920394077c51466d68bfe5db06667695"
     ],
     "Automattic/jetpack-search-plugin": [
       "8185aa4adef5c47e97b07cb589ef42dd49965d86",
@@ -4687,7 +4728,8 @@
       "aea9b99829887b0172554ee5c77289fb44affeff",
       "51930cdadc348c09fd35f66b3ad13e9efec5207e",
       "b73c6bd36ce2554d20db97ebe12a6a5ee299ab4c",
-      "3c4877d0312874855700f613ed3a01ef5f12502c"
+      "3c4877d0312874855700f613ed3a01ef5f12502c",
+      "f83fd1195d3b6d03df96b7846729ee5813d70e0c"
     ],
     "Automattic/jetpack-seo": [
       "b0cea67eaffe0ae2897b0be8ba47d6e7c0c60d7e",
@@ -4695,7 +4737,8 @@
       "562ab554d25299818e173e610702797ebb95bc6a",
       "8935b8b1c7e9646daa3a9e1842009386ac4c741c",
       "b5c1a2eca877ff837df9bcd970d4f2a7bb89f9da",
-      "1ab739fbce259041466d8d2f4303d84f61f95afe"
+      "1ab739fbce259041466d8d2f4303d84f61f95afe",
+      "8189736bf3d14c67cb7e853dfd3623f0120309c7"
     ],
     "Automattic/jetpack-shared-extension-utils": [
       "5f7824e7fe1ff0e95a51e41ca6e88c05e3c162e0",
@@ -4703,7 +4746,8 @@
       "ccc104d9061bfa5915ecb6b04722e6e91909f036",
       "97421e21e6401b6a9d66e92a198445f8664e8005",
       "0f9bc0bb8f85b38e7b58a0e6be69f2e46bfa2a44",
-      "ce0d19b2ec9c20763ffa5b999b1737727bdbafe2"
+      "ce0d19b2ec9c20763ffa5b999b1737727bdbafe2",
+      "55a8c1c8e60af128cec8f0727c9793b4968b6b20"
     ],
     "Automattic/jetpack-shared-stores": [
       "19732955eea83561b2699a7a63a4dd3e4dc31bbf",
@@ -4720,7 +4764,8 @@
       "0edccd12451c0019d5ea13011721329985bf39fd",
       "48279a17268cc6d6a9193acc35e43e0333c17f03",
       "f5f08c446eb94bfcafaa021f5ec02986b7145f7f",
-      "df4b440723f06a8d79d05bce5104f1b44668a89e"
+      "df4b440723f06a8d79d05bce5104f1b44668a89e",
+      "9bc8136fdff4f8a9f1903c317223e17f6f72463f"
     ],
     "Automattic/jetpack-skeleton": [
       "82f126275c7c9d12250dff9330a67484f5a7cfc2",
@@ -4748,7 +4793,8 @@
       "b68261ab7c0568b2bb541fb7b1bc880e64861a5c",
       "97db6f1ca3ac84a6c135102455f9fce786b6a7e1",
       "1a6f88462115ef13d510e9d7621fa028bedcefb9",
-      "28b9fd6ecc2c551f106b2a3749e9876f8924d169"
+      "28b9fd6ecc2c551f106b2a3749e9876f8924d169",
+      "7880e47b2224eca52cfa366848e5b244d42b899d"
     ],
     "Automattic/jetpack-standards": [
       "2931912957fcd474e68ce8878746912421234de6",
@@ -4771,7 +4817,8 @@
       "592dde6e0fc996edb25d9b8efcbd3751b99fd223",
       "66526b4487effb6fbbb592bf8eb952b04a9d5c00",
       "1f33c222a4236db4ce56c08c771ac57000fa4c63",
-      "7ce200d9012b46349797aafb1f31ad55c83a6df5"
+      "7ce200d9012b46349797aafb1f31ad55c83a6df5",
+      "770365dc9f98e3a820ca239b5c8d261e0f2e5e01"
     ],
     "Automattic/jetpack-stats": [
       "540bff7090ef18459d0d389a575dcae1fad0bff9",
@@ -4803,7 +4850,8 @@
       "5e959b80cbee8555f8b2fab56a01fba77ea2649e",
       "47d8c70a49681b23c4bac728dcf6fd32c9ce0334",
       "155b39c4c7404e45721bd454f294e8e7269f20b7",
-      "1a1dd8ab168117b6d5645904fdbcadc036f000e7"
+      "1a1dd8ab168117b6d5645904fdbcadc036f000e7",
+      "c2fb39561850d217c3697782649a380f00a86fbc"
     ],
     "Automattic/jetpack-status": [
       "8ef3cf0db1845dabddc85def13c8ec4b0f5845a3",
@@ -4842,7 +4890,12 @@
       "d820038833167f00d4ef367ea178e9301de296cf",
       "ef5dc74028ebe4461326102b2d5818d97a2d9ee9",
       "af2061f8dfd963dae74a3f3b6103b23b03549e8f",
-      "6c2a1e0ba0bf35c19097cfe12f3b5e216ec24bfe"
+      "6c2a1e0ba0bf35c19097cfe12f3b5e216ec24bfe",
+      "7afcf3a3d7b174491fcf6caa7b300ff07609eae5",
+      "d3e73c505b3fbb00b22f086429a57dd6ab411b42",
+      "0a54e549d68a85fcbaa7675050470d6a673a40be",
+      "6baffbcf5b9d735c9ea3f4fb1dfe8d6c0df2239e",
+      "f8727888fc8f50d6169aad37c503e9df099d641e"
     ],
     "Automattic/jetpack-stub-generator": [
       "ee6629c03dc8a66a94a06a374f14120195f5f74e",
@@ -4912,7 +4965,8 @@
       "b729f2f47d1be5a51bd6b12f973326e07c00455d",
       "7a6e89a7ef541927357d0e81be09cabb5261291f",
       "b49411fafd110ed467ba3d5d2e1b6823126d95e7",
-      "1ffde906e346e533d370d5b44cb2c2a6dcf77ad8"
+      "1ffde906e346e533d370d5b44cb2c2a6dcf77ad8",
+      "3e7569b8b3fe6c7b9a3dac010ec6fe8e96664f9f"
     ],
     "Automattic/jetpack-videopress-core": [
       "b2c44bcffc723cc2ea1faae2a6209a4f7d2212b1",
@@ -4937,7 +4991,8 @@
       "63a8b162cc442a8f6c64d1aacd8149d39f900c94",
       "72c3bebee4920544421fe329cecbaf500b5b048a",
       "4c3eda212360bf36abe95e61836dea7b3a68ccf8",
-      "56d4d40c7ac11739dda1e3b80fb59a77012f9772"
+      "56d4d40c7ac11739dda1e3b80fb59a77012f9772",
+      "7ce93503451ad9b85cf426ea0912b03fb2ca608c"
     ],
     "Automattic/jetpack-vscode": [
       "bb11a6693631fe1f64e4a78682ef3de4ce056ee0",
@@ -4990,7 +5045,10 @@
       "acce23ff378e980ec5c864ac051fd3e75cc87456",
       "f3987f2fa710e87b45c0e7c67aac777350f9adaa",
       "07a731d8b89bbe04318420aa5246f1316e444a7e",
-      "743d9f86f5c20fc394194f22aceb62ef47403e15"
+      "743d9f86f5c20fc394194f22aceb62ef47403e15",
+      "c6ae59ddecdcbdb9bf011e3aaf2afc7fb411d3f1",
+      "cf88aff624d1db60066144b591b0f9b9f17637e8",
+      "4b1455042e99e3209101b847e39fb39ee85dec20"
     ],
     "Automattic/jetpack-wordads": [
       "d8a7c4132a022bd940f0eefe9f8c1aebdca37a39",
@@ -5891,7 +5949,9 @@
       "b6147d7985639a3d9c68a4bd3b3b6ac0ae9a1ad7",
       "9aca0533dd9a8ca5919e5158a909453adb977b68",
       "c2babc1937e51e2d2e58987b646dc6b3de19da47",
-      "42d245b84b6ec700639f45b5ba1c2bb4e7386d69"
+      "42d245b84b6ec700639f45b5ba1c2bb4e7386d69",
+      "65f4999fd8ea87f05d2e92f0e7c3fea7fdf2e0b7",
+      "7a8e7e491ee78f5e8c727de3e22e6de511ca8aa6"
     ],
     "Automattic/newspack-event-logger-plugins": [
       "a46566b2e216845421d57d9d54c631603c2859e0",
@@ -5967,7 +6027,10 @@
       "086a971566825ba801558d7a1f9ffb7ae3adecb7",
       "ec6a6752dc6b4e02b9a1917c32b8296dbb486c46",
       "10fab4724e53c36514139b53a9750cb9270a60e6",
-      "702591d0ec721aafa7127ce76726d1a8ccd0009f"
+      "702591d0ec721aafa7127ce76726d1a8ccd0009f",
+      "6fd6be7d32661e2d06f107a1a1d50e73f6e28e6a",
+      "b2a33c3861d01f14252b0ac5bf44784344cdd001",
+      "18bccb972634b3502aed3788273213eccc0f559d"
     ],
     "Automattic/newspack-media-partners": [
       "2496c4dcd1f187aa8970694da2a6d886e6a72996",
@@ -6041,7 +6104,9 @@
       "67b2177498b871a0ab4ea4bb7a4128986f072b6f",
       "53225b99bdde544d090b15e40006bc4a88782772",
       "113b5e659d0483ae66e903bc9b515c9ec764307d",
-      "4e59d111b6558543690242dd0d0b14291ecb2973"
+      "4e59d111b6558543690242dd0d0b14291ecb2973",
+      "2ab5a984acf721b5c33ab55b636d2e29c3cb8018",
+      "ea3952045976d98c7260d65086c52fdf72f4c3c2"
     ],
     "Automattic/newspack-plugin": [
       "21d5921609c63e2de41c58b70d9ea5e934ff5360",
@@ -6112,7 +6177,12 @@
       "4d7909d1d5a35bd6d6227411574bdefa43a53965",
       "3cbfe35c9ce609b646ec061bfdbbf8ec265cbbef",
       "a5c9510c11157dcd52ed80dd9119841dc7e46cf0",
-      "ee0be4502c638b6a969f54c6cfe7f5350b42c442"
+      "ee0be4502c638b6a969f54c6cfe7f5350b42c442",
+      "7236c8425944d36b0786b89af5149668bf66d6a6",
+      "c14c962977ce1d3538d725a6131f4150a006d9f7",
+      "c54fe91ecdf3b9a882d16848d971557b1b3bc927",
+      "bc5bbd122b0f56d3ce16bafec147d3d9331f785f",
+      "3d4a19747f296bfc5d1b6bfbd93fbc22c0d055fa"
     ],
     "Automattic/newspack-rss-enhancements": [
       "37934c9529d21ce4ff3980835db08d019dc9f776",
@@ -6220,7 +6290,8 @@
       "9929acc7aa4c35c70063cec4fdabc38861983b2a",
       "9398b8d0ba1113281aa3af4ee1b627c0c6022114",
       "8ea05d1859e7f58d29ce26c27270da9e0c9a27c5",
-      "a8799c9b30c8765c244ce12a205bffee6f0d360b"
+      "a8799c9b30c8765c244ce12a205bffee6f0d360b",
+      "0f934cb926c9d494f81e7ec1cdb15f18ae1c84ce"
     ],
     "Automattic/nginx-http-concat": [
       "0da030b86975ce8f990bbae246a0d7c93a20187d",
@@ -6716,7 +6787,8 @@
       "0d26437b159381ab76b04049acfc237dbb9ab048",
       "626e5c278af37a88b5bf6e3e1d357406c4d34cbf",
       "f04c13e991bf510c6d17658ae1c90c24149fe370",
-      "55d82a3e2581c10462147fb29945a06328ed53d1"
+      "55d82a3e2581c10462147fb29945a06328ed53d1",
+      "d47ba140ed3071673edd3a88d5e7ad8e250bd62d"
     ],
     "Automattic/pocket-casts-fts-benchmark": [
       "c13452ffe72b6177a16bbdc9f5bf23e031820d57"
@@ -6737,7 +6809,12 @@
       "eb6b7178588241cafc995c9468b05af07e29d42c",
       "c4e57805409a508dafddd737bd849140f5ed671f",
       "d6e6d84e4a5c5732ee42f46560df0d9ce51a7cd9",
-      "b4a46fbedf89ba4d49e00ab86431d63ffa5c4a1d"
+      "b4a46fbedf89ba4d49e00ab86431d63ffa5c4a1d",
+      "3e44a0aed6aab8366d4a287f0b03e32bf31256a5",
+      "c4c7ec09b347c7dea617fbaabca9685c6bb0949c",
+      "dd8442e11201ac64385d39c9db6dd5898a6777cf",
+      "ba97c7fe5581f3387bb4d10bab7f3a8cd58a5564",
+      "ca842c8e6749023a5fa0d31c5f41bf5360b1edc8"
     ],
     "Automattic/pocket-casts-ios-fingerprint": [
       "88abde829e54002e8d3a9428c7f0acce8fd72304",
@@ -6907,7 +6984,9 @@
       "988a51711ecc24e56303e83a4fa4c065322a3143",
       "5cb4f2a9420ff3153dcf5227f3e5e7c9c0970911",
       "239e2857405e87018f513dc774ddf7d6c99baf8d",
-      "28338ad39e25ad8e52753ef13b96c62b1b4fa44c"
+      "28338ad39e25ad8e52753ef13b96c62b1b4fa44c",
+      "e174e17eaa5dbba928269682b65e097006fd2a21",
+      "9214492b2f7811ba1dfed7f1e4327c77f792b4c4"
     ],
     "Automattic/radical-socials": [
       "eea716c71a0ed40b6e5c65ee2aa1e65fdbd53f0b",
@@ -7347,7 +7426,8 @@
       "9d04ea89e3e84cdb01c16d73988c8004cacd6b54",
       "96782e6115e9d6916e0b9884b3a8a60a197c4cb9",
       "96bce8af37600405a753e16fe3138055532acbc8",
-      "2d4a6609bc5f0c88f52732f6df2d99069f9be985"
+      "2d4a6609bc5f0c88f52732f6df2d99069f9be985",
+      "e9e676973d13d7b48b4d035ba701385c1046c822"
     ],
     "Automattic/shilling-2025-how-we-roll": [
       "714737177801763266fe1978308b3dbdbb28e905"
@@ -7554,7 +7634,9 @@
       "58800e59ffac50bb6a506c7f61304c1fa9d06dbb",
       "010bd651da44bfba8a3a67883b1985c92555c83f",
       "8d3d60c34284ad835e5e948d8fefb894bec2b34c",
-      "6c795c40f93f5c801c73efd8f9cbf81381d69710"
+      "6c795c40f93f5c801c73efd8f9cbf81381d69710",
+      "271b777f0ce3d7e2baa6cb2f40c25e8c2d67a9ec",
+      "e3ccebea8987bed498aefe19b9da9fcd37db6379"
     ],
     "Automattic/stats-agent-experiment": [
       "166d4bc6bb2ef5dbae048a343185a621738e0f14",
@@ -7620,7 +7702,8 @@
       "467de7b82ba88ddb26d0e35580c70e778453a026",
       "2ae368b407bdf8cb5ada51287d3fe7798bb09e46",
       "6d2a5f34c413c164a28a740a45fe958a4c92b5ee",
-      "76598dbc760b06a4ed8bb7f53b6173be59bd8190"
+      "76598dbc760b06a4ed8bb7f53b6173be59bd8190",
+      "268b2f7c3362bb5baf183cd01305af6e6e21a49d"
     ],
     "Automattic/studio-demo-site-companion": [
       "052cc68a7a098041bea00c0241b0407b5bc4b41e",
@@ -8076,7 +8159,11 @@
       "5e6503d285b08b6a2b94121ddfe0a8ec7ca6f6e5",
       "87d28e03799a29d06fbe741f2a8cbc34ce0d367a",
       "55d481fd079d596d753fad1fa4a625cb8134305b",
-      "24aa94361faf1c82b782cf9e172f10e422e0dc94"
+      "24aa94361faf1c82b782cf9e172f10e422e0dc94",
+      "8a7740be2b017deacfd7fec320aeb56bdfdd077e",
+      "25a1274881d883c38106bba3667f26a80c1a11c0",
+      "8976607c5b36a9388ec92b731936d7e075185ea0",
+      "2b23598d89839c6123b641d0ab9bd6401d8e0ea5"
     ],
     "Automattic/try-wordpress": [
       "c307a89f91643ac26a5ea7ee82a817c569114369",
@@ -8240,7 +8327,8 @@
       "96d6a1dd09122ced17ad75b2ff38a0f8ccff2b43",
       "2b84c8f5c4de1e5b440cac12a1406ef76a66e388",
       "00b5627052b07a3ef46c7984dad14727dde2469a",
-      "3861aff169fb56c306d54bc99a7214bdd7a69da6"
+      "3861aff169fb56c306d54bc99a7214bdd7a69da6",
+      "6bf9fde7ac8acce516488384357e3e6fb28669cf"
     ],
     "Automattic/vip-admin-ui": [
       "b975fade66db44ca9be52a2fea7ad5491f3a591f",
@@ -8287,7 +8375,9 @@
       "37056a1302ca8a8366fe59b43080f5a2b3a0b50e",
       "f37bae7be678521bc0742803cdd021b5d65aa8af",
       "8bab32aef91f37e4cd2d2b058cdb4ae8cd453a51",
-      "f910c1681d136bf9c5e052664f70d15cd453378e"
+      "f910c1681d136bf9c5e052664f70d15cd453378e",
+      "468c643c229d390afbf751917788c79a63ccdcc2",
+      "def870c4864ab6f3c66b5dbac10fea6b7892f823"
     ],
     "Automattic/vip-cli-llm": [
       "4e7f5a0ca01294352c975f24480eee7b453ed6c3",
@@ -8461,14 +8551,18 @@
       "52097f925d8e1d40d220cafff7ad38e0107183fb",
       "fe72b3f3df826fc1dde4e5f53dcef12b387cd9ed",
       "537fa635ca5138319448adf5d1b8a5af8236ad88",
-      "3d3abace97fd97aea1add93630e0a1536e70ebea"
+      "3d3abace97fd97aea1add93630e0a1536e70ebea",
+      "7284c2ae23cf97c44a8b7aff6141e683e2e1012f",
+      "ae2a5686ce2ecf8ddce029e5f7e8dde8cf758552"
     ],
     "Automattic/vip-go-mu-plugins-built": [
       "1c93e45d81fc05e9bf1d3cb7ed2306cf786b0578",
       "69e3845c907e5ed4d27c229e1d51127cb2d4348c",
       "27faa8cbc303566c55c08a75a2a3177bc828fc3c",
       "49a09d6631d47d9e4a8fef293caac8debe052b2e",
-      "1ec78f4d1ed20940fb89f496f86e02cea923d73d"
+      "1ec78f4d1ed20940fb89f496f86e02cea923d73d",
+      "a437288d47441b687f471259d71fd9ea67131a65",
+      "72f92a48a8f2474c718ff65204640ca9a3777a23"
     ],
     "Automattic/vip-go-mu-plugins-ext": [
       "808d1757eedb25ea2416b64b407e54ae4bab901f",
@@ -8531,7 +8625,12 @@
       "555c426d1e9d88397135336229241b4801782d62",
       "7a62b257ad55b029c2d24a27247131b93a854eca",
       "7e695ef8ea6c44b84c5f1ca6e35d173ed447e640",
-      "1360f4b387340b42b3d729f305177aa38906380a"
+      "1360f4b387340b42b3d729f305177aa38906380a",
+      "95d67284bcc14d18c13eaf657387bb16c6484111",
+      "f2d06e2258b394566e7d4baccdc8f9b8ee54b1bb",
+      "64985410b7d979a78d2f0563a3f3229d320863ff",
+      "b3f49849098d0d1966dfe2eae6e00143c0768a3e",
+      "73b782f655f4c9d7a84049f93e69c85c333b140e"
     ],
     "Automattic/vip-gold": [
       "03729d27d73837c27b9b440e85bc8928ec4d1994",
@@ -8587,6 +8686,158 @@
       "4784ee53fdc31f1a3e5ec215004a00a20d4ed184",
       "c4c6e2c37c2ff5ca554b030007c52f2b6fdc36ef",
       "4150be350152448d3b48b7abf2e8ace1999d6175"
+    ],
+    "Automattic/vip-layout-patterns": [
+      "2aec21a0f39c312992a03d4db38a43924492c9bc",
+      "617279e9b966b4abbf9746b4fbb8a69e9ef43190",
+      "e88dfc2d649871dc834e218d4b4e971c46db502d",
+      "ca8575ad720327bc44bac9927209d7dc6500a340",
+      "4edad82fb46b13925ede1a90e4d591b6ab37f707"
+    ],
+    "Automattic/vip-learn-audit": [
+      "2567f1bfab2c7a20058b1712148666644fcf57da",
+      "0fde3dabfa29c0ffff180afa267fee3c792c8415",
+      "0c7d306b87da2b2959bc6ec5a2f51bd4446b9c08",
+      "f30bf983829c89efc4daa1ce4d90d44ff86d0a6f",
+      "4b4f543b81bdc497c1cc8d4faa855313267a7617"
+    ],
+    "Automattic/vip-learn-private-student-notes": [
+      "dd158d5fdd83d1114f43a25e589c3dd5e53f284f",
+      "b29edf59f5a1aebeab68b64b6fb95890d511894e",
+      "1855c272658864909a126db587debdeae77d8ebe",
+      "20d2fd5127cfce192e81a2808e299f1aea3ca588",
+      "d794b2d4569ce25cffabc5c772fcc1be59e45367"
+    ],
+    "Automattic/vip-learn-rest-api-demo-plugin": [
+      "7bca50e5ea825eeb9128b981cf082515f78d3122",
+      "23231a9826407ac572a7d0a26a64ffe0ac474a7d",
+      "d3cc0ec8980a7391730dbf6303470552cccc0a67",
+      "9b8aba0822c6e8e566569c3415f534cb0e858ba2",
+      "1a5807fcc6e48bf5486400526047d4e6631c0d37"
+    ],
+    "Automattic/vip-logs-elk-pipeline": [
+      "7a8129411cb72380bda6439e801c35a82f61bdd3",
+      "a720c540ba082df8aec04fa7e4af8abb4441851e",
+      "77167631ba4806d1a94067f36ee260dce9194bf2"
+    ],
+    "Automattic/vip-new-device-notification": [
+      "cb7158e1b8eb61717db40199148d5bc9fd83f8ba",
+      "f1bc5f7402df3818ad7c7eb6a8fe1e5ad6d60926",
+      "e5a37dd40f8127dc78a6f61bdf2970dc78464d3b",
+      "c8331dd529ca22e3a08822fa17b11d5971a192f2",
+      "905a762c97b95beeff02e8bdc02c53d2c1e8d701"
+    ],
+    "Automattic/vip-node-action": [
+      "682a001958b20b6b33a971e41d84abe672bcf33c",
+      "1901d1a80807bb0bcf16ab0dcf633bdbbc2a4eb1",
+      "2d9749da26d65f2dcf211de037ddfb370fb55d11",
+      "21e5afed10e8ae3f3c1667f205b3101e90338f84",
+      "3592e2f2f49e87835fed6ca463aba4e1f464ef00"
+    ],
+    "Automattic/vip-pm-handbook": [
+      "8364b8e137fd5687381db8c8996675e04b57620b",
+      "5f54ed80e4a5ebf4b4d1a2a8473d325576cafb7d",
+      "451528ef7af295e97805f2eabc94e0e5637864ea",
+      "99c477a96322f8da9dac206425414d65172b2ad0",
+      "651b60f227503874100b96c9e6509ac9dfb0f7ed"
+    ],
+    "Automattic/vip-quickstart": [
+      "c609f469713910e1b13d3dd009fb994b87a21ee4",
+      "a714a8d812a36d4c05cdbb6f8c505310122a6406",
+      "82795819c52519269cb172fe8c74fc0d264a52af",
+      "68720924acdb99102c862befe98c999312cc3dce",
+      "ba78120312a39f48ca1c283f57ba580a5ca70cd2"
+    ],
+    "Automattic/vip-quickstart-skeleton": [
+      "3fa741a65053cd7cd64dd8f1e640700c62026b8a",
+      "b292e700dbf7b7e43c0f1de8814ff9df989fe657",
+      "6830e2543f0f85db4c2bf080bda781b71553f748",
+      "09409bf2790030093c1bb89645ae59d72d612bcd",
+      "51dfca28934029828d8056209bd9db190e8bfa00"
+    ],
+    "Automattic/vip-real-time-collaboration": [
+      "42f2183455faddabf28528b50f562af901c763d7",
+      "352a8641871ea48fc4b957a8669cfa215a11eb6a",
+      "3bd9482b4c70f2140f5d3b65b1959dd6b5466d28",
+      "945c3fcb9e8c729ac33d29dca27b4fead7ce00f3",
+      "a7797ca5210720bb97ca7fcb50542d3be719b958"
+    ],
+    "Automattic/vip-redactosaurus": [
+      "61feda355daaf27888c1307a3d8b2f821c997944",
+      "81e537089b56f1a592679bdb402766d3dedc10d6",
+      "d8079758fc9753ef5a9165a948782240ee1ba701",
+      "16530db03b9ed708985827e45fc42a4b6f8e90cb",
+      "03785d02cf09a3be86797caf5a541007315d9a97"
+    ],
+    "Automattic/vip-rtc-release-tracker": [
+      "cb2f82660aeb6ec4ca38842265b665208af8c57b",
+      "f2c51f76e15b944e604ec79693b8f7cf6d23f0c0",
+      "b024ce52c0b101b4cadd2ae6ffcd397340e2743d",
+      "9dbb7017691175c62c16c2d8b1605f2513b292c9",
+      "148bc6d2cd5223ca3eec7ab73df6ebd168717032"
+    ],
+    "Automattic/vip-scanner": [
+      "09f6c33ffed674ccaf0c8354c60ac259f8710c0f",
+      "269385962b5fb74e8da926054209500af47a226d",
+      "f222eaec002db050864dd7e0a3b7e7d7ac2eff44",
+      "a0fc1a39b49d9f1f54e0849fae6a701b6fd8d0ca",
+      "4337110173d19419af7858702d5e3f4de992ae0f"
+    ],
+    "Automattic/vip-search-replace": [
+      "0082be33fa43d5b40375ce4aae1ffe02942a641e",
+      "d74fee7407da15e2d89bf98999d2fc6ff67da149",
+      "05817b9494c457ea0da04da292ead62f8563fcf8",
+      "92c60b9f7bddf26fa9a66648aa44693fd583286f",
+      "0aa2de0a0a1c0cdb250919a742a67a1dfe9fe876"
+    ],
+    "Automattic/vip-security-boost": [
+      "ef94cc5098d520e007c3a4c5b9baf7e1d3f87be9",
+      "b0f3918110b5289bc3e1743711c5b725187fbac6",
+      "82889b58a0a8355a7d487fdde6472175fc8f0504",
+      "9a9f6b7dc27ec0701cf4d8d1a9b8a232930ea54c",
+      "a3779b5fd69df34112132cdc212744c4ac6b15d3"
+    ],
+    "Automattic/vip-support": [
+      "d80b34829275d3445bb4aaec40a99e80c92cde39",
+      "849100c45cd5610b67d0e96d633355358d5b9108",
+      "ff3a43ed42794d03189bacafb8368d6388f03fb8",
+      "0493733006a5f632fcae980910ab12a90c468ac5",
+      "73fb337f7ca8423673a059b65448ef62e7da37b3"
+    ],
+    "Automattic/vip-woo-membership-addons": [
+      "11c356acfb9a54ffb5d9918d234a025eb3352577",
+      "857fb6aab62dcad2d86b57853d5504438ae62b4a",
+      "fca48c32f721d2ca5a5e6460318f0ad653b4e74e",
+      "36c15d001769dfc46fecaa507a47c3f39faa892d",
+      "b40550fc3a3561c6b683cb3b9085cfd120cd2b89"
+    ],
+    "Automattic/vip-workflow-plugin": [
+      "148b231e1836fa7d4015d684460825ca302ea3bc",
+      "5a147d1aab8dd8db6254031fc08b8fac9f1aacbc",
+      "4c01970917dd5854999f609e838fca3cd5121377",
+      "9bd82c4f8e7449da177caf445f5e3e24260d6eb6",
+      "e98e6368abe2cfaf51b99d7238a33a7b938c3694"
+    ],
+    "Automattic/vip-workflows": [
+      "77c27f16b5b564f67391ec7bc1028fc987c8021a",
+      "e9b3c9f697b0f02cc7aaa9a98c9c14b0b20f38ef",
+      "32e628f3773e59910745ebc5e7b5ffea564de244",
+      "7ca867ac70e9f523479a543ea7afef42d2f05d83",
+      "f93108eb9dc2f4c5fffc0fcb6b38933f93d7f3c0"
+    ],
+    "Automattic/vip-workflows-extensions": [
+      "abb1f87280b92f5595514e48c0582d08ac144fe2",
+      "786b722a267ba53cf424cdaaec4558fa30fac2a6",
+      "0240420962bfd1ff1dc087e4c9064a44214730e6",
+      "7dfbec22628f59a4e5263cb5ad90e16aa2776b79",
+      "6b9d61df0cdaae5f0a902cdcbf27762b2b6c48f6"
+    ],
+    "Automattic/vip-wp-admin-dashboard": [
+      "3807e0e4a8c5135437d91b9ced6d3bfeb1a09e81",
+      "c08acacb400327a424d8a136d219278afc8e1768",
+      "4c303ff44a5284e1108bf1a8dcae81a575640456",
+      "5ed538ecd4e751eb395d57fb68997f9f941bbb37",
+      "b77951837c31c63529c12536761ede670dc9b6dc"
     ]
   }
 }
