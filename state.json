@@ -1462,7 +1462,12 @@
       "f84b4c095734588572941b436951f632f1a9f93f",
       "596ff50d1a2b6caa2255396ef64da4b36c130a2d",
       "5a12e43a787c68a6ba6a90ccbd0644e5c6a69848",
-      "33c46788afef252b192de7620062b4d08be7c4f7"
+      "33c46788afef252b192de7620062b4d08be7c4f7",
+      "8dd64459d9487db6312d7434d3168e923306cdeb",
+      "708b637cdfd260baa58057352f38cf7d117b2bfe",
+      "03f44b29ea6e3113479f1b3626c207a49bcfc3b1",
+      "4644ba4e5f3a1593b1b0e9c71b33cac07f7a15e4",
+      "70059b23a6336000d5f5b6f6b71b8ce68c9c30f2"
     ],
     "Automattic/blocks-engine-php-transformer": [
       "23cc29f2da29df5adf7863b71d713252bd232c46",
@@ -1521,7 +1526,12 @@
       "db9949494e8107be4893a347d0d423c986325f9b",
       "56017bacf092114a75e97353a0a2e534fc6881e3",
       "07274755e0d5e99e5f647dd61295df049661a0a5",
-      "38648ac4323db1fcef84033fe202f0e6db71bcba"
+      "38648ac4323db1fcef84033fe202f0e6db71bcba",
+      "80070c5418496a215d4bc865ed8e1737aa417792",
+      "8303c516bed26eaeddce57740db5a4f12c1087f0",
+      "7f3f231cdd96d49d9fd2f0cf6712202b729ac41d",
+      "b77eca29a69cf82b6f4430a820d9349abc266391",
+      "7dbc5d89bfbd9b152e113442e5105c07300d7ace"
     ],
     "Automattic/blocks-everywhere": [
       "1857fcca96989bc58c57db05a70712c2dba0e0df",
@@ -2409,7 +2419,12 @@
       "1376c193f174898e6735fd677c634980cb708e03",
       "0f35f1c5a5d046b3a9426162e2c6e90be60b1a00",
       "a0e87ba65b18cc3658a9562c1c3c81cb2cb8e088",
-      "230a9b026b233b98ecb0004db6b404c55a22b7ef"
+      "230a9b026b233b98ecb0004db6b404c55a22b7ef",
+      "294250ae396b5f34d3354369c4aacddddb5185d2",
+      "ef064f822e1f4db98d86795a25adf0c304053ca9",
+      "965db4210593107007b298fa651f68c9b55323be",
+      "3a5943c71efd6cbc3301a16020de9960fcc0ab10",
+      "77783e34577e0f3ffefd3bbd4d069080e12416d2"
     ],
     "Automattic/dataviz-blocks": [
       "e0ec03b6a614ca85c5461b38bd8df8589c78fe9d",
@@ -3939,7 +3954,10 @@
       "05726fc8780c9782acae6becf647d863c97f7867",
       "8c86d6c98588d92c70f38a7dba25936db2e3e27c",
       "93611623cde6f7c99997c24b7d286abd401f2223",
-      "4a858033e2891044a843a04b474525de2c1ab5b9"
+      "4a858033e2891044a843a04b474525de2c1ab5b9",
+      "a1ebaaa9294c90d4a475019e31fc9592a7544cf9",
+      "bc848f84a6f866e1edb45a14c2958fc91e075940",
+      "997ef4d613b2327ee385ad80cbb07f03c50b6e6e"
     ],
     "Automattic/jetpack-a8c-mc-stats": [
       "5e7f8613a1aca06564f517a1f3567dba1441ed06",
@@ -4887,7 +4905,8 @@
       "606d6d6aa58498142bfe1e231a7aa28afba898b9",
       "fa5433e553d83d1620a33ac43196b53d5e112d27",
       "883fed9470bc29bb3ef242a2c15740e8624c8bbf",
-      "daa1d6c83203e0d9a5f37862c5c4fb8418ce0538"
+      "daa1d6c83203e0d9a5f37862c5c4fb8418ce0538",
+      "8e1cfef4feb405c6cd505a36cc3e158946cbde5a"
     ],
     "Automattic/jetpack-phan-plugins": [
       "20b27e608c05b9bd5e90b72486c797cfd44da3b1",
@@ -5071,7 +5090,9 @@
       "ab845a2de7f1d52a641061125c995415d931ec35",
       "8c7a40e5764aa6f09ad5d6eedafc83a8fa41006f",
       "ade1d29388c138610d81b7b0943a8db2694aa574",
-      "e85f97737564ce0c7d08a9296b0f9993af7ee593"
+      "e85f97737564ce0c7d08a9296b0f9993af7ee593",
+      "2f17a9a5387aa43e535d8ed16d5420d6e8f87462",
+      "adf8812a7d40f91d40fe457fdebfe3ee6cf00d8c"
     ],
     "Automattic/jetpack-promote-posts": [
       "f420d3db07973371e8d3a2f67a413e319797f0e3",
@@ -5549,7 +5570,9 @@
       "acdbe4efd3db7213135027eb68bceb9e4466fa6a",
       "40219f37ee4a7cf750c7420c38657800b55028ba",
       "d3e9f2aef17d5ba25bb97b3a95020ad934ded2ab",
-      "42b98ee59f72c9968985fe45f5336ec69dc27f10"
+      "42b98ee59f72c9968985fe45f5336ec69dc27f10",
+      "3ca55f64ee2c58d612814451431b3740298aeef8",
+      "d0edbdd755bb18cd281d162438837b608a3f1387"
     ],
     "Automattic/jetpack-stub-generator": [
       "ee6629c03dc8a66a94a06a374f14120195f5f74e",
@@ -6238,7 +6261,9 @@
       "f9ecbce61bdf25bada740b6de3da3a20ac54542f",
       "53ae9c029f44c5da61db113c90710806fee6fc7b",
       "e165e99df8012464ba564903149fa99917eacc76",
-      "8514abdcc11508d27bc7b867c21dc260be385cb3"
+      "8514abdcc11508d27bc7b867c21dc260be385cb3",
+      "6064cea3ef301982e82e60161b4e808cd38ce760",
+      "cb24a9ca873e8b3b1455e1e32453ef161610a4e8"
     ],
     "Automattic/maubot-github": [
       "b17a052dd175ad7cc2a424d13ecdec6846d9667e",
@@ -7115,7 +7140,8 @@
       "80554ffa2a140ce438aafd8d99a4ada29b212e65",
       "26d953c282dbaa60b64907c9eb5515a4e28493f5",
       "a3f5e331d58c83b352e5aaadcfe7511b7437c634",
-      "055fefdd555c81ed2a7c9731d2722d8c6ea3af52"
+      "055fefdd555c81ed2a7c9731d2722d8c6ea3af52",
+      "3b831e3016d4ff05620cba2e90fd1b672046ac6a"
     ],
     "Automattic/nginx-http-concat": [
       "0da030b86975ce8f990bbae246a0d7c93a20187d",
@@ -7382,7 +7408,8 @@
       "010690f55df637fb6b6dd3a9f7d1e62ae0818b74",
       "fe00d7f02ce4bc3363da1f11a6a42319edee3339",
       "e755d5af226c3437c91993f7f1124fa73f292ae4",
-      "34a64242ecd11f6f61eabf132b09543352a2d5c0"
+      "34a64242ecd11f6f61eabf132b09543352a2d5c0",
+      "3a091f2aafcb4ce18b8943c2e90a25d8d8367cab"
     ],
     "Automattic/paypal-payment-buttons-v2": [
       "c7778d6396401c0d366b00e49bbd2865bfd1d71f",
@@ -8583,7 +8610,12 @@
       "332f4c764cd26ecff2bdb02e5f92f3df25fdd0a2",
       "2f0875028706a9fdcb416e3048181f871f18b651",
       "6a07021e6c87f2efd0bf107a92ee24104789c1ef",
-      "5b37937261871b2cc08b7b65cbc4288e03963a36"
+      "5b37937261871b2cc08b7b65cbc4288e03963a36",
+      "87c2c19c40aed92f23542d30d5c1b3ed011a6fef",
+      "ff20bf0e214aa01d101f34322671b6f8e35893bd",
+      "b604e472d2f81804e1f828b49e0acdf8595ebbf9",
+      "895588bf1e5610c250db3d73f2d1c39f29b2868f",
+      "fa0c9fb8dd619e7e645bff6f1b7d26c3cd8832b8"
     ],
     "Automattic/stats-agent-experiment": [
       "166d4bc6bb2ef5dbae048a343185a621738e0f14",
@@ -10386,7 +10418,10 @@
       "0656c48d457bdb2d556991d93df141421b32c571",
       "67b56ba77df9c205998efc3ff9de1ad9d44e1288",
       "0f39ed5d5f7c760552171e29f43d34fad6cb9b8a",
-      "f90eeb78212a9f51ec5692d586c9b7d8028d6527"
+      "f90eeb78212a9f51ec5692d586c9b7d8028d6527",
+      "e043aac1c886c37e825310f23eb976a07f5a4d98",
+      "22b70005646dd9345648ee9e08ae1116a5c9a51e",
+      "8fd743e3d5ec32a2080004d53482f1681f3c0726"
     ],
     "Automattic/wp-calypso-bootstrap": [
       "28a8ee926c867355a781a6865cfa3229455ccea4",
@@ -11405,7 +11440,8 @@
       "5899f2208807f65f400476e9d29fd6486d303f5f",
       "d16f229c4a5e0b1caebee416f1c287019e719ad6",
       "e424dd3b6687aa4f242522e3368773a3060f3d7b",
-      "d4e8f3c6defeff8d1f342060c8f9d34c15d4597c"
+      "d4e8f3c6defeff8d1f342060c8f9d34c15d4597c",
+      "51c0ffe2d398f099f0e3e0cbfdd4868336f8a6da"
     ],
     "brave/brave-browser-snap": [
       "4cfe14b9bb1d4ba3a2d93e4486e6cd1b8da260fc",
@@ -11452,7 +11488,10 @@
       "158f883d9980c85549fad47ab0518292e97e2406",
       "94c97c261de92d15cadbb68c86b6d7c270815ea7",
       "2d3ae460589c020a62397291e52c4751958671ec",
-      "bf6a94f19a9f75712c46de3ef8a7b64ee822bd3e"
+      "bf6a94f19a9f75712c46de3ef8a7b64ee822bd3e",
+      "46cfe58223924f363192475396dcb196ec29423d",
+      "c52d9bc2d0ddc4ad18d9ac40f3ccf38e39f7c85d",
+      "fa4c88744d1685cc7f3601aecdecc6c8d704ec68"
     ],
     "brave/brave-core-crx-packager": [
       "79a7865bf77f3c3d08c79ba407961c802b4ec582",
@@ -11639,7 +11678,12 @@
       "1d9f03f37ded736528d95815b097601d29ab1e0c",
       "fac2c63ff869137c75c614f1d9357c7b53f74bf3",
       "19d01f8e8844dfba1d31e540fea18aedac53932e",
-      "8615850d9eebc2d6f58471cad8377f88cd4f26fa"
+      "8615850d9eebc2d6f58471cad8377f88cd4f26fa",
+      "d09cc832db5c3e996ed92cbccf0876c38b248d87",
+      "545c7d15df9ccacbc687fb961d0c06043306aaa8",
+      "cf920ff60909b8b970ef45b8b5f0b48e659b02d6",
+      "2bec61679c4ed922423f0b4fe361807dcc26c6ec",
+      "9e073bd3dd805d74f5464b20726453432f9115c4"
     ],
     "brave/brightray": [
       "d730b79e944b0342afd2968e60385a01e243872a",
@@ -11735,7 +11779,12 @@
       "f901af6290863a6f636a3cd3cc7123b3de00ea37",
       "2d7662b6777bc58b2a7152b466c3f2a2c87e0154",
       "01fddffa3acf943db59412d1cd24815468a4291d",
-      "3bad2ecb299a7253d046f1d9a6facf7b0843c35a"
+      "3bad2ecb299a7253d046f1d9a6facf7b0843c35a",
+      "cc39730e1879b03b9d540977f11aa06d0c504449",
+      "bfd94b901c0a5d1bd1557c4c054fef4d4254c592",
+      "2d122454f206cb017db52ef4d9929ea8ea9b3aa1",
+      "10a9c323bcedd3a351398fcb10dc480514a5de51",
+      "6e784016bb79fd881aa3b854a82376cc580154a3"
     ],
     "brave/chromium-releases": [
       "21ea0d3c72cbd02264b2d5096d2bd709fc802b20",
@@ -12962,7 +13011,9 @@
       "75e7200663f4ed468d5d731604f834432cca92a8",
       "05ffceb9125e1b9d3d7f565e9e1079618ab067d3",
       "f239ef5e48134d1915c4060796c84dfe55353238",
-      "663301eb4efe45d06787b2e0d6b98b17c94df32f"
+      "663301eb4efe45d06787b2e0d6b98b17c94df32f",
+      "331a061d2235c5598662861900d7141756c03729",
+      "290914318d2057b07c55dc04a0e12e4fa9bd00e6"
     ],
     "brave/wallet-standard-brave": [
       "6c7c19c59744ef3e61cfa483a2741be439996a4d",
@@ -14008,6 +14059,441 @@
     ],
     "hashicorp/docker-sentinel": [
       "9ceb7b0518a2ecf6d32bd73b5dec75a6815e9fd6"
+    ],
+    "hashicorp/docker-vault": [
+      "ed323958b3c65c551e88424fd7352d99afe900ac",
+      "94ac7beee1f107629ed6466834f8ff146c162e9c",
+      "6819d49d9c2155c83c1483629980d004f87fffb6",
+      "152f49d818b2764c437ee1fd20ee4d13791a8296",
+      "8fb443813ce38f2f101149c91df58716f6f166ab"
+    ],
+    "hashicorp/ember-asciinema-player": [
+      "68a67ac838ed10689bf72202f192d57d7940f4c3",
+      "0461fd1d78962029d3e7ca05ebf9dd9e5042af64",
+      "09db104dd1db96348351a1cf50315cd00c3189dd",
+      "9dd2072b3f8ae0ff1015965c99bcbf493420ec88",
+      "e047a096039cff70234c232efe75dcad74c6358a"
+    ],
+    "hashicorp/ember-basic-dropdown": [
+      "4596ed5475c47f90038dad44dd11c0dac6e34d12",
+      "946b4ef51714eba56a5c94fa9db4e7cf3103c9b8",
+      "6243c7c7790112d6632692a600781e7092a3eca6",
+      "224139cb230ec8b7fb520a22f151a1aefa4d3dae",
+      "3823ebd3ef44b5766d2bd6271c79f5af404bddb6"
+    ],
+    "hashicorp/ember-cli-api-double": [
+      "f720377e8884781edbcfcfcec7d00aa8bc519d14",
+      "4e774d4d8fc8a75212cb44815429a03ba2e61058",
+      "d4bc57561bf01b9e808b886021116b7a7cbb939d",
+      "e304d10f186bde08a16833ebf30641169fcfbc3a",
+      "b5e8e906c76fcec9cdb633538d69fb017426d855"
+    ],
+    "hashicorp/ember-cli-rails": [
+      "390163394199147201b1d67057c86557b643492d",
+      "65151441749adcbbbfb95b1aaf1868a702f384f2",
+      "d5b19df706695d3a0a822f6f0fb5ef37e152840a",
+      "eb0c154fb3a42b8a86accc5b52842e54c8053254",
+      "22a4375c2ecb1549281cbd92b7fb2cf0c0be9989"
+    ],
+    "hashicorp/ember-cli-storybook": [
+      "0a1d63e961a77e2e153b0c6baa148bdd76f47736",
+      "2277af1163e572bd34f061ee151ad95aab1062aa",
+      "8805a4bc97540f8cc7c8683b3d5bb0c64cb5cdd0",
+      "9f693aa5cbb4a881c14f45de62eb9bd938e4184d",
+      "53c3948cd966489218893325ae9a12fed5f82ec0"
+    ],
+    "hashicorp/ember-launch-darkly": [
+      "726ed8d181eafd99d3eecccf9636a43af5f8e6de",
+      "4a1fe72966c1a36e232d9e059b53797169fafd73",
+      "85ce0af7aa744c943aa970b7b832ff90b98c50b0",
+      "574ea60e2396515545abbb0552aca8e23ac898ce",
+      "460a210c5432e04ea6d888608b0b06bfc2dd515d"
+    ],
+    "hashicorp/ember-native-class-codemod": [
+      "aeb411ec1d0c06b04592d991772bf92053e4f623",
+      "ed9d5209b9bb55029e16d4ccae1c26721a6baead",
+      "a8e20f3eb6bccce8efd63c50aa592d997892824c",
+      "be90d4d7b5bd969dbf14cafe1125f01329a3b6b2",
+      "c826c0a29e51c35b8f935d8abc50d4296213472f"
+    ],
+    "hashicorp/ember-octane-blueprint": [
+      "cdddbc2f059c8ac69258fa953046d8808a76f0ae",
+      "56ce4c94555a7f030eb6c8000f1fb2c1375fdf02",
+      "010d202b0c12e32777c769a0d8a1b6140c5286ad",
+      "1ed100f1cc03694cc1036a67c0733a88abf32b5a",
+      "3dfef4234a1493d74955b9338f1e93142b7b6697"
+    ],
+    "hashicorp/ember-pollster": [
+      "6d2a8ef18806d10fdc9bb7346191dd397b166465",
+      "605d82e986d829b098667e4a5e221877a4ee4ac8",
+      "f80834d184048a6a9c7c46f52fcf80553c61e5e2",
+      "5de17754a58321615880b1681ac7b53c46f559b7",
+      "e3075e615d23b60fadca57d70938d184550c3e5d"
+    ],
+    "hashicorp/enos": [
+      "efd339da23a040f6a0689961875fb9a72771695f",
+      "65be7eeb468f944872fe0bb7ddc46dd220f807ed",
+      "e6c21e98158aba7d23b041675e3a43ee6621f8ef",
+      "c816361ed88f43f0143220028fcaa3a9b90dddf5",
+      "7b3b7c2e2085c5f85bcdce084fe50c0f01d59ee2"
+    ],
+    "hashicorp/envconsul": [
+      "217e0cb0ee066e13fc3fe0e7458354ff9afaa2ac",
+      "c3d274c834445af35139bdb082261d15e6d3b378",
+      "43f72e275f6cf2deb94ea40f179e393e75cd6000",
+      "7d9fe2bdd3e1b3e6a632514ce86fa0445be9fc52",
+      "10bc913ce10f3e1c3aa5c896f1c19463db337e48"
+    ],
+    "hashicorp/errwrap": [
+      "38347ccf7ebdd1a8848596ca802550d249af38ee",
+      "f3725be46c9a3ed05afef6b71848942e3e017ca1",
+      "ec9f3d3b5b7cf36f5219d3d1276f493266602308",
+      "1a30fa779cd766d947055c2382b58b2ae553b7d7",
+      "cdff5e5e89586b0f5fd1fe7ac77e22fb3e4f0041"
+    ],
+    "hashicorp/example-nomad-pack-registry": [
+      "aa3251a829175714a5902e6047dba558acb8b0eb",
+      "ad88cc2e7c39d588a1aed34ca04eb752ed79c86c",
+      "4b60bfa1083072f890d51b30a52b7b7ff236d045",
+      "740e15d5b20fc4e2b137682bb063204b9b6c91c7",
+      "f99bd8219173db7ceb94515c2a73b4f7a5c193b4"
+    ],
+    "hashicorp/f5-terraform-consul-sd-webinar": [
+      "e6a0218d234da3736dd20b91bbd0b7ba2814157b",
+      "eb83a38eb491cab6d57d7e440712592db5aa7385",
+      "c9da544a6d347a3542a8bcef5c3c311610f5162d",
+      "6edf9f335794f167f2acbe2b096720a3fa78ea15",
+      "8b52631c3a95f3246c6d25475b57857edac691c3"
+    ],
+    "hashicorp/faas-nomad": [
+      "36ba4ea25cadc51533835d37b4af9f13d13d1bf8",
+      "e56e39a6e19bd561eeddd2aa5f270fc5b7906275",
+      "ee0f27a0ef96a5d5d26d27dae36d9ce86cbbccc1",
+      "6c98c6d7331a4970cbb301c19319a2f310f2b4af",
+      "099e82c9e7b5fbc5af211d16431b0b9ac548091b"
+    ],
+    "hashicorp/fast_jsonapi": [
+      "55b6f08624f8cd8b73a6d213cd79f35a11710033",
+      "24d57077d1335b0bb61156a41f8b80eb62e60efb",
+      "96b721203c9c7b4dc55273508c277a6ced3e6532",
+      "12511ed646082d5d1c0a9c51bace7a408e8b4441",
+      "d899abdbc5e01fc1fa77688aeb4f944c54d8f4bf"
+    ],
+    "hashicorp/field-demo-consul-nia": [
+      "dda6fcf694cd5af71b1d15a1cfcf7e49e9a7ac91",
+      "495802e26a9d43a8df99eaf779fff3d369dd5ce0",
+      "e5a452ef7dd19dbaa2c0683382c2dc16f93b1d8c",
+      "a3b01c88189d756d6f174a2b8894f4db1cff8fa1",
+      "092f4ac0dafbe76d772227d24fd0f77ea87acd1b"
+    ],
+    "hashicorp/field-demo-consul-nma": [
+      "b37d2cf919dfdeb5359ddb3c21122bab827b85c3",
+      "b283e75b710f96a422d3fcb268e920519ae02434",
+      "004dc6fba74dab9960a7d9c1c68e14e2d5f323f7",
+      "7ebd244770371f56c8a0c3ad59766f6ebd7edbf9",
+      "0740efa96547ad02fdfb7743c0e847972eb9dae8"
+    ],
+    "hashicorp/field-demo-terraform-build-your-own-provider": [
+      "cadde968c064debc81726c604d751ee98e2438c7",
+      "99acb4848111ac336550dcda8d98501a16b1f36f",
+      "ec36bf20c020bfc41c410bbac4bf1adb52eb7040",
+      "3901496bc94dd6fd365a94ebf8d5b2a39696b1f0",
+      "96a36197441796baa5315ec8032a97477e701096"
+    ],
+    "hashicorp/field-demo-vault-secrets-mgmt": [
+      "17ed220e39d2746018022799ff0283c0f002aaf4",
+      "827d3b4ac87ab8bdb0c49d6b79fc9c09d0b4357e",
+      "512dce9a6496fa5cfc5b2059149d88e523adf87e",
+      "cbfc49f1e584feba76b61e28ab218ef2f9c5cfe8",
+      "4642e711fe7bf05b43af051172603ec36af0cf51"
+    ],
+    "hashicorp/field-demos-consul-expand-team-qapla-assets": [
+      "3b6945bc16fe66ff1b4a4b4a3b4d5cb693ea6bec",
+      "8ad1ce008187647d3e877ad87fe62ee29f4f1807",
+      "ffdd31be3bd6fe43068a87fe78c42fabea0d7353",
+      "1a44f92e43b01ca364faecfba4e51bf138292f6b",
+      "5fc83f8fabc45e4455aaf6fe01b5cdbd89534180"
+    ],
+    "hashicorp/field-demos-expand-terraform-boom-shaka-laka-assets": [
+      "752743f6485b4a85a0cc61379208bd604b1cdbd1",
+      "4f10dc92a35335c5453d5d521305a15204a6c0ab",
+      "9ef5c8b808025273f6662db4f01eb0140ec833b3",
+      "1c1adac045cc7be5ff5aa21bad5700010ee95f72",
+      "5e8845ef18f436b809dbfceccf798fd804b18723"
+    ],
+    "hashicorp/field-demos-nomad-land-team-devops-drifters-assets": [
+      "30761575a5b1c781f9786cbed59dfd885f963e3a",
+      "c0896b435915a74854bb31e0cbd6d29b52c64e79",
+      "27e05a26e11390253f26bb3ad332d5e39fe4d74b",
+      "c745e78203ab9a2c1542b786975ccd7e70622f24",
+      "7167e43d2aad3d2c9ae08dfa711daf0cf95730af"
+    ],
+    "hashicorp/field-demos-nomad-land-team-footloose-wanderers-assets": [
+      "dae5bb6ecab177f130016eeb4f933cc9c4191cd1",
+      "3faf8a6396b570d5f62002b9c30b7becc1059e3c",
+      "07cb880a2c151f870e2ae646a8fe702f071e2c64",
+      "bd5283a5f04b4ffedcd156d6e6bc8690623d5f9f",
+      "64481a04a2fd1013483604fdb593e383ffa2dd33"
+    ],
+    "hashicorp/field-demos-terraform-land-team-Apollo-11-assets": [
+      "53ba07e8502db9df5618fbd96760b9b0da84f353",
+      "47fabd40a96351d024a12c90d6987be36482ab1b",
+      "36572e62207d9e39329419ea16db74063fc61d6b",
+      "61a0c2d1b8a8c944f70b7062bdb657980d212699",
+      "4fc315ab0b422d4bb5cf86e288bd1365718e8a6d"
+    ],
+    "hashicorp/field-demos-vault-expand-team-transformers-assets": [
+      "8e1fcb68326dc37b10bac2d222203ecaf20fee70",
+      "69f495a4def85d6b2dfae3737a3f47abaa81253c",
+      "e6658e4f03615744d5afeb08c97a2ff781509c71",
+      "065c29cabf63de058a362d1b0afc39428a313ac6",
+      "310c5868ccd4e6fdba15cf7632250ee0bc5b8f26"
+    ],
+    "hashicorp/field-povs-consul": [
+      "55df37a2ec8b4dea4eba2fb71471749fac02135c",
+      "47de66fb5ced7edb6a6dbf6b76d8bf4e59de57de",
+      "ad0ae84ab6bd314066893d218c1284933347a12d",
+      "5d1098c03a794466e0cc4a8640e267cc1a1f8d26",
+      "a4c72bcba779087e41f5f0821b98354a175d62ae"
+    ],
+    "hashicorp/field-workshops-consul": [
+      "46104242dd9fdf8c78d92b3d0deb5e1bf25751f8",
+      "f23bac1ea86e4ad0cf7e82f8408fe8c13d0b4a8d",
+      "c962e6ff8cd5f28147ead2a61c51266ee582f5bc",
+      "e8eb6925b58893f88c3378ff2a14aaa78f50e231",
+      "41ff1e40a01db55732698b848f28a2d8da2b52e2"
+    ],
+    "hashicorp/field-workshops-hashistack": [
+      "85ab00efbe113bdeecbd2e0c533946f823939c63",
+      "d84c0d8aa081d86069d6249e6d513715f72a0d2e",
+      "c95878e4bb14fbc25c1192cc14dc4763cf6ba1ef",
+      "f892ae107d1fe85eb28ac6bd760b38cb8dfb9b4f",
+      "92f50bf047444f6f11df80fe4b5010800a1ead3f"
+    ],
+    "hashicorp/field-workshops-nomad": [
+      "50605ac68081adbf64b6f3230438013d013d2061",
+      "c5f92c4507e7f1395944d728bb442d5c8fbae8e3",
+      "3a8240f3cf686b9874af1b36328caf190a541375",
+      "a61ab2abfe1cb6af43d3f82e74fffb73ba37da10",
+      "15307a45ad992a6e0fe12a2fee09a09730b19e54"
+    ],
+    "hashicorp/field-workshops-terraform": [
+      "8286e0aeb5580199b531ad56af5e1c102e7331f0",
+      "425d76dfd4b3ab1bf32fca5f2bfba66bd5de14ce",
+      "ce1392c74e2c99e5983e4f1244590bc639abae89",
+      "35714f8aa15800063cd6ff1a630aabda7318b284",
+      "274aab2aeea326a665796b8d6b50c60df918a24c"
+    ],
+    "hashicorp/field-workshops-terraform-1": [
+      "b919e343f1b4ff9f6deaaf75a13614d2a7ac4cd2",
+      "0cd51a8e177174e9027572f144bd7c58e9d46de6",
+      "125ade9e724d356f0e37dc4616d83b568987de75",
+      "a32754ca286b6501654e649c1f4dab5e8ef5aa8f",
+      "0543d29a8989adcc848a21925dd6c5a663f09e88"
+    ],
+    "hashicorp/field-workshops-terraform-foundations-assets": [
+      "2a4e061aa73e9f8b04e82213bc588a7771f26978",
+      "43d6880f5d1cd4752e4b700a07ea65a306525388",
+      "415bb6da44f29d4424e1ef74a908fb7864101b0e",
+      "fca018d7e4bbee7d1281e7015e0ad267fc3838e2",
+      "ad165f955276f1782055414313e38c7019644891"
+    ],
+    "hashicorp/field-workshops-vault": [
+      "61d4eaa79293627778683fc5cbc7c876304e7612",
+      "937f905376eb76752fee778c612b6b7cc0e0c991",
+      "4cef3aed92487a1bbc38e7011da816c2d0c325fe",
+      "7058390d5fadc660c1bd1664b75c9033aa0cfb5f",
+      "e544f3ace0ddec4163b0d428a82a55313fb06a5d"
+    ],
+    "hashicorp/flight": [
+      "d29c40db4dfaf33da6250172671767bab75a4c04",
+      "ed1244d82c2fe6ef9584e0af7ae0a265264e42e5",
+      "d9ec6997e772b232b034f8d207239a480607bafd",
+      "776dcd0cf141df42c83f1962250c96440553d2e3",
+      "fccd8924ecfea865a6160786730c253e744315b2"
+    ],
+    "hashicorp/force-www": [
+      "dce721db2d6afb5ce9be2fc1aa0f785c544c05d4",
+      "8964b9be9830c488ee6d79df3170efcfc9ca9903",
+      "c7ed21fd15894b1ce64ddd218950be5e1dfa5c7a",
+      "e23791dc89ce9221078950df7bc736db0650fd2d"
+    ],
+    "hashicorp/front-matter-schema": [
+      "4cf6cf6cba3a09e7b802de4c6156ce6cce478487",
+      "d7f6c2a9c055398207962d0dd3a8c82085792428",
+      "9fc0a01a9ba5bfda4fd85570357be024859cd8b5",
+      "0bf9a9ed41a724d97595b39533710100dd6e9783",
+      "228a25ff44d3500bed51e26e0cfb5c86b923b478"
+    ],
+    "hashicorp/fse-instruqt-pbst-tfc-aws-01182022": [
+      "18a2573116cd74f8bf9449f9e27d3b6e6bb3f738",
+      "94b466876ebaf7ce90f4f476b79daf4cc7b3bb53",
+      "c7a072b3a760a82ceeb7bd046d45bc9577a9d6e4",
+      "9bc1e31bef431a32fa285209765c1979930bffaf",
+      "3e8acd55cab8b8ebb76743b0352643e8175a0f54"
+    ],
+    "hashicorp/fse-tf-atarc-aws-vpc": [
+      "df7ec404cf4baa91c9a052ef0f376e565179c113",
+      "21a489e8a50cd1643a09457bff616488404ce515",
+      "28033962612fca432e4d8c1649d3805aed4aa0c3",
+      "41da240fd71f6212d8c47a6295b80ba9444b3229",
+      "61c3766f6d7d31ddf645d18ba6694e6d13cd335e"
+    ],
+    "hashicorp/fse-tf-atarc-aws-vpn": [
+      "8a012dead8af94bd2907e96ea1bb60308ad45918",
+      "2b16907ac08aaf05b8cebe729569b5174002c788",
+      "939d1c6c33d3b1e1be7e510924c8a1a4abe82bf6",
+      "b9125edf91a9dbb6ddf5c37d45da918aac4b8d0a",
+      "620ce30c8fa169f470be5f70c7bb9ba93d6218e0"
+    ],
+    "hashicorp/fse-tf-atarc-azure-vgw": [
+      "fd10878d2f459b184936c8ed59d2b1f46f8fe493",
+      "daf2d181a503ebec1f75589c833f3799993fc69e",
+      "274c84f29945012f09fbc819c1c74b82042a6a7f",
+      "71dbe64e3f5e04fb56e47520d54c679dc1c2ce4f",
+      "18a4a6c3690f45824c92bec6c43958ca5d2b07ca"
+    ],
+    "hashicorp/fse-tf-atarc-azure-vnet": [
+      "bdbd3d27aeb7c0ff30c5ebbd8b9dabfbc54e54e5",
+      "c92664ea820758e890d44200fb4b46f37b589f4a",
+      "d6470aa41f11b695251d740867656fb39f2fde17",
+      "2c6586d6c1c400d5e6a3085ffab2fb34746fd991",
+      "8d7528a9d18b01b6714d0e08ead16b7b3e635185"
+    ],
+    "hashicorp/fse-tf-boundary-config": [
+      "87a373f74352ebb75f916f4978a3d820626da79b",
+      "5c83d72c497dccc8dfd15e99ff50eca5f73e46e5",
+      "c9780692e45d42d3f631a00625f346b96f1b5fdd",
+      "8afaebd70e4173533d4c09bf3028ba508e54c17c",
+      "5e2f75d33e70936d9f02e90241b6f1dba2b3a987"
+    ],
+    "hashicorp/fse-tf-boundary-infra": [
+      "b80ae50312ba46a292d9b75ca0770ac9f3a1e7d6",
+      "f6d0aa1564a4a54e9fc972ac55f43904534b6e0b",
+      "9c064bd80d82949f25e19a9a8cd028580af5ae87",
+      "fc868c387c771429541a596cb1836ab13f88468b",
+      "100cea7e48dd5a08a01ad34d422ca5d167454c90"
+    ],
+    "hashicorp/fse-workshop-tf-intro-aws": [
+      "4503ac64f63cbc7969d84f21da54d4bedaab7a67",
+      "08df1c06fa2243263bde5ceedeaac34b45e93464",
+      "afa76583669eef1727724974e89221558c52da2f",
+      "7f76d7ce217cc6bc10e452ee129da4b52a82e295",
+      "f5870acb8d9e719f1cfabf90f47baa77e247f63b"
+    ],
+    "hashicorp/gateway-api": [
+      "893dad8c909774c79d11b0093ececa10aedfa19f",
+      "ff862f153f1c3c014ddf84a1194bc44982d027e2",
+      "daf3a88fa5ed293d703291ce9a40e6d428c3aa02",
+      "e53e6959e4ba8e33c1784e4caa19dd97cbd29af4",
+      "cc354e8a2290550ce2e3da24d3e4d487cb5d41f3"
+    ],
+    "hashicorp/gaudit": [
+      "2a5bb9d3d80d63a9b133f542243cb022d1be1a78",
+      "8e768c1a807334b84bd992f377a3db617a4de8a1",
+      "96329008b48006294cd8cb099e7f1e37a30ceae8",
+      "dd0121b5eb4ea310003d53772ab10944f003e817",
+      "c425c5af51d9f0351fc68dff73cbf2d15c73049a"
+    ],
+    "hashicorp/gcp-marketplace": [
+      "224641dffc11eccffeff6fbdd93ed71b2b76d8e4"
+    ],
+    "hashicorp/getting-started-terraform-consul-provider": [
+      "9cd40ebf14cc9d5f716e87d3ee065e279c123db0",
+      "1e0c03ea80ca25f929836d4de4958f79de1216de",
+      "ad6c326b725554298bc6fb143acf60d26f296e16",
+      "aad9354450dcb0e04cb889285456a1789f2df2eb",
+      "197340e6f87c66fbde08c04d087035276cd9c6f8"
+    ],
+    "hashicorp/gh-action-check-broken-links": [
+      "5d15d205f520ddf98b619ae5b7f7407a2740b717",
+      "383ec8fbd6d4291550a4b28499b164e8f95b8dbb",
+      "1ab1299b381d5e8fe3910238e0b72a67b5764d66",
+      "de57d80b034e1af6b88d44c4118e2b7f5e8d3880",
+      "5c04b588e87f13c6f31b12b02a3158ef964dc3ff"
+    ],
+    "hashicorp/gh-action-jira": [
+      "b39d455358dd4592e37e4cfbea3f491d1a39db77",
+      "0627ae0f0266be18335671836b79245fa08b4f2d",
+      "7fc404500cc6e8be7317fa3f43423798282496b8",
+      "bd18ede59db334967d1bc3c379e0d95e2752d0a0",
+      "e2edc116d3d2269afcda8e97a12cfc469346c980"
+    ],
+    "hashicorp/gh-action-jira-comment": [
+      "2cc82d3bf3743fb8fb848230418c48d1f62a26f8",
+      "58dfa9a872c7e6daebb41ff0bbf0df538b723ea2",
+      "177c12dd5e725bc24a07d593f697c8d50d391152",
+      "850b8e461f62a4e2892eee54e4ca32e00d1f77d5",
+      "9e4a11098f8bd0d12745708d4d4b63c5a81df2fc"
+    ],
+    "hashicorp/gh-action-jira-create": [
+      "a606f788c6948c77a4a8a3c0d14d14fa689986e5",
+      "e680a0762df532f13952e1fc32b2b854c005e675",
+      "ba8b92ee5c4a9db0f120d27851fd57e52e97e62d",
+      "80f5748b584febea96ae65d47e17bea49c9da894",
+      "84c84ad564106f548729912dbda38d66ef117bb7"
+    ],
+    "hashicorp/gh-action-jira-search": [
+      "9b6e864842eeae6b9fbc143d694cbcceca5ee9a1",
+      "ed89ab6730e0b0cc9801db643edd45c36359b6d1",
+      "7ed7d1b75b62555dfbbb038a413a6df417c5a727",
+      "96aebbb9218932983bfbe6984e4c1e3ec3bf710e",
+      "049139cc50a4d768bca1e1a547fddf249b7a8d54"
+    ],
+    "hashicorp/ghaction-import-gpg": [
+      "2c0efc4138244c5ffcc48520962918bf8a166eee",
+      "d619561c8462727b31763a582189c568ffcfcd90",
+      "58450e4f0672374a4c061f726f05be36b9be8ef5",
+      "39fd2610ffed1823ef4e96f2a373cdecf464c0df",
+      "4d9ea740e369fc9db95aa16e3ef47c4e729c8683"
+    ],
+    "hashicorp/ghaction-terraform-provider-release": [
+      "603faab874d76fd9193b5e4c23aaee54f25243f5",
+      "f466262a518f804ca06b5638ef74d5330b58ac2f",
+      "efcdfe2aeb8ed3d87e1a9f6220d4b4171089c825",
+      "08f57d9ab12c55e224fef877a0bd10a372899ccd",
+      "12dddac5c5a0923d2d64aefb4c589349d6fc5963"
+    ],
+    "hashicorp/github-actions-core": [
+      "c4d45487724f383760a50c201fe1798b9aab40f0",
+      "88221f5455e99d6471f551ce742f4c1094d5d176",
+      "65079018c9134c40bb0ff7a6c6bf77b5ea1e9144",
+      "0d615e6a434241b9cae2588090558d45b6205e9d",
+      "9f85221c2f6b71b40327be03740c8d7ad1647c8f"
+    ],
+    "hashicorp/go-argmapper": [
+      "521f1850288386fa7276aff66bab2fa289ec80e6",
+      "220759dadbd8ac1eb4de357c86e4350e48ac8c34",
+      "4bb1aed0694c99d3fa0cfbd73f5c9749e4ac180e",
+      "48c5b79c1aaad242eb581089b235d704f9c1901f",
+      "389235e8a8310ea5a663e1437a3370905f6bf645"
+    ],
+    "hashicorp/go-azure-helpers": [
+      "e4e986441f403f5a49f88b5d9c5f1b8b3b98cc13",
+      "65cddec5902c997e4521f75d9312bfc29c7308f7",
+      "e84c785e9ff4c9b99f281ffedf9c019f501941c3",
+      "b486ecc5752c98cb3961bb8338a8b4d2af241e58",
+      "3c3ca08c57e886c1a3fe4880ff12b7fca93a9f32"
+    ],
+    "hashicorp/go-azure-sdk": [
+      "680e7b535dc61f43185bdf1f7c66a65c4ef674e6",
+      "e30ec4b50fdca2bd29fef05f564abdac3f544ce4",
+      "c8fbd90a6bd851afa85feb44352625cb30f11674",
+      "3468e0639a9bb30b55cc11571562c1b8eed2471d",
+      "79eb26f134f23c596ea5211cbcff3065c0aef858"
+    ],
+    "hashicorp/go-bexpr": [
+      "573c9ff97e9de68880a93ddfb1e52ba4582b01dc",
+      "92ebd072ffd2c25e974c82134062c8439a9e3ee5",
+      "50afaaad27c9ddea533569860ddb82ae7a2c072f",
+      "e881bd26bc713f6477893ce3eaf3a589f69b2c3e",
+      "9c59e6d04aaa6b2a34b9f523e12036f0e873aa99"
+    ],
+    "hashicorp/go-bindata": [
+      "bf7910af899725e4938903fb32048c7c0b15f12e",
+      "a0ff2567cfb70903282db057e799fd826784d41d",
+      "8ed2cd0f6d981f639d833ef31862bd85ab79e705",
+      "bfe36d3254337b7cc18024805dfab2106613abdf"
     ]
   }
 }
