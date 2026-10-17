@@ -2347,6 +2347,13 @@
       "63e43cfe819d0a44c9d797526a953d34c6fe2c81",
       "0739eebe2c68ba411674677c5722ab6c87c57438"
     ],
+    "Automattic/content-gates": [
+      "927595ef5a5b0f1e8a42647c6dda884b608235a1",
+      "bb94fa6f1f9856475f96e6eefdb625b466dc73e7",
+      "86fa3afedb9ef7ab77ddb4b890b91ce367ffa71b",
+      "ad636e09e0d1df817c62e82ed23255cd5cffcb70",
+      "1a257370a3740e59514d76548e562dcd1ffd0fb7"
+    ],
     "Automattic/contextual-qa-checklist-action": [
       "c063201bfa7fe8e9f72fb70ed2fe8cc0718c34c6",
       "27696c9016d0f9759baaccd2cf5f3002c38d3801",
@@ -8111,7 +8118,12 @@
       "7b07bfce1eb6efbb49f16492f6cdb9b8179adcec",
       "a0575f9fa77a121ab0a534b660d180b712d2bb19",
       "f8a5e3a87a2466fb31339ae4bed0e6ee1102d0ed",
-      "326f543e6b7db85a0cff20f42bbac533ffc8ae0d"
+      "326f543e6b7db85a0cff20f42bbac533ffc8ae0d",
+      "2ca4cc604f850a3342e71cb8221c851f975b8f23",
+      "3f88b39a38a64c6c0044d6f526f56432e3b7654a",
+      "f7508e2ee89a2aff3a38fed0f7e8ecb669765a50",
+      "c8119a3f89141f3eb4fee5660d38d82e332b6ea2",
+      "7558d435520ced2fa992abbdc71abbc4fed5d9a4"
     ],
     "Automattic/newspack-event-logger-plugins": [
       "a46566b2e216845421d57d9d54c631603c2859e0",
@@ -8337,7 +8349,12 @@
       "4efcfb56bbbbcf3cf43392124927cb7085ad68fc",
       "068eb4239dfe1057ad42d5ab2f483d893651f34c",
       "1f75f48b90e0e946c3cd342ab487d81579b0bcb5",
-      "165d7a50b65dd493f70a9c0f253f60b2eeb185f2"
+      "165d7a50b65dd493f70a9c0f253f60b2eeb185f2",
+      "67dde6fa22863b28743cb79ad5accd20ad536c57",
+      "7f6b727fb3c14499c35f273cc494ee9e5fcb6b52",
+      "1e6b5c3506a4eb023bfdf200853f3bff8e055f2d",
+      "4269f37e53e92798b56cfa390451378e13d9ca97",
+      "717264ecf2bb6ac8de7f098c93da4d5c784cee89"
     ],
     "Automattic/newspack-plugin": [
       "21d5921609c63e2de41c58b70d9ea5e934ff5360",
@@ -11812,7 +11829,12 @@
       "907b36e0391d92a4388cdcfa44c525f325721096",
       "f7857c9eb9b4a5cd0ba91b6730d9077c0415bd29",
       "d6ae6520e8a241dbf32765d17a005c2a37d4bd72",
-      "5c9bb179555540decff0279caabcb12baa374f76"
+      "5c9bb179555540decff0279caabcb12baa374f76",
+      "57133ef26bdd169fd326cad9872e5280d4931c75",
+      "f29d015f135947da01d8ca8a5455455e806b50d4",
+      "eaff7b98253c4f543334664dbfb7b0847a2fd85e",
+      "19563bb81c828b44c36f570e2defa5e3ad643518",
+      "d5dee4b8037f930e603d1583b4f45cb6b0833e66"
     ],
     "Automattic/woo-docs-activity-summary": [
       "c5554abbb708321c1948c7df48fe4eb284c03270",
@@ -12003,7 +12025,8 @@
       "d288154d9471c70f1835a017f00bac4f3f661b2f",
       "74f04a57185219dc1ce1606f975f32dec57831e5",
       "f61471282600e47a00804993909ea0451c9eb175",
-      "8af8dd96d041671c0006d87182bffeabd9b92474"
+      "8af8dd96d041671c0006d87182bffeabd9b92474",
+      "2f1250de3dd7fd1da3f7f27f1189dfb6cdc1ef07"
     ],
     "Automattic/wordpress-com-csharp-rest": [
       "7547fada8074af6fb2fe0c71cc9cfb070478463c",
@@ -13924,7 +13947,12 @@
       "1907138c13e4608d9629fb1e493e098bfb5af8d3",
       "9f1ad6e1576e8d4ac7ec76fe90370e69d8ac5441",
       "c13ee1a5e1efa328816140a342f87e4fa17d1c24",
-      "a8e7783666b6294d8df19d3cb2540e835107e777"
+      "a8e7783666b6294d8df19d3cb2540e835107e777",
+      "32c243c749d3a92483c15dc21398186fa1784bd5",
+      "77f3da32e7c4f30e9702c9c039a880e7f2d96d78",
+      "2210090be8b960f97182327952e0fd4efee2c8b2",
+      "0a9bfccf49c3cbca9e368acf7f6a9c60f74f96ba",
+      "d8900492207573658860ab945c76e2d6d81f383f"
     ],
     "brave/chromium-releases": [
       "21ea0d3c72cbd02264b2d5096d2bd709fc802b20",
@@ -17151,6 +17179,508 @@
       "2b56467a615400f8dce5cdaed6f7f48e51a28249",
       "0d540904a68334b567cef92b03ecda0bbd52dc3b",
       "f1a1bdc661db3109ff72d08087e3ba1f8b7fd4b6"
+    ],
+    "hashicorp/hashitalks": [
+      "9570175e1fc4b1930da31f73b5d344967b2e3522",
+      "23ac51b0d6569a8d6ddb243b7a58d55025746555",
+      "9814d84c26e6f3fd01117db771bd39224b39399f",
+      "ba0d4a66f9ecc54ace7263570049bef62576472f",
+      "630a018eae2e4f163cf3d7292375647f62e18667"
+    ],
+    "hashicorp/hc-2022-wp-lab": [
+      "fc0a292830bbf4a1f31832b87618a37a3f1dcc1c",
+      "ea7709bb880834537279e889418603ed28eac39c",
+      "3bf3141578d58db710921dce50b4372edb3d7dbb",
+      "e7da9c967dbd9dfec6642d79dbf639b31ee753a9",
+      "68bf912635baa5b2ec1038ee6be9ede8f857f216"
+    ],
+    "hashicorp/hc-install": [
+      "d5830be52fc3f571c341a25b76589f38b28ee381",
+      "e4956c1f1703804bffe22b63405aeb40efbe0b24",
+      "431d1926a3aae003e321fb12d57f5bde08b23402",
+      "d645c21243779e9f90f9ac666e6ba1ef819f944e",
+      "438e85e2c5db700866e5854d4f0a376dbd73472f"
+    ],
+    "hashicorp/hcat": [
+      "9b3254bdeff2a4b8265f71092c91db61df3b71f9",
+      "7d891ed23805c34d0a0424b9bf488776cf5451c9",
+      "482eb0b77c5dce6ca3f502ef3f1e348f444474a0",
+      "a38a1700a24b4117421638897a3224c031d6038f",
+      "1359803e715aa464ba1d7db4c5147a2934dab9d7"
+    ],
+    "hashicorp/hcdiag": [
+      "6733abec6e9762e7ea094aecaee8578da5fe5c4c",
+      "de7189609f027ac65995703f082d5e865f01a9e3",
+      "8c5b11cabb2635e3e7c5ea5d258e570ab22e2899",
+      "04da12fa8834754ff28ac261362d90a0b9cfa0ed",
+      "d03443dabb7264c07fa5b55179744ca872d5b225"
+    ],
+    "hashicorp/hcdiag-ext": [
+      "07c603e7d41ea9bb5b80db2785ea7659f744c80d",
+      "1a302947fff59557ae508b8f8408f75627b6177b",
+      "973e2be8c862928db6c11e8cf0f20be3b7d9754a",
+      "283f6cd62334959ec2780d368c6e80d7d760d16a",
+      "95c0b4996bd24032dce86c5c1c0541c8d8ef226f"
+    ],
+    "hashicorp/hcl": [
+      "8b26c6768c674aba5d5547b1bd5abc8951719b6b",
+      "8ea3801be7bdcad48bf54c3e12c38c96692c5668",
+      "d3e7bdf00f4559aea011a06b5ebc34aebd81f0c2",
+      "a786e4fc556660d857b53b3479b3fa401da0f904",
+      "b195cf0df2b9b90c14a59d7f0ca14a7befc66aa4"
+    ],
+    "hashicorp/hcl-lang": [
+      "13bd0bcecd6da6ea81cea3b6d6b0da02a7a3e3e4",
+      "ecfa08c1a13fdb5c8e225c040c5254a891a80acd",
+      "913389926489c47510c05948a8b62712575ec795",
+      "5ff76b8a86e62482c158ee64f3576b86b5925c9e",
+      "17d98262c3c08172589ee2806f5f51c23882bd96"
+    ],
+    "hashicorp/hcl-opentelemetry": [
+      "b12dace81e77a4bee5c78d3d81dfa4526d09e08c",
+      "b18a6d268b772b00ace522becea1d070e2688723",
+      "7da9072d91c94a7076bd6205775c0387139f9341"
+    ],
+    "hashicorp/hcl2": [
+      "fb75b3253c80b3bc7ca99c4bfa2ad6743841b1af",
+      "66c59f909e254f6b1964ca17854b853b16b21f51",
+      "388af45637a30350df8cc3df86f410b74a2a6acf",
+      "0c888d1241f6523caa75fd64dfcf8d3b610c77f9",
+      "72d32879a5c5db881136f801b9efedf19813c081"
+    ],
+    "hashicorp/hcp": [
+      "49b4af662b0c944427705945fc3b8ce7bff45a56",
+      "7ef734614350d192da345ec54d19981e712ceafc",
+      "cbb98321418263fd891933aa2556327a2ffbc6eb",
+      "91f25beb6449950483bd1adc18bab268732a41f0",
+      "9bd1870096eda41f174657f531576375f7772fba"
+    ],
+    "hashicorp/hcp-auth-action": [
+      "f8f317c059ca397bc7af887cc90f33821bbdfac1",
+      "d82c098a67dc83db0838acdfc4dfe80707443d8a",
+      "3706a5dfd11bd313636a4814ab571f2d917d468a",
+      "3b470e4facc7b4cec5e40b23c1b6c9f9bf2bcaba",
+      "a614dfc40f522477a25c044d53a8aff543d8a912"
+    ],
+    "hashicorp/hcp-link": [
+      "14211e61092d52044e8aacd172cf002b46eb965d",
+      "543f21ee3d5e3e5e02233d8a5dadde2bafcf2224",
+      "efe8fd667df252814f6f31c19fccbf5eeb98f486",
+      "e66647e2907c2ec30e2533a5deb437d8144fa3b0",
+      "94acdeed5167c317282e98c19be6f3b14184c305"
+    ],
+    "hashicorp/hcp-scada-provider": [
+      "f0a324442f238d503203ee6209679c9ddf5f033d",
+      "95a82de4d87f12f6ee6d39dd4013e5c08b5b5829",
+      "212a91565ba79ff058f3e0087fd86cbe004df01e",
+      "448c4e338865a20cc22969d7199d0464a5cb9279",
+      "843d06f5e8f9f1f55e5ec39a5895d38a1db9effe"
+    ],
+    "hashicorp/hcp-sdk-go": [
+      "93da7ac5df09e674a34d158016eac041c5ace126",
+      "94ea63cdc563d9ee06bc879d5565523f63219ed7",
+      "ee96d29922f803aa071b4e2fe365701218d439dd",
+      "6afa3fd8f07cb6e10ac2a65b7dcbd91f7563e3aa",
+      "f04c9aef1e773959e3435388923998b80972987c"
+    ],
+    "hashicorp/hcp-setup-action": [
+      "6418e2c081d58b1aed8736ca59d03900255b524f",
+      "ec7bf1c974a2f1e30a2688d7d7f9e3d9eaa2937d",
+      "d61396ec63c51d27e5bc3378dcebfd34d34258f2",
+      "369cdb0608000a0a0166391402d11a3be1e12b9a",
+      "f64f408521517ab9a132bbe180177245bc194110"
+    ],
+    "hashicorp/hcp-terraform-operator": [
+      "66ec0db5146c418ed4a2975eff3f2956c68f92f1",
+      "922d23a5e2bd40d8f14049e72bcca35c8efcf093",
+      "b7059525c039d9ebcf8aadd65ba8f7c278474232",
+      "69d4f2ac020e1a32d90a5af1c172b353e2efca61",
+      "6c975cbee8ff7366ab433b9d373c67ac53fbe2c9"
+    ],
+    "hashicorp/hcp-vault-eks-jwt-auth": [
+      "503571259e253e36fd0843127d656f0c56659aed",
+      "bd10d48c547421893e3c339ce2b2009ee85bceef",
+      "6dd864806b014bd8587b19d8972af069965b0dfe",
+      "c1a5cbae9311e1a799173eca07c58665428c26c2",
+      "f9e30adcf26eeabb71860fbbdec5b17b8b79cd17"
+    ],
+    "hashicorp/hello-from-rack": [
+      "874392607239fb4beb118e4b09c3cdd308587fac",
+      "ade06593ac080ea729e36bd92ef6ab867c5f29a5",
+      "8c7a13370c50ceb6342ffa524c8a487e8b5accfd",
+      "bfd81275d27a57ecb2809517796280c353e31d3c",
+      "b94c975ca0d8f58523526dcef981b0deba6371fc"
+    ],
+    "hashicorp/hello-vault-dotnet": [
+      "3d75ea4e875664d0af283e964b707bda4b7fb08b",
+      "c47dd2f57a657618385034adf2028f86e3179989",
+      "6ac6edc4b1916103f026c7a85c76e518933fcd47",
+      "8baed7a1f95b3b54b8dd592d2a7e097590995051",
+      "7e82dffb05adc367dd939caf7fa92841e9c81cb4"
+    ],
+    "hashicorp/hello-vault-go": [
+      "bf919276072f2065a58e2355b1590a2840af3ed3",
+      "7c007baf9d973749d160dfafeb2385fba5e56a60",
+      "9f9f2c8894f82574bc57b5cc5c1b3ed0f3761b34",
+      "58f44dbcc2d48e56dc51d4b1885d802bf3ef547e",
+      "77b93ede0f97eaa34fd35b847a8f601169917d96"
+    ],
+    "hashicorp/hello-vault-spring": [
+      "97c68f13d3d118a7b2701aff8fdd3fd69b41632b",
+      "40b0f1686a990b753ec1b6da54b5d23bad25ae9d",
+      "3b37d7aec7fccef3411f0261fc4b32c6d9acf546",
+      "2eca064ebdba78ad342d648facb11e1b345d29fc",
+      "6eb34ce103c0ad54b7df91d7e499bb44a5cda1ab"
+    ],
+    "hashicorp/heroku-buildpack-middleman": [
+      "7b3e301b5774bc1df4ff7e3cd9a7ac6881c72c2d",
+      "dae82aa065e292778bf2c94ad157335e6ba5dfd5",
+      "e1cf8570baf3373fb782552b3119013bc259ba9e",
+      "0dcb61994879c06deb98c4d0f52ec8e0e7e8d098",
+      "92cf68c962bd2874145b535db299d156917d492f"
+    ],
+    "hashicorp/heroku-buildpack-rubygem-server": [
+      "9f345cafde6f9afb0d0a214e30aa968c682ddd93",
+      "f8b5b3067bc969c811a0916b0422bf029480faa6",
+      "a7d1e34f2f1bf77a7c18fa617a18129b45f26e6e",
+      "b3478d07902f219e760139fcd87214c571f59387",
+      "8ae65ea88280af4b7aa9f90e829cf55b9f311b09"
+    ],
+    "hashicorp/hil": [
+      "faf7acd480e07642a2009eb36532fd4dfa830dff",
+      "c900742e5934ef4f8f0b9c929f8219f9008a3d74",
+      "1125571d27686abe6d750882e3b59edd838e84ef",
+      "c376daa5ed23005581cf76f80ba19cf31555f3e4",
+      "33137d918b7b7d548aeafb4de899d9d2df67f9c4"
+    ],
+    "hashicorp/homebrew-tap": [
+      "9d5821b38a05a5b9d632641ac20be29847db11b1",
+      "c66647c3f875bac526f5a842b426151a39bf43b9",
+      "f805953c59cc62cb4456c1618b33ead6075100eb",
+      "937aadb5d880981c4fe5bffd733f231fbca98b50",
+      "1d3d96b7828183511c89a92b8db58b8a67c9ab7b"
+    ],
+    "hashicorp/horizon": [
+      "af321b4d2f66ba919bd39edf2ab5ca66526efdef",
+      "6d1d7582cde5ff2e2afce3a17b74938e88972c5b",
+      "a390328c3fb36ecb2eddeab77c5b5e5fe7aad254",
+      "21600c26f2a9ee9f0faf55aea62e1ebd814842b9",
+      "3c6aca3c15438976795482cc7fdcf69c41a8a855"
+    ],
+    "hashicorp/http-echo": [
+      "767bbd9c3d1905acb04891d5c5e208de17b34a71",
+      "06f4f19334fb063282c212053938a50b5723c7e4",
+      "1ff40c2168570eacd25f796894a8694a798fe78f",
+      "b69bfb9d049af502694eed7957b44de6a75c2a2d",
+      "eed3dec30a2cc2e79d1fff131fa7025c52950c12"
+    ],
+    "hashicorp/hvd-module-gha": [
+      "80974feecaf2c53b6812323e03bde86105cb660d",
+      "076baa34a45326a3bc8a723886e7aa536e3bb791",
+      "eb521a15d37bf4331d0cfc3b7cf2b6f94386c70f",
+      "981bb77e088b79e3fc59d67f4b7b5c5af9f15f77",
+      "8fb179a4f1b60efda88ea2a5e022f8c3dc02caec"
+    ],
+    "hashicorp/hvd-module-template": [
+      "4d7f6f9664538f87110a20ce72a4e3e452855a77",
+      "0a5cb99e5f0159decc195d321fefceef9d1c9e07",
+      "64f957f04645a950bcbd2fadaa5aa795187d2822",
+      "228faa2c041319109f83b620278def2b9fc851dd",
+      "59483c80d77bad44a44db36b680147aec7e04bc4"
+    ],
+    "hashicorp/hyparview": [
+      "78300343c5e317836f18470fa8e6311e3dfbae6b",
+      "498a1e8eac37d66f9246836af002230980a24f00",
+      "f10f0f0b5ce94d63ade107a21934bd48da17688f",
+      "cf3ae17cf877fab80d618abfa0c7f6f9e7146929",
+      "8bd9fd29752cd100f3b87710abd98ae7969e737c"
+    ],
+    "hashicorp/hyparview-example": [
+      "ca648466a51300d793639f5df2d6cd55eccc5afa",
+      "0df61b945e2c2b94f412ccb072ef5388e64d44b0",
+      "0c3dc2e16b2213a8fecc0bef8a14d40db5090093",
+      "a3893f83550915ee2e6c89dc34fbae2bd469573e",
+      "bb28613e4e77913a70cd160c22f699bba797cba7"
+    ],
+    "hashicorp/immutable-infrastructure": [
+      "f4bc4d126205e93d736e7f635557a4a3c7757ead",
+      "915714454c39e8e2644731b5025d83fdc0fae9ba",
+      "5735e852157fc38dc8733805051da0b6404fea50",
+      "7506e0edada3384da2869f75eb30ee9a552a7ae9",
+      "75dd437cb070d882e1ad106980aefc4b34c60407"
+    ],
+    "hashicorp/inclusify": [
+      "ed5aee14e065d52a1b5fa09dda6f95c921e6c73c",
+      "542f03afa7c677595d284b6ef6dec24755ddcef5",
+      "3a5ae7a408fcede72ceb82fbf6aff97a1bb936f6",
+      "b5a8d543db609cca97f2b49d34fd37f88db97ec7",
+      "483c26569b6c6fa1e8e80348a40b630e5b8c166c"
+    ],
+    "hashicorp/instruqt-assets": [
+      "f881b13609367caa2b2fab787f9c1abda12b8764",
+      "44e5ec18476b96e259352e8308a147fb6fcecc52",
+      "cf13686fb23bb757e90cee914b4cb74129398376",
+      "4c02ef5147ff6898bc226cf7033a7f452dad2935",
+      "290e9ea63a2747f7f222cae5734f405feb8be1d9"
+    ],
+    "hashicorp/integration-release-action": [
+      "5c982331bf102b6d9ffae6f820eb9ffda93cd7ea",
+      "b52d696d5ecb09c78343c7eac443708380eb4446",
+      "ae381d739ab6e036fb8a2fc3c2c43b97ec5db93e",
+      "2e4cd8d11a803c545309041fbb115fc679bd129d",
+      "6515cfe5f55625032f5ce6008877436c73e131c7"
+    ],
+    "hashicorp/integration-template": [
+      "02f4cc01c200b655ad851d10df85ea5a11c6a53a",
+      "9faf4dbbd7c93439bc1cf90c986791d4533cbfd5",
+      "e68ea47a776fcb317364c808a21efbc69c143f82",
+      "6c670da9c22db722a68c486ac0d8464fd49147f4",
+      "0dde6a958167a674f60bafd7e0d2af03f93f3934"
+    ],
+    "hashicorp/ionicons": [
+      "ee5b3ef1bbf701e5036021feba57fc2ca51407ae",
+      "6660dede745698fb5a5cadd131c22784816c7c63",
+      "c20ff6ed5d29d62ed0f3679873c4704f9dbb55e1",
+      "36c8007cec1bb84e1ed7a72a58a47bdfe3982ba3",
+      "c5194d2679c167702f7f102b129b6547db0e6b16"
+    ],
+    "hashicorp/is-consul-health-agent": [
+      "ac1867058bcfc1fcb391a2d57b0d4415f10adcd5",
+      "6ee723290f09337257da9ea9bd50abbee4833a38",
+      "e6971d54da09697ae2785547b55984e1c197b6f7",
+      "561959e83eca67c1ac642f57c1f034d0e03ab5c6",
+      "470b50cec6adebd3756b864377dc5bd7a9bb05ef"
+    ],
+    "hashicorp/is-tfe-logging": [
+      "9a7a750f13db356d0df33cc748440e0e8c569b13",
+      "a7eee61140b830788fc83372bb031c708643af70",
+      "44e9388b988d67975d420fbd321b870d4a0f9694",
+      "6eaba40f5fef3f167aba4699f7056113ed57d7a3",
+      "0697adfdb832e3ab674b7e52ed2ca4604688dd41"
+    ],
+    "hashicorp/is-tfe-vmware-workshop-labs": [
+      "21e1f5fc8094fa934a7d1c820d647ea39e4b6ea2",
+      "8a880cf2e57de222931d0e3a22c9be1fd691015d",
+      "f8165dfd364a1bffaf34093701b0463b18983f59",
+      "91cb90604a3c7625088e8b0594391d05b3b5f234",
+      "37886dc995439318cf5389ac72f027f80e89bdc6"
+    ],
+    "hashicorp/ivy-codemirror": [
+      "ff753f16557a7b222737575c66b3ae3ae7d484ce",
+      "68b22080a45eb47994fe5313abef1a2af170e5ee",
+      "58457836742d64024ebe61f81c00cc500e12314f",
+      "3d20fbbf1d3803dee7cc017c89d874af0bc2f3cc",
+      "5cc4275b8e7198e9f60bd49fe91ae53b4c87dd90"
+    ],
+    "hashicorp/jase": [
+      "086ebe4b710aaa64780eb5c410cd899def70c00e",
+      "a09d64a6275aad0730a53220f804848fdc0f251b",
+      "80818fbf3bc4726b3ccbff8e04fc3d98a5b4339d",
+      "4333654dcec072ed6b15b2bddc662a7e6964fffc",
+      "1c5d149b223370a18310f362e7ab2e9051482f5a"
+    ],
+    "hashicorp/js-bexpr": [
+      "7d6f906046848a95c33835c2f3d2a220ed702cc9",
+      "505e917ca9e9b0d4e8db1b9c65264e5c3a17943b",
+      "54fca527119f1beb9ec49dbb165feafa2be3e05c",
+      "6720ef40c62eb5c0fbc306f1c8f44f4cab3cc553",
+      "2f74366de8eaf2e4971c5d53b5395a60b198b702"
+    ],
+    "hashicorp/js-releases": [
+      "04acc3c22d5dbc05f95dfc5e967217f6e8a9b37d",
+      "ba75a85f2252bfba389b41dd57a33c8741cba4b8",
+      "1b4ff64214766bc2a4dd3ff2acc0bbe167ad0067",
+      "d0bf636f0d8f2fd7d6f53f9a82d58ba288764f0a",
+      "40a5fdedc393059ceab3a712fe7ba395f585f882"
+    ],
+    "hashicorp/jsii-srcmak": [
+      "050717b69de65f9341564c87ac0bff965f16bb0d",
+      "bbae745d79742357b7af866546bc9bc32b8ffde2",
+      "53b8042c93fbfcbfc8b0c068f09e941c16ae3134",
+      "d9990ab146234a56a5e4917a8089981022bc2784",
+      "83389967647f45dad29a44f60e21a2831eee3c9b"
+    ],
+    "hashicorp/jsonapi": [
+      "f4642e4e3768b933ed906220e3d3d2fc371ae5dc",
+      "074c4f2304879ac0b6b1b7a3463ed4c3df7884df",
+      "79abdab64ad811e9a90725426bba98735a6d6918",
+      "206af9f3baf5473ca38abd03e49e91749e953de3",
+      "5e384c6784b4a0eed7ae14c96efbb1302592656a"
+    ],
+    "hashicorp/jsonapi-resources": [
+      "7ebba9b096c4d84d351b9c18af2971a36b97129d",
+      "2480458038b93b098bf85aeb030ecf4f34b00bc5",
+      "8c1d7dc8a02355db88988efbb2763423071d7d46",
+      "c980031474c189c8f4b036b477608270173b9cbd",
+      "ad12cbab49cfcc5fd00db0d3f41923d48c02a052"
+    ],
+    "hashicorp/katakoda": [
+      "b4a09f884fa00b3e5278a0abb88a591efc564121",
+      "21d55d47b819e021434e209a49a826d8076ba27c",
+      "a2f42bfbf8bac0d8e82794a528f686fd3de80e34",
+      "40ee02c1cc8c6bb4fe73e4ff06914bd9ae1d3964",
+      "ad2dcf03c841537189d49422c8e775d538673362"
+    ],
+    "hashicorp/kitchen-sync": [
+      "1c3e851223e544dd5995fd081265381e180761ce",
+      "8eeade352e29c8bc0a94d8399c5f27f5c2244bdd",
+      "b19a6938bb1355521c3b23dd8d5628b419a0cc52",
+      "f804245125c87fcf199f8c45386c41faaff3c6d4",
+      "b17cfae7cad4e239c50aba6c620395fb2b5bab9a"
+    ],
+    "hashicorp/kolide-quickstart": [
+      "c26b6a4e34e71a403265b35e24dcb68e4f91e2d3",
+      "5337777b7e0d0d0a8abae5aaa1933f53e783d16c",
+      "29747f0c1e02aeb1f85b8d53726cda68e82a531e",
+      "9dc88e3092d9b9758e0406a51c35e444983dba02",
+      "322df70f598af2d045404811d928f31338256f97"
+    ],
+    "hashicorp/ldap": [
+      "55d470c0ce69032afc1be15b2709b502bbcaf3e9",
+      "04565190bb92a5f0a198918f35d1431bc69977eb",
+      "863b1c071e097de18d6c5f7117a301c9ede073df",
+      "c2505804d63edad284f25a11db9bc7e72f1584ea",
+      "17f23727498cf4f5952399fbe43756e0be0cf8fe"
+    ],
+    "hashicorp/learn-boundary-cloud-host-catalogs": [
+      "e592d81699d003ce18b53c2eb7d147951edd6e22",
+      "83150f1bf735459b48611b6243754bd89c9434fe",
+      "f4cf21d4a20b36acb7935964401d22d615a1d167",
+      "99a9043666f6b9c1eb3e98c4ade21c92df61979e",
+      "ca080f1fba046e4c4c46d60bfe670bfa81560fea"
+    ],
+    "hashicorp/learn-boundary-event-logging": [
+      "40c3e58e45b3157f5ce47acb758038f359b68118",
+      "f6d5b10eb49c594ac0a0bbddc06702dc06712dcc",
+      "77c5ba544f2b86ddcaf628ce6ca57741f4593dc2",
+      "747f0a684c25a8fcc69ce4479621dd29c2101209",
+      "bae8d03b029298d49e9abe9dbc3c2458f2af6e41"
+    ],
+    "hashicorp/learn-boundary-prometheus-metrics": [
+      "47645ae3952b076c5d931745b1f04cbd6b73b58b",
+      "5691768b2cf09b674ae857191fcd7c0dd8859459",
+      "641ded01ea52e7ec15235d732c5d0865313ef8b1",
+      "6a26bfb1f2ac2b0dcfeed96dcf6ae93fa748aace",
+      "3f300d5547b43505b76ae8195c3f540d278b1f42"
+    ],
+    "hashicorp/learn-boundary-target-aware-workers": [
+      "3fea6c20d8031200b1a1d9d369f5bd524ac70ce8",
+      "84b2447006a37a42ae08e46a6d4c4716160842f8",
+      "d1e659f88ded793ad5c152e705e433ff0504ee29",
+      "a8fee879cf89c56a6512e68008746ff38113db40",
+      "e4e6ab8bd27e3dfa98681bfd656cbc52d3423274"
+    ],
+    "hashicorp/learn-boundary-upgrade": [
+      "d541316909e1dcd2c01756635c8d657ff6657865",
+      "5fe4449f449ccd3cafcb63375800c19a30e61d36",
+      "9af5829930b12574799ae81b9fe0444cf7d1c1ba",
+      "722a2a958489dbf7aef2cd9d42722bfed3ea655c",
+      "f667cd8d21ad625e19b9bd032acc4db641567a17"
+    ],
+    "hashicorp/learn-boundary-vault-quickstart": [
+      "2a46da0b8ef3c8ad840d6919e4ff8397449c8493",
+      "e9f12cfb95a1fd94b258647e0b638f016d3e5fd1",
+      "31cc770969ea55b51c81d533b499dc18ec4d7209",
+      "539d44ed2bcdd37c2b712059d2380295fccc34a8",
+      "cc883b7de7ea0943d2e864dd401a06825a16f75b"
+    ],
+    "hashicorp/learn-consul-vms": [
+      "56f547cdea8f4ab5b12f02001e63bcaa8945eff6",
+      "2f0735b524335e8422bd4db63920ad385b559c12",
+      "b908edc695c12067e12d90cfa42fa8edcb145b09",
+      "1f5b4dff4609a3814fa1fd97e53226dde94da8d8",
+      "7867b19488313001aa1f59d7f3621b8753ebd60f"
+    ],
+    "hashicorp/learn-hcp-waypoint-runners": [
+      "3f575d29d48a636858485373809256b84708f935",
+      "105ab15bcc10ae06bf2e5995bf6bc13802134b86",
+      "d83846fa8a5e26e9e90bf59b9dfdd29c7c5d72aa",
+      "dbd7fb698a61d39309cb8160184d8b4fabb1a8f1",
+      "1225bc5d2919a6d1cc60502b5da010d8b22000a1"
+    ],
+    "hashicorp/learn-inspec": [
+      "975f789e3b477974c2ead380ebb2543e159cb22c",
+      "1957d8302ab51062ad1b42493223aeed1356a20b",
+      "cab8e148028a40691af41aacaf90fbefc62dd09b",
+      "b3d6cef6605d7413e810b7a341de358484ed5c7d",
+      "3b467df788cd9e4a97e158b1c0ef244373c7453b"
+    ],
+    "hashicorp/learn-terraform-drift-and-opa": [
+      "ca5c6d878eed69269a72682a26091f7bd5d2c6b9",
+      "21680bc9be3bdf91f181e2d2d25e9fcd0c97785d",
+      "2b096b01b92d717dd8e3f1bd860fa501cc150acb",
+      "61a10a4fff468238bf62aa4106852826d7851967",
+      "500bfbdfe9b43a4531da063a7568c75329551d57"
+    ],
+    "hashicorp/learn-terraform-sentinel": [
+      "e5f120b800fe7a55d090882295cbdba80367e63d",
+      "3e6f6e3be9beeeaa8cea189720f713f58cb56800",
+      "3bf720897f16bb30259eb7cc3851fb6f00cf3087",
+      "80bd39752293b86033f8cc173cbfaa8afea6c42d",
+      "f8426db4e11ca85fc1817e08ecb228bfde0ed731"
+    ],
+    "hashicorp/learn-vault-external-kubernetes": [
+      "85161ec2aeda06869944474426b97c2fea48f19f"
+    ],
+    "hashicorp/learn-vault-kubernetes": [
+      "8c2c0e10bad1bd8aec670b94abc43eb0086cae90",
+      "f593f62fc2dc2baea44d1263ab31ab806e926c11",
+      "cfbb2582e23f5845ceb8d242116a97700efeb968",
+      "ed7aace1c8f4d18123dfcfdc27d1f8e04e3a2c95",
+      "125d96d0eee63521e59db65a526ef599d7e71bf8"
+    ],
+    "hashicorp/learn-waypoint-helm-deploy": [
+      "be703dabe6f9de7bd4e9809ddfeb27e70257c246",
+      "a05f40dde5137d4a955b3e202882971741679aef",
+      "077f5e9c7cfde5304e557df632488a239cd65c8a",
+      "6ef3f4c2eccd2fe049d4989baaa164bce85f4964",
+      "955f84285f99fe8a9b9e5efd24c8815c4a1bc6a2"
+    ],
+    "hashicorp/learn-waypoint-odr": [
+      "6c929e4c8d7a65559995a7de5a4c1e975dd23004",
+      "50264f9f48df6056b64892780d5bcefb12aac077",
+      "16cc5dfad8e7eff556451b189038aa9200040409",
+      "1a4cc249b6cabf521eb860d81c0d86fc8b75bcf1",
+      "3cb12d11b8c5570cc65fd466e8cb4845b3107788"
+    ],
+    "hashicorp/lets-chat": [
+      "f2bcc6976d2453bb6c79b063cfdb95f2f240a495",
+      "c4790fbb43a6f5e08580a13e2deb205b6418c7e1",
+      "ba12bca9960c916c2c237498a917eb093fdad5a9",
+      "7bbac389cc17cf46b4a17792f8aee275fa7e0638",
+      "098a3e20ab78115c527fdcf236a0bd24eccf51b7"
+    ],
+    "hashicorp/levant": [
+      "5492e67eeea99fbfd48c0396649e8b7f65f1b233",
+      "e4b740daae592e6f6cc820c9bc0ba63cc30cb386",
+      "8e75e33e5610b489bb93c914defc562efe97706c",
+      "69c14282bb68735a0fc303b03f9b30cc5ed85ca4",
+      "17feccc5f47857b492473f649fc9ae5e7fd7ba20"
+    ],
+    "hashicorp/libucl": [
+      "bf78fc2f31981411ff3bb20fb22d11056224f1c4",
+      "4d9f818345e831d5f32aada381c90733e41e48f6",
+      "8ff1ea62f006062fec35fd77dc042f46bad3c972",
+      "ef93bdea862bc6fba7e1bdb33effe575bd53bef3",
+      "fcfacc90c18aa97445cef303210c57d3b3141174"
+    ],
+    "hashicorp/lineal": [
+      "fe249fd9211af48e3c16b599c8f5a6b4db30fd2f",
+      "2d4d693999baa0105c880c394d29a2d5c6bf06ad",
+      "461b6b6959f5f56737532759c39b7dad2ebd7b9a",
+      "d13709295729c1a6bc21a4f4cdbbc5534521a850",
+      "c9d0773646d68e4a4c8ec8640d421f816cf3dec2"
+    ],
+    "hashicorp/lint-consul-retry": [
+      "0037ff951340f1caa0ac16d736f885e6f585f0ca",
+      "020a1ad76da1d4726832dac465c0617f6564bb6f",
+      "655915a09b12af073b22968b583c4058cb455dc1",
+      "5edecee4bc7cfd4062643f8fc888943c9385b8a0",
+      "d03109dc9cea3c17fd8ad7a332d5dbbf6de2dc24"
+    ],
+    "hashicorp/logutils": [
+      "ac8b318eab768be332fd34e52db153fcacb54704",
+      "8b58f49d8c9f02a8c56b5246c716f53f284971dd"
     ]
   }
 }
