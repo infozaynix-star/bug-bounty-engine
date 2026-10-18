@@ -3955,7 +3955,9 @@
       "6d8b7f9b0848eb1e68e00a093ab078c2d1234883",
       "f4ebc61d77df1fc00b6aa8bc604e91af3534dad1",
       "bd5e488a33ce3749952bd56edbf0d1f2b9a495f4",
-      "64f35cd08743e40d91b7ef66f577ea95365b8834"
+      "64f35cd08743e40d91b7ef66f577ea95365b8834",
+      "04ba445a0ce2fbfc634c36ffe8623892ee3f8952",
+      "3f3deb36819f61bff32b340a93d3e768735c778a"
     ],
     "Automattic/harper-obsidian-plugin": [
       "de5b305b94d83ac62b61ae81c1106092aa3876bf",
@@ -8163,7 +8165,11 @@
       "701a8213981244a3458f6b6ba9846c1f278af073",
       "37198642c9c5b80a8de1916fded1e3605472a7b8",
       "87e7ad92e923fc72d2d432ed002a62f4ccc7fc93",
-      "cfc901facd5b2fc59456964e5a5d2cb4612d4410"
+      "cfc901facd5b2fc59456964e5a5d2cb4612d4410",
+      "fa044c7b899879b737b31a1e90837196fb2c6c5f",
+      "9c777d854dcebf39b1b46832c6316b99da64aa06",
+      "abfd1c03af43e3142d3bbb906086697596d441e6",
+      "76546715081f75e91d59b3804933f0d24caf7b43"
     ],
     "Automattic/newspack-event-logger-plugins": [
       "a46566b2e216845421d57d9d54c631603c2859e0",
@@ -12359,7 +12365,9 @@
       "29ae85223ea77d98cb9703aa4db37510a18c4c33",
       "280f9dc3beb631039e9b572c0f7d34e5895d17df",
       "dcd2de60c5315b8cb9f80af5bf0c6db5993860ef",
-      "8d5d77f812e8c5ca33d2c0b505913dd5ad176942"
+      "8d5d77f812e8c5ca33d2c0b505913dd5ad176942",
+      "c596ba06a3961c9dada7f42e05ca9a05214ea463",
+      "bdd62b7bc101fe635300618bc0593b70044b5d19"
     ],
     "Automattic/wp-calypso-bootstrap": [
       "28a8ee926c867355a781a6865cfa3229455ccea4",
@@ -14068,7 +14076,12 @@
       "8927ea3cd36bfd9ce4ab184a020fd6c93ff72487",
       "60ba3f4a2ab974a7dff615a2efeec02dc0f1dcc9",
       "cf10ec06eeccd333d2393c3948cd0861d75ea8d9",
-      "71b627b1c0503eae066977e9371277d14977d26f"
+      "71b627b1c0503eae066977e9371277d14977d26f",
+      "ce7b69d7c8d5bdd1b4d2814777fb5818865bb710",
+      "2b54ded29afc2ba4e1de16c53192f2a5e4676bff",
+      "619f98ef9d8315cf6152cdf476d72fdf10c6fb0e",
+      "b3d0b98de0577ee3199eac8d2e57830ffcdbd8cc",
+      "038174a1fe85619abb469bffd3493a84702a46b5"
     ],
     "brave/chromium-releases": [
       "21ea0d3c72cbd02264b2d5096d2bd709fc802b20",
@@ -15405,6 +15418,13 @@
       "56892f2a3565c6a8badabd4e6364048390cb1d8d",
       "4357bc19b50a3781fba4c484807f555e3b477a9f",
       "6383015f50baa093937a22d29b5280e7ecaba0b4"
+    ],
+    "hashicorp/Master-Consumer-Repo": [
+      "5d5d0b21cf4d76b1a73d0ad5b8849e66096db724",
+      "f76eb24774a2bd183a1c7c39ad4ef5d16d707f71",
+      "c44e552c697769c5fb9f7e4942fceac8200be176",
+      "28ef9f1e6a029249fe191365168e676ace78d753",
+      "a0d0a899492c0b1a7dd2cdf5e5a00efcef03b2b6"
     ],
     "hashicorp/acctest-application-configuration": [
       "b778e58fd07363edc52c925dbae3b8d94c7d0e41"
@@ -17799,6 +17819,459 @@
     "hashicorp/logutils": [
       "ac8b318eab768be332fd34e52db153fcacb54704",
       "8b58f49d8c9f02a8c56b5246c716f53f284971dd"
+    ],
+    "hashicorp/lookerbot": [
+      "3000ada106708c5f322ac31371e0cba99819e64c",
+      "c487091a39d040edb56885cc8b19bceae5fc015d",
+      "80d6c51cff436f9ff2786e4f34550abcf2e0a1d9",
+      "e1cdf70ad5c2c63ceb2f8a6178a04f69966cf3c1",
+      "a498fa4b46d1f63fee03523fa70fbfb7748554d5"
+    ],
+    "hashicorp/magic-modules": [
+      "e56ce0e89d1d9e897b91b01c32ebd47fbfc49c4d",
+      "35f6ab5527f0545b71e27e0e5dc124c24890560b",
+      "b2265ae629f0e13d9ec36acebd8b8c6b1a429f03",
+      "d006d552c40c887b07fe5d5351ff1a9cf0178183",
+      "a3cafe8215fca0ee9b5a94fa9f0ed0c322dc1c42"
+    ],
+    "hashicorp/mdns": [
+      "deb589adf9d8b02668541b05d3f366936de33129",
+      "4375a277b999ae9281d96eace10f9a383faa5aa9",
+      "96942401af93808baed1151a8893da4845793cca",
+      "cd00f1cd03e50a787ecf33236e6d4fd7ba0cf433",
+      "1e93a87137a18fceec2bd2133503043847c00b9b"
+    ],
+    "hashicorp/memberlist": [
+      "5cd2c4b0fb09caea5de03aae1adb9c36374ef3e0",
+      "f9dee64ec46d7a18475062b76e96df0dadb3e31d",
+      "9378459e66d2e42a2154436e354a9772b3724732",
+      "4e3e17fc20e38ac48982ab6f65fec243fd139ef9",
+      "44cfdfb1d2ba6b459fd131579b86ebc0930b62b9"
+    ],
+    "hashicorp/micron-vault-workshop": [
+      "803f18d51ce4c5ed265621a7ac700e6a3ab4712e",
+      "02d7f2fb6666c17ba8a2490428e359313e32cd40",
+      "090e71ea450f2333d63778382b3eab1e81ef3b11",
+      "f5ffef31153b33034e7855693617e4b64e2b5a5d",
+      "caa19dbe7613398f8e1c7a0d73cbc9df1644f9e8"
+    ],
+    "hashicorp/microservices-architecture-on-aws": [
+      "ff3e59fe4defa9545fef89e5e6c4659d08b81889",
+      "0e73496fc694f402617859b95af97e8b784fb972",
+      "56145b80da5f2cf61ee2973ccbe80c52bd8ee5c8",
+      "12b9d10d1d346761b003b8d8380f16addf6c27cc",
+      "f96be13db9a3a3daf906b54592d1c28a9579a959"
+    ],
+    "hashicorp/microservices-architecture-on-aws-consul": [
+      "9d5699ccb87de0200a8b484265664466651b12ed",
+      "f7446b5ab3fcfa3b52a20f4a73a4a44738395e0a",
+      "4219921f54660e704f11da89fc000784064a75ef",
+      "fae0ae42ec7988843d8bbed37e86ed99e1af6455",
+      "663de6d53929c45724d05045d2afb5c28d8bad9e"
+    ],
+    "hashicorp/microservices-architecture-on-aws-sentinel": [
+      "abcc07228097151d876171b69fb4af7c6966f98b",
+      "0aaca49261444f19bcf60c6641af7c3a8fa6a212",
+      "b74424d75bfaa1d4a927b76bb8278f9d5cc280a5",
+      "24459f7f46f5630e3473770c1e6174b1f0b1c81a",
+      "7d3aa0b61ff1046f8fddee70b02fa95c608b62a6"
+    ],
+    "hashicorp/microsoft-ignite-2021-hcs-demo": [
+      "1fd1a839a256acb7bdc4cc78825b929be0623728",
+      "b206fcf663adba1ccac206f08766b9539403832a",
+      "e750082568a84be610b60a440bbe181c7a1cc774",
+      "5add2dd884954770970ad9321de36bad88712259",
+      "b6a379b3fa8494cb232d091325ec94fb1d0a3d05"
+    ],
+    "hashicorp/microsoft-oss-conference": [
+      "cae433bf349f765b4323087f9b79c9ee8a694f52",
+      "c12f7d873e2e2253924b3cdc48f309223497cd66",
+      "5a0a2d13149b19d328f0825fa7bf609b71196ea1",
+      "ffdea87a63a115ca6a8ecaf0a02f1b605ac853bf"
+    ],
+    "hashicorp/microsoft-smi-webinar": [
+      "e7452d8d20ec650976c68837a11e7dfa3345f359",
+      "489f92dd98e9c5f87df2fef33c58bdb762eba690",
+      "003bcb6fcbb66bd7ea2d978cfacea3b0b51c45c7"
+    ],
+    "hashicorp/middleman-hashicorp": [
+      "61d3497b17e4613d3d27a318910d724129e80169",
+      "24c9eea5a725364a291689132fd3bf40d6348908",
+      "a280aaf2f1c3ec7a034466df83337ff5948c7af2",
+      "ab142b441c9474a580384605fedbaa57ce6b3c3f",
+      "120c557c754083d573e5132fc0c47eb4b8e35881"
+    ],
+    "hashicorp/mktg-webdev-challenge": [
+      "e6e82eb978daafd6c565be4e0dbfb7cbac197637",
+      "67e0b934138b70d3f12659d3d29be423c2848e1d",
+      "f0974f74aa3633a67ce9fe0aede2316edb762d8f",
+      "14ea55df31a831fdb28ff2bb3e095c6429959d1f",
+      "69795953b0fd482beb6d973d456186fa35bc847e"
+    ],
+    "hashicorp/mock-proxy": [
+      "598d3817ad0abe7c94f54956c8a27fadae4083b1",
+      "cebc4a828ed64104015f95f4da0590c4c6e5e8ff",
+      "40fb605f481e2a8272be8ac724073b3e409f2e3a",
+      "09633b4e041ee1bcff3ab8a78fd09b73e2d10ab4",
+      "e036df0a75253487b5b0df7c93bf47fa4c3fba91"
+    ],
+    "hashicorp/mog": [
+      "0aecb9451b641a94e53872162fac14b4b2356069",
+      "ff6228b3f0f9b2783156e302427164d25014cc95",
+      "d9583973eef138622c70adf2f428553f2e36982f",
+      "e56f8436f962adaf0a13c7ae7d730d7842e46627",
+      "31d8a77f6a38f7eea97de9dc5f4b856b4b07832e"
+    ],
+    "hashicorp/mql": [
+      "4dffe897334209d10c68b8090aa50e264f7d16d7",
+      "82b3c7b67f97c117a698d17a034404fe9884d88c",
+      "dc2ac1a1d87d7b26941d52239ed3b9f75b51dbf6",
+      "7890165d1b2b230607c2d69997326be85c29bd29",
+      "69e0e2c3bc69713bcd0c4322515083b284c3326e"
+    ],
+    "hashicorp/multi-cloud-k8-demo": [
+      "6d54d197a83e43aa80102af43b0f686f99ca5251",
+      "5e207a6d2ecab364905ac1ba0e7efb01491710ca",
+      "a1ef0b8674648a1e10141a2b5a18261100b2249a",
+      "6d0d4bdd9717127a94be1f1705cc5180959b6459",
+      "2443296b7c7dd332dd7593ff6188aec28a1e4d34"
+    ],
+    "hashicorp/multiple-envs": [
+      "65ec6a8bb75ffd31bf834606628543186c9a3d1f",
+      "94620e5865f803adf46ea05d10a5016741e8bee0",
+      "7f98f8bbd56c849d755e0b4d53bacfd33ee5e242",
+      "a6c8452f979028b0fe30664b57188ba8bfc122e0",
+      "2c4bcaa41d044a4a25ffd17c86389ddc8f3a2e90"
+    ],
+    "hashicorp/net-rpc-msgpackrpc": [
+      "14bf271b68c521e0fa5886413520914a66eaa796",
+      "9776e49247d08e6b23b8a0169d902277439d893a",
+      "dc02ea8148a9cbc454e1299203e59ab125c6f160",
+      "39df8463d03edb44d1e41b03b4a675b49b6a6d0a",
+      "056e9436b5733c6cd642d5979f61e0c4e052222a"
+    ],
+    "hashicorp/netlify-to-nextjs-redirect-exporter": [
+      "21cd854a61e62a0914c5373558c3020d9205eafa",
+      "27ecf5fb9ed5e8a6a3dfd9678ec290fa023f79fd",
+      "bad9f1acf69773061995007ea37cbbcbec73b954",
+      "95dbe50e0985b196a4d216efe1e450716c4d15c4",
+      "027d355d86c68810daa566518df4afb85349c684"
+    ],
+    "hashicorp/next-mdx-enhanced": [
+      "b726d4dac18c171fdec1da26fc6e30a54f41518d",
+      "b277028d9a0aac15af6e7ea3a0e2c5ff8fe29e62",
+      "54778119cb28e487562abaff048c0ca9a7fd253e",
+      "95cbf00286fbb8085e15b74e1177a40c030e0872",
+      "b7df94c7256bec57daf07e43c98b312d02bc2041"
+    ],
+    "hashicorp/next-mdx-remote": [
+      "1ac008b586fe8b14f8870c21c7dca9bd73cb54a4",
+      "69fdfdc4759782db85580d97c3ba50747355b07b",
+      "f9aed8ebf4e4396cc10849f295e74157835165ee",
+      "4d527fdcaed911b87f427d0b4d3c711e817fa4b3",
+      "ededdf569ba10977601c2af924d0ad74badad3f6"
+    ],
+    "hashicorp/next-optimized-images": [
+      "f2d082af2f55d8da2ff8ed594a85754385b9ccad",
+      "b32b280c862af79dcb917cc44e33fbb1357d5c59",
+      "7fb69c03bb06f831d225af19142785134db1d8a0",
+      "c8d136c1020c39c88b3292e637fe29c79667169c",
+      "bf9c70b29799f8c0c14e276789a41cca628893b3"
+    ],
+    "hashicorp/next-remote-watch": [
+      "06f59d956e0b44e8c7749ea91fe307a33b6c515f",
+      "d32108651e445391cfff205c85eb5a1ad7c36390",
+      "f4b9886a70c36b27f96cfa266ad582626823d697",
+      "6a56b7fc42d4f354ed6da61626074ac51d1c2783",
+      "9e1b4d6ac9b1acd9278e47f257f8d5b430f5580e"
+    ],
+    "hashicorp/next.js": [
+      "f701e75693baed0694554055fc78f7dbe7cb0c4a",
+      "1044b124a56e023e69b0ad82931019aacb0aff93",
+      "31597bbd18f309954eceaf3420382a0d6799404b",
+      "80ed74bcae4f3f4c28330497d08c0cb588b80566",
+      "57ec121d48cb94bec93a1259d3c3c6c0342c33da"
+    ],
+    "hashicorp/nextjs-bundle-analysis": [
+      "f32e5f7f0f66a1347343c308ff407a8e2beca568",
+      "dd7ee4180644ec1ae055f8b340b719d25a88a007",
+      "c10dcbaf1cfa88f5dd16982e1df8a228b7b35b65",
+      "814a6161addea4719c1170379751dd1e46124fe9",
+      "894bd513b5c14d75ba5a51631c1b4b948566aacf"
+    ],
+    "hashicorp/ngx_http_consul_backend_module": [
+      "d8c57c2a4ee152f2b2d98b4dcd7850661ef96c5c",
+      "8c5a14d7a41084e868f896dba212afa1964a3c84",
+      "62c7a501aeeab71bb72dd620ad6f00e848be0b1e",
+      "3e25a15e24b9805c20370606dc0c40b50ff5577e",
+      "8c0f47b081db46b33dc0a93a18f2efb3fd35e277"
+    ],
+    "hashicorp/nodeenrollment": [
+      "a7ba01590f07a28f215e3d2f441882e45e048e01",
+      "7001c94e61603397f568973043f48fd3dc953404",
+      "8202db9bdefacae4e70aa2c76aabf3e5e137c037",
+      "244fe8ca9323fdb8df7bd65e8ad57063b3759c30",
+      "6cd6c3ec73b50f345426f850c314e866fd648ecd"
+    ],
+    "hashicorp/nomad": [
+      "df630b26e78a212e5f707e0b52381434f24e8be9",
+      "0c8fe412fab29c7442b9ce0387ba29b6130c2fb8",
+      "e993465c5a6bbf221163feec186362836e901de7",
+      "bf24b0dd97430d3b364b68b1f7375e85e585778f",
+      "9f90f8838c89e9b80ae4236dbbcd87a9d7c85cf5"
+    ],
+    "hashicorp/nomad-auto-join": [
+      "69a2314b59d97f9bd71b33c2ebe13812315844ff",
+      "b0ec3a5f45c83348505806ee58f4bd0ba92226da",
+      "82fd0d7ff38c0e91a9998138e10f764e3d897baf",
+      "975c03ef4a9ae2badafb1a94266956f158da09ec",
+      "4d0c6bfc9021dcf0c06f7d8b219a611f695079d1"
+    ],
+    "hashicorp/nomad-autoscaler": [
+      "81cc3387bfdb93ce91fa4b70bdb07a98742ade08",
+      "374bb7793c99ed35b94e63a0f61c69caec240adb",
+      "7a328fe967b8da0737c6c5683bebb9b295001bba",
+      "5c3afb359eb2a6dfd38b0b560604c682eb249f16",
+      "5f97225405d1b7bfbacda11fe2564ce21e4f0d13"
+    ],
+    "hashicorp/nomad-autoscaler-demos": [
+      "700010327931f2e0b3e48811000d62957b2150bb",
+      "56f80ed35ce2a4279f9b15def1f22425334ee102",
+      "b40b479791ea258596592547d04157e5cb1dde1b",
+      "7fb4725adf5e9817e3abc905aa697f72cdc58854",
+      "cc2b323094c18f36a39115872ed49a99ac88f8e3"
+    ],
+    "hashicorp/nomad-cheatsheet": [
+      "190958832a72170510238495a67201f2b5062cf2",
+      "a695aa32e12560cfbdb4753e9eae941cce0be5b3",
+      "c9c9000cff7790319a5bf8f5ec4f24b5da111c5d",
+      "7151b74f210e000751ac414960dacc31065c0c4b",
+      "aab8191444cb4886cb10c1ca00cc8b95b02d2913"
+    ],
+    "hashicorp/nomad-connect-examples": [
+      "22f7d8ecffcee80bf0284b1510273584c4d9d687",
+      "de24ac1b26760039172c642f49cb9c686b10f2a5",
+      "c394274fefe3c083d1a7371f7701c36e0f08915c",
+      "53fa674537b074deb806646ed3f0b021cbc204de",
+      "663bc4f34c8d9d6cf9e4a33ae958e8f0b09d06f7"
+    ],
+    "hashicorp/nomad-debug": [
+      "1e09e92e19b60530efd951ea1433228b1dff21de",
+      "173746ba90865498954d2fc9bdbf218ab5783b39",
+      "5d127ebcd5e2017d9fc9df24218027bd007e065f",
+      "f1d80723143e214096cb8c58d0dc190959c5eea2",
+      "eaae9960172dff0bba6be73f5f5e916dbb22c19f"
+    ],
+    "hashicorp/nomad-device-nvidia": [
+      "7a54233a0db1a48f3cca665c13e7f9d885017427",
+      "65ab1d3f82781f932090363aa72af64f8898533e",
+      "399d857be48e2e5ce942694d3de124868a2cc49a",
+      "85432c6752f736be2900b854e030eb9d2728acfb",
+      "0294c27712d6e21ea992a238c5204f2bacf818c0"
+    ],
+    "hashicorp/nomad-dispatch-ffmpeg": [
+      "46ffc90b68b282c74dc922be5d6e056b1e456565",
+      "7c99f7225edf1cc5a835b315ea30dc3a9b2254f4",
+      "e3b40bc503be60f42aeef30e9e9a75f58e9245e8",
+      "81b971f017934a2c3bc094f5abc2d2d784b12bfd",
+      "30fa04606c096991114a685e4117b10afb317faa"
+    ],
+    "hashicorp/nomad-driver-ecs": [
+      "943427a5c5c6caad5888191a4d8854105411e8e6",
+      "9625bd69b2078eb7ecc2f1cb14d1d350847aa232",
+      "9dc3121da5ad6d975f267ac915b8096deac7afb3",
+      "b47275b11981e827d8d9d1889226e4defbb105d0",
+      "0742b865c53e99d9c799f8016be3a5e1c536619d"
+    ],
+    "hashicorp/nomad-driver-exec2": [
+      "3820bb2607913fa58154b665aa85e250ac3c245a",
+      "9ecd08aecf8a14dd361a6e190ecb21075466a026",
+      "6ff8d5e6ecdd441422126ef6cc3dfd477481a162",
+      "39b2295763a61f46f0c877ddcbb7cc39f9c6379d",
+      "a675655ae33399bb5254776f9fa3525de6ef45c1"
+    ],
+    "hashicorp/nomad-driver-lxc": [
+      "7f2a4597625e42fe4497aa823e5f0fa280e848ec",
+      "d418104dc7cddd69fd78f18dd0b3d8be34df6e5a",
+      "65f8c1f8e3d5f49f238402aa7b8009306d42fd4c",
+      "68239f4f639bde68e80616b7e931b8cc368969b0",
+      "a36f153581cf5f289cbfd58a88588c1fcca3833a"
+    ],
+    "hashicorp/nomad-driver-podman": [
+      "9b42e0a484a4d032d031a25d45049212a831d147",
+      "08e1624ce6798496cbdf70e06682a10a2f778fc2",
+      "3852961933021bb13202ef34efbbd198c9133b3c",
+      "baf511a6f1a7e6e46143ecdef9e8c3dbe282dfa4",
+      "08ef9c70644936c6c1e21476a0e4acdd5c6a86f3"
+    ],
+    "hashicorp/nomad-driver-rkt": [
+      "bcdecbf76551d76baf6d6c45db7cd7f8d5a6170a",
+      "8193c3aafb82448639f643577a5e94e984402d28",
+      "f2b36eddc09e31b1d03187e1f7f98f44fb5d3340",
+      "863c7265fee2eb8e4566031184505140e0be5de1",
+      "57809d9c4b423821a99f6150e14d757862e4bf5f"
+    ],
+    "hashicorp/nomad-driver-virt": [
+      "4bfa7814798ee31a388318c9a25293624172cfda",
+      "a5df9517cb3a5b97046fe62159a4be00b30dfcbc",
+      "796f7ec160aa6315fb355a6dcfa4ade3b607bde5",
+      "57e7de1e4b82342ed2aff751f27c2dbb552c0d28",
+      "4c1df63cad7f98a00fdcaa168e7c409bdff2a31b"
+    ],
+    "hashicorp/nomad-education-content": [
+      "0ebf358ae110c7dc7ab0564602f3c35d650473fb",
+      "0ed713ba8cdde84c769e2e264eca30d8bf20366e",
+      "c39b3630fb5600a139176be941ccfa88ef35df31",
+      "acb803f6a15a1625e3dc789e68786246e2408ed8",
+      "38bd33f49339b5eaee3dd53677e546c8f0492d0b"
+    ],
+    "hashicorp/nomad-guides": [
+      "eba21eaa5d7df1a6571dc6d15d969118164e1fb2",
+      "cdda5a0ebaaa2c009783c24e98817622d9b7593a",
+      "f98a83aa70ca3121648b5fa09948da034ae21a0c",
+      "e33d23b1b35b38b0ef74fbfe6242c8ecd98b1fa1",
+      "3ce93608beb1a5aaf329ff93e5357a3df20c5cf6"
+    ],
+    "hashicorp/nomad-java-sdk": [
+      "1a05838b1bdfde9a1fc8a5a85e5154386f7a9daa",
+      "5a1e61a67458b5a4da724d993de8bdc10619a0b0",
+      "511b72ed79a80e344bcdc3d603baeee70ba4060e",
+      "b1b37e4ac7f20bbb2db06821013488ca25e7b861",
+      "2af29f7934e8d8e3fbeedc71cdc71c37f0157c0e"
+    ],
+    "hashicorp/nomad-open-telemetry-getting-started": [
+      "97366ab39cd23d43ba173a4fd8e7edb0d008a487",
+      "3aa7bb2e02415403e73a0fdaeb2e7bb2c9150d32",
+      "39c5eb1c8925525e71149becc304eac48114c0c9",
+      "7b442afdc986dcf7b8bd62fe6797296783dace1f",
+      "0981a2ff7600ea3e7ccdfd584985a360d01091a1"
+    ],
+    "hashicorp/nomad-openapi": [
+      "91c4cd105ec4a5347c633633361249fb63de6391",
+      "cb5f4039639886c72de6cde23763a9814c91130d",
+      "189593fe34a66cc180d36679cfdc2c0af18abbc3",
+      "33c9d2d9ac36f468d7b07f8d6de821940939cdbe",
+      "5005b467f32f9f1b2d7af1898b9f44bf69685c68"
+    ],
+    "hashicorp/nomad-pack": [
+      "bf68c45389c7b02e889d5b65bc80e83760f03697",
+      "2d264e399705f6c5c8efde6f3a8e3a89bfee686c",
+      "50b1e6665e52babee4f5ee691c202f2f587b0765",
+      "884a47bce91b2039b74dfec08c6a74692b310fcd",
+      "e885b838ed6fd13da0986642aae2239a6be233bf"
+    ],
+    "hashicorp/nomad-pack-community-registry": [
+      "7a9eee6c26cbcfa7907b1bf170662e85dcb98e1c",
+      "e8fee1dede508e10091cf4318ac4ae95616f7025",
+      "2e5e93a5589d4b26c6ea5a39db22f2a80a176f77",
+      "435f65aad4445592b5db36bcea0d4cbb53b7f653",
+      "2a43af42b31fa79958e56c92f69d4dac70df0a78"
+    ],
+    "hashicorp/nomad-pocs": [
+      "2c3288e3726a133ff59e581011a3130a317dabc6",
+      "3eba191776698947cac72a045d125345bd1a0f2b"
+    ],
+    "hashicorp/nomad-ruby": [
+      "3f1f4e3a29eadf8736f9c9f853cf52ceb6ba7dc3",
+      "f86d667bebc8f77009fa0f7e07260f7842797ab7",
+      "0d274fc3707c0038abe4bd5b1aa565626aa56a00",
+      "e6f62cd5a412b63c19799f7ccf7a55bd39a82754",
+      "03bf26792e7e54e46547f7c210c342f380987fee"
+    ],
+    "hashicorp/nomad-scala-sdk": [
+      "4198dab8012ca75aa97a1a844a8c01b1bd007714",
+      "08f362fbd332b7f03583cc63e742f524155c0473",
+      "4fe2998c44bbb47c2ff271a78ce0863f0d56fd15",
+      "50527b3d8014e12723610bb65712e01342c9ca60",
+      "4cd356618240feeeb78f96ae3906e62232918551"
+    ],
+    "hashicorp/nomad-skeleton-device-plugin": [
+      "4272e04a2ea03f011b63d54253fc69e3ed029c10",
+      "81925e583c19b75110302f72a4daace16b4bc712",
+      "c1f6a47981c115e917bb709619550e9d55998f06",
+      "580f88184f4aa8eca03b7ba8e94aeb5fd68ab56a",
+      "fe3adeba5ab3c5eacab264acc2e87c28c4ffdeb9"
+    ],
+    "hashicorp/nomad-skeleton-driver-plugin": [
+      "5dab5257e45b885e83689cd40a8c775e657f5d35",
+      "2192bdc59c789c91ef6544cf5a3ddd09feb14b06",
+      "19388c56f1fa3b666268b37f7cd3fb977c15d298",
+      "42bc5546c1268bc910be8e8c43216b523b148f2b",
+      "14356f6bb6d6af1ea8feacaa57480c10321063e7"
+    ],
+    "hashicorp/nomad-spark": [
+      "2c6092a2a6df6236282d2777e7de4a11c76f7cd6"
+    ],
+    "hashicorp/nomad-spark-bench": [
+      "0f7b915031b0843d854adc6869924d6149303628",
+      "380a9ebf7c2e07aec7b4f8552d96d5a1fd2b48d3",
+      "4fb20de1f59f9b764e0ec2ec1d3f4002658eadfc",
+      "5661b6b0c9fdf9cf24cfae92583689453465c21f",
+      "462cdc7dfa44b5915197d5e2d36197a152953cc6"
+    ],
+    "hashicorp/observability-as-code": [
+      "7e0a4cac17d5d020d3341d3f18345b9ac7a90b25",
+      "e824535e2c46dd9eece59982575db10925eee717",
+      "f714795e6c3fb9595d69d0bb826f853060bafb1b",
+      "fc83025d5a59ba21e78166ade794887ab92de4bd",
+      "f5868788e8254bd67a86baf4993b9b87280bc57f"
+    ],
+    "hashicorp/opaqueany": [
+      "81be31706b0472ac4574737fb4a1e422439b849c",
+      "ef9a97d64169b2f2e742cbd74aa3d268d9ccb8d0",
+      "a5c6ff5bb0ec3ac7670fd8bfa16e734a1bffc48c",
+      "086b3ebbe637308c4962fd4470d4ca7a637a6a18"
+    ],
+    "hashicorp/otto": [
+      "e051dad4132d934cafe2545d5096d2d5996d5efb",
+      "6620093f2e4c2fb46c8ffb83552cdc2a83a3d513",
+      "2adf84a2876b78731136d30c0f5935ecaa915eb8",
+      "1824c4f39c025e3f9e6e07b559e2a22f64ebf577",
+      "8cd6faf5b825d0eea597b6207ec00f8d7dc2f6f8"
+    ],
+    "hashicorp/otto-example-app-plugin": [
+      "e1f7a44e108365c2cb6c69979c4916051a67bfa3",
+      "f071b3d31b2aa76138aa8e2758a07ddb98327611",
+      "5b5de61639ac03d8efba76ef19c9b1dbc8eb24e9",
+      "8ad1f13373de1963f26e88ded4d7682c339bdb47",
+      "8210367c5823918d076ca1a77e4e8e0feb155583"
+    ],
+    "hashicorp/otto-getting-started": [
+      "a7760a1b5f2b07369da4611626aa862744f4c82f",
+      "3ae570d7c8b819fb450d529b6b4ee24de1fb5ae8",
+      "7e009f664d4ee4d4b438b5eb03e5221462a6900f",
+      "3f26e4c53dbf552ac68082788b37857d87c02249",
+      "c23bb817ebb6c724dd8069d2dadd5446a04470b6"
+    ],
+    "hashicorp/packer": [
+      "51ba09f6e41b5c46b9793f228abeb24c9210b03f",
+      "abe1bb6afff4b2868d4823d68031d827a5a1504e",
+      "1582f20e52f8325ec65db730b6bc677bb1f124b5",
+      "b7f6981d256fa6438723ea97c1eab1ca07e6fe87",
+      "248f7da29f469e5586f25c7ddfc4e6807691722c"
+    ],
+    "hashicorp/packer-builder-vsphere": [
+      "4ec004e18e977a5b8a3a28f4b24279b6993d7e7c",
+      "5ae06f4373ff0976bf2899be40ae00a382ab6f4d",
+      "c8824f148c3e491590a30aa561635165537f3aa1",
+      "fb9038b0b29d37c22735d71d3041b8cfa1a00275",
+      "69e31bc126bbc861d32c7f9bbfd796b10f3a525b"
+    ],
+    "hashicorp/packer-list-all-files": [
+      "d5c2f2c39ced1b46b28c67616dbbb21a9fea517f"
+    ],
+    "hashicorp/packer-plugin-alicloud": [
+      "d48a5691e779e264beb8eaf45f5785d2c3a70625",
+      "53fc3e871a703aec59b47dd85243e1c626c7cb9c",
+      "8cc5c883d2a3ea6e0c4fdaff826e784badded1f4",
+      "8dba9248d8dd42b851e43ef9d004dcde41f4216f",
+      "37b0a5803fecac0c20135c428c4f416916863e08"
+    ],
+    "hashicorp/packer-plugin-amazon": [
+      "a17b083043480ae48dabf797bc149856467ceb2f",
+      "f24ff7213a76d72bbbcb45226631a7fce542faf0",
+      "438ab77907f526621e4b32a598c9c768b882ea49",
+      "45090b46ed1f4eba18c68a7b76bc99ef3c18873d"
     ]
   }
 }
