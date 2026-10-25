@@ -13682,7 +13682,12 @@
       "6f3ece466d35d8ed5afe06699d12fb4d6dea0ac8",
       "003dc3a2ddcca7eb67cbbbf49153b86163310fdb",
       "ecdd2ec94ddf8aee56412165b396b28a93beea29",
-      "230b9ce1a8baae84db1e97883389a626b99f62d2"
+      "230b9ce1a8baae84db1e97883389a626b99f62d2",
+      "09819d5b0aeb2eb76d424d54a06e18c573dceb62",
+      "dc9b2e4cd69ff5e409f4420fbcf62187a1d7a16c",
+      "a25e22272a43ce7c926e362f4f52d27687f37dce",
+      "b32accbf3e3eed66efd50d70555cd0c1283b5b5f",
+      "bb68280b25d1e46fa01c2c614c5ae14fac97020a"
     ],
     "Automattic/studio-demo-site-companion": [
       "052cc68a7a098041bea00c0241b0407b5bc4b41e",
@@ -15890,7 +15895,12 @@
       "35abfba93a3bb1441f6ec896c6a7dff2b0403746",
       "16324b2095e287628d698ec79ff5e74bd9887315",
       "5d34d454df0f99a667c206f16e0140a6a2d5b34b",
-      "d12706c3a6799a67a4e838184a49d00f72e82081"
+      "d12706c3a6799a67a4e838184a49d00f72e82081",
+      "6ec0d5f9833f86ea7d69c4dd0728fbb9a18da27e",
+      "5cb1628c8f7ca5c55590ddabe8e8986fd2728f4f",
+      "c10701b84f8368a05e1f1951149faac4bb935ac1",
+      "fe3397b38bf2a9ee372eefe7d5e39dce9411d603",
+      "2e7a1531c090137499c649808e57f7bde75dd1f2"
     ],
     "Automattic/wp-calypso-bootstrap": [
       "28a8ee926c867355a781a6865cfa3229455ccea4",
@@ -18079,7 +18089,12 @@
       "bfa7a4c54fa17c27054c8c0f5e75b7d3fc1914cd",
       "1a3783d9d513bd55937fcd28b7ae76305831f3c5",
       "112bbb5b2e4020564cfc3f70a5150bb94cbbb953",
-      "a6dad415639369f18cf42a44e06f15db8e1e7547"
+      "a6dad415639369f18cf42a44e06f15db8e1e7547",
+      "d7fef05a6f05ddee4d8db18ae5a956e251d7be7f",
+      "56bebc49e6b6d389e52e0ff7c0b665c0177c7d23",
+      "1cb8a9281b633c540feff51fc0c28aa45ad35e88",
+      "5b05cc16e960a021389ef9b543ab38a037c38d60",
+      "efac2048057d7831ed41d906e9e5da63b9253ed6"
     ],
     "brave/chromium-releases": [
       "21ea0d3c72cbd02264b2d5096d2bd709fc802b20",
@@ -22644,7 +22659,12 @@
       "c82575d68127e9d2ec6980223af2e7f21a872ddd",
       "969f9f9fbfa1f22f115b620f986c3f70efb68ff5",
       "e09b8dceab9395055d903ac6b9f3d023d104f8ed",
-      "f1a023d3c26951ed137367f23e90ac28945b3fb6"
+      "f1a023d3c26951ed137367f23e90ac28945b3fb6",
+      "898305a5ae09f800d178372699400a27958c265a",
+      "7e6b070e41402974bdef16a28017d1f4dbc905d3",
+      "6bda0424f222140a260dbb07a3d1e9a7e88a74f3",
+      "4c49e503b258b1ec0b84eac50a7a3c4ef0a4c956",
+      "e5793d08cc82602706a73ff2fc3128a8e29e4367"
     ],
     "hashicorp/packer-plugin-tencentcloud": [
       "02f798a26ae2b3fb57d5bea1d3acbbbea31574a9",
