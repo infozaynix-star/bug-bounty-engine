@@ -2020,7 +2020,9 @@
       "a9595690bd7651e16c98efe8e3c26bc7d9135f3a",
       "456b9635b671008e725bf5f6d86a599a676c005f",
       "2bedcd0858b7506d2adcef5c341f40ee4d9de4a2",
-      "11ad28f91cb0073d9a83a10f9188ee7515977b4b"
+      "11ad28f91cb0073d9a83a10f9188ee7515977b4b",
+      "d46193fd4e17c3ec92073826616fbc526db857e9",
+      "1cefb9832275fb013454da0030f30d2cb22df554"
     ],
     "Automattic/blocks-engine-php-transformer": [
       "23cc29f2da29df5adf7863b71d713252bd232c46",
@@ -2416,7 +2418,9 @@
       "0f19625b059ad307e03e17246f86a671403db021",
       "95f0ebd8ab94633a271aad74832799823411703e",
       "e921665bc285b1e9c64a40c5060cccf33a5958d8",
-      "1915bd5094ce9c5c630bc93dd4ac879ad6f06bbb"
+      "1915bd5094ce9c5c630bc93dd4ac879ad6f06bbb",
+      "89ab82e041a3631b9f1306b1af29520a4818b11c",
+      "f9fec28b02c9596a9ab968c9bd23c13b18737d05"
     ],
     "Automattic/blocks-everywhere": [
       "1857fcca96989bc58c57db05a70712c2dba0e0df",
@@ -3086,7 +3090,12 @@
       "4e585fcd8f6ef4c2154c0312812641d62470033e",
       "823c8649e541157d5d4cb426ad81dc66e5352538",
       "59ba7c985fb38e6699294500d918e64891846d96",
-      "73c8c0a2d81c7a02cc926db9451a60a84af76985"
+      "73c8c0a2d81c7a02cc926db9451a60a84af76985",
+      "9fe92beb81e18b91e1bb4cb1d954e4b8b816a301",
+      "ac3b7ddf9b9bfbaf261aaa2b02d4aeb0fa65eaa9",
+      "fdc98bb5a98b3d97b7a56bca57728239f52bbe9b",
+      "448826e4752fffa02587dedbbd06841df61987ef",
+      "2d67e55a4a23d30a3ceade6fafa2fc79e2584615"
     ],
     "Automattic/colorbox": [
       "9a6ffbb9d020009f03b4559cc6edf73e86c81162",
@@ -3722,7 +3731,8 @@
       "bca481d9d78b3739adbd6f264ab5b0243316d600",
       "b02192feb1a96ef84d0604e8adb47ef45eb0c80f",
       "f2cf0d55c40c2d777431cbe5ba4986f35fa44e41",
-      "af5fcdc35cf1bab9fc7b2e8b77ee6866b5faef5d"
+      "af5fcdc35cf1bab9fc7b2e8b77ee6866b5faef5d",
+      "79ab2a5ec62b1ffc40e29fe2fa64284277986ea2"
     ],
     "Automattic/dataviz-blocks": [
       "e0ec03b6a614ca85c5461b38bd8df8589c78fe9d",
@@ -12726,7 +12736,8 @@
       "7006969385963a5182b14c088ad37a8c81ef8001",
       "85933066203b42fb129f3b02a9483bfa44989030",
       "c639fb6bde2c81dc0f26764ff1627d5004c6dbad",
-      "2ba9ad6927b366ff161d1af87331cf85a3126772"
+      "2ba9ad6927b366ff161d1af87331cf85a3126772",
+      "dbf9bd44f27629bf58ac07146dbb9fa2837b6c70"
     ],
     "Automattic/newspack-co-authors-plus-tools": [
       "191df32ef794a62d8ec7491ed84978a45a08ca59",
@@ -12996,7 +13007,8 @@
       "902cbd1b7ab5b9250948ef4f12ae9888c7c554c0",
       "cfeec53c24560b0d16367625b62303bd0d73d962",
       "ec1f12068f7e36f6a9afb0093950b4f8f783aa4e",
-      "b939ea5beb83cc16918912e007ee543637bd6469"
+      "b939ea5beb83cc16918912e007ee543637bd6469",
+      "4a30fb844d86ce6ea327bb323347413c76a7d0a9"
     ],
     "Automattic/newspack-event-logger-plugins": [
       "a46566b2e216845421d57d9d54c631603c2859e0",
@@ -13115,7 +13127,11 @@
       "45dd12b1108d352ed275755cbf343a35de8a1319",
       "8e7ac8e03c225a93b69d1982ecc55de60a81e1ee",
       "33df60623dcbb8811984b402b4d6a921c184d0e9",
-      "bbd50a26e10ff7eac16263301a72abb8c33b3ee5"
+      "bbd50a26e10ff7eac16263301a72abb8c33b3ee5",
+      "9ba0c30834354fcd3ec33653ef2f6510c2542c27",
+      "4b2836f860b16101f9c242ebb97bc490a3ed00cf",
+      "459a637ae64d4ad779ccfa08d512f4d9d2fe1c7e",
+      "bf1c575cdf256b0f41923ae63b890a12e8f6eb91"
     ],
     "Automattic/newspack-ios": [
       "fd901cc5d11575ca5498705f466543a4b1153b44",
@@ -13409,7 +13425,10 @@
       "2816fe961cd2e9cfc7f4f6112f8bbce8ef218b06",
       "1d849e8e0af1aa9722822fc3b2f33dd56a0ee847",
       "764c74c7383000855d4ae358649ce69339c169c6",
-      "108977a511426248811ce521e369b830d239cd39"
+      "108977a511426248811ce521e369b830d239cd39",
+      "3837394e47092335a19419a678ce050fcf5e5e6a",
+      "bb9c3782ed8e8e2bdf0a7eb904366d9dd442927c",
+      "1ee4a4e6ae85d6c47f21bdcb503663ff52de4400"
     ],
     "Automattic/newspack-plugin": [
       "21d5921609c63e2de41c58b70d9ea5e934ff5360",
@@ -16223,7 +16242,12 @@
       "eab3778b824f243741938c1b4ac8b68687bbd6bc",
       "a5c6b7e5c360deeeec31446051939ae1f390fed6",
       "e17eb50a6cca8f08c1e336ec2507ab2a9fb1ef69",
-      "e303b71fb856f81c90b5affc5618739022088011"
+      "e303b71fb856f81c90b5affc5618739022088011",
+      "bb55b06a9f6a8d366e1f8c522015c47af68b18fb",
+      "b80e544143889074ccadc1ea6ddb5cf1156cc899",
+      "8e92e9aa10f2d86c3c853850f3592c9009def986",
+      "e6a1fddc3b14d30cad457e7d6ea6063874e95e1b",
+      "2127fec93bc7f053df6daad78dba6276da87c8b1"
     ],
     "Automattic/stats-agent-experiment": [
       "166d4bc6bb2ef5dbae048a343185a621738e0f14",
@@ -20338,7 +20362,9 @@
       "a037cb40464c59a02f26d041d286ce871cfc1249",
       "c88cf3db84f815e45b0531fa8ea8971eb6e40837",
       "3e88511b86bfd610af6784dbab100960bfad6974",
-      "628b41dc30be12640cd9a15350bfc5a77c9fa3e3"
+      "628b41dc30be12640cd9a15350bfc5a77c9fa3e3",
+      "c2fda5139bc01ccabedc22560ee2af442bc73dc2",
+      "74d895a8f6b7b4344c088075ac13a6373e533145"
     ],
     "brave/autoplay-whitelist": [
       "216bf2b2925dcead0171aece61823d64cd5aaed1",
@@ -21821,7 +21847,12 @@
       "c035b5b30743bce7f34e70d00754f362aea353a9",
       "78971efe8c231919e6191a3460f7a816062ed874",
       "83c038cd3c2540bd275d5abe3ce1a13af849fb75",
-      "33427b1b38ce0fe91d1f76059eea96dcabf67b93"
+      "33427b1b38ce0fe91d1f76059eea96dcabf67b93",
+      "025f17c0676f03548bbd4c3edb9002acbb353f22",
+      "90ae08bb37a9fec1d94e6e2271b68dc5eb68721d",
+      "76057c483d8dc866269282032e8f246b25ff84dc",
+      "ae721cdfa93afb9ff497c2549817c8c89ffb10b5",
+      "dde8f79a5a309a3a339b78a7dd620b91b02b2c9d"
     ],
     "brave/chromium-releases": [
       "21ea0d3c72cbd02264b2d5096d2bd709fc802b20",
@@ -22403,7 +22434,8 @@
       "981dc0098cb0f702f87a12d836269d76e8dcbe93",
       "463391b1842d18d4ad271cb399960cf578376fb7",
       "c5f9c8f78f3df5b767a83ad67babd8b29323266a",
-      "850e0289c4cd3da9426e67108a933211a2ad98d4"
+      "850e0289c4cd3da9426e67108a933211a2ad98d4",
+      "3dcf0ebd3c1f3b1d074f48edf93a64fd657a7208"
     ],
     "brave/leo-local-models": [
       "852080fd51e3a55474d3f4c81fe19e7c6b6b026f",
@@ -23208,7 +23240,9 @@
       "be240181d243d312ce3e7d8d6a03d5a6c6d95fe9",
       "d8007a2557d22868dee55b220993a770ffbb4285",
       "38406ed369b199b54324d572331ab385771a94f1",
-      "8866c000f5e24de2d79eb85b26e009be401c5487"
+      "8866c000f5e24de2d79eb85b26e009be401c5487",
+      "c1cb15eae220a8f7e5d5767eb57cdbb132caf1ca",
+      "e078068e3fe88a876725d80e2ee0dd8f7fe9b700"
     ],
     "brave/wallet-standard-brave": [
       "6c7c19c59744ef3e61cfa483a2741be439996a4d",
@@ -23226,7 +23260,8 @@
       "5b60f585e1ae406289ca76791cc1d7cde8127710",
       "80791e59ab389f3a49c94748f799dc3b5d8adb6b",
       "5f12eff09df5645e2b39d3eb4b20e5f02e7b525f",
-      "b09196e20c5a234e11102b4c1566dd934aeb3abe"
+      "b09196e20c5a234e11102b4c1566dd934aeb3abe",
+      "a3ec3b6196ec34974ed9b760034d87ceadd23e6e"
     ],
     "brave/webkit-content-filter-validator": [
       "9ed91e24387da380b84a138caf6a52c859fd920a",
