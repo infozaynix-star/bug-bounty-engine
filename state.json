@@ -1434,6 +1434,9 @@
       "6fedb01644dba04fa70fb635d70415045c900f2b",
       "1333cdfb60623de083b30963eb05f37c4d258c7e"
     ],
+    "Automattic/avif-jxl-benchmark": [
+      "d2711aa0f188bff01d8843802ded5eab4994feca"
+    ],
     "Automattic/azure-sdk-for-rust": [
       "7064aeb59d304e1cf7c86a3feae6e680a7f138b0",
       "729b65d9203675899626e2be6051b95f7588fe95",
@@ -2027,7 +2030,12 @@
       "0cb7367660cc91479ee98a5542d1359f6f371fbf",
       "ad42b12acd78bbd82868defe20f6bd91bcf43c7e",
       "8d777e886d901255569b9fb79e5ce01330222178",
-      "47d18032f66443df2b1d90551ede6257b67cde78"
+      "47d18032f66443df2b1d90551ede6257b67cde78",
+      "0ba3c0fad53bdaf357ed7dfc131e3e4dda3bc8d3",
+      "381e0be88c887b7c1e58f4f32261a61bc64a937d",
+      "061ad6af5447602ade6bca437471cff9bbbb3dd6",
+      "91d98c9878c9f0f819fd0f1c6872096345131111",
+      "e37539f55fd458ee4afa1a0ee00de7a1730e14c0"
     ],
     "Automattic/blocks-engine-php-transformer": [
       "23cc29f2da29df5adf7863b71d713252bd232c46",
@@ -2430,7 +2438,12 @@
       "60d6b6f27c2f7f6b7d8d139e55be05f7d188470e",
       "12e9562d5f94d39c5f085e4d668cf1cc7ad9e659",
       "4d06c9d42010e3cd7d7b8529b281f03842a529af",
-      "e47a99fed74c1d8848db0686691bb908935f9df2"
+      "e47a99fed74c1d8848db0686691bb908935f9df2",
+      "f0936f4d63e93e6869cf89cd9b18b7a61d8e5563",
+      "6edacf749d2bbab3f1a2d5a2a0f4fbb726f502d1",
+      "a667ecedae4b67824e5e911bb4e0ef5818316b2e",
+      "d376059c8153d053fe6ba3e351fd170fa43f4f74",
+      "07f471c609a294e7160b55c6e59584f552352144"
     ],
     "Automattic/blocks-everywhere": [
       "1857fcca96989bc58c57db05a70712c2dba0e0df",
@@ -3747,7 +3760,12 @@
       "a59d113f1b73f6b3d316113cab2aa29b02fa5990",
       "7cf721a10ec99d9fe10bf50216c72055f04de1b2",
       "31b4c6ad97cd65252e3d56f1ef48f7765d95729d",
-      "8f698720f448b5a7b51f974ded84e734d2afd7e3"
+      "8f698720f448b5a7b51f974ded84e734d2afd7e3",
+      "b05f65b01e3fb97c20710775876d3ad2375db405",
+      "e9ecb4577b7a2434135332fc8f37849aad64d5e4",
+      "213a062a35d96bb41548ab0ef2a14d8a7339431b",
+      "e2a95f8408ffccd40da1202589ff4289c78d19a6",
+      "980e768e9f3e1447951a0eaec5b316d0ef4d3202"
     ],
     "Automattic/dataviz-blocks": [
       "e0ec03b6a614ca85c5461b38bd8df8589c78fe9d",
@@ -12564,7 +12582,12 @@
       "8d8b50f8b7e10bd28771d6874a10f971fe5ad5ac",
       "1a9557810bf2bde17057fe8cee6ea3f067eca795",
       "e339a2ac1e91e848a028b6d10208308d8ec934ba",
-      "12058e0ea552f9bc3dd20be57d4d3b79c7f9bc54"
+      "12058e0ea552f9bc3dd20be57d4d3b79c7f9bc54",
+      "107f05bbcd0eea78063dad634673b34669eb2c10",
+      "62043ec1bed78366c2a53d9019670c6aecf48fff",
+      "9516a30779d6c0b12bb2631cf264aafc1e4713f9",
+      "b507721419c40e078bbb4e4c644f6410b4fa90a6",
+      "c9195f28e92ef5544eda379f7ad8ad7ab757945e"
     ],
     "Automattic/monk": [
       "5505e62ce616682ea2a6acec0cd9af01afa69069",
@@ -16279,7 +16302,11 @@
       "c20650f4b85e29265151f011ae0bcf16293d4c0a",
       "d57bbc5e7673750d151d371cf15795fc49601b37",
       "2c632ae02de9656515bdddd8160c1664cd67dc30",
-      "7a0c31b42a6d12da9da2ca63a505d46d7220e367"
+      "7a0c31b42a6d12da9da2ca63a505d46d7220e367",
+      "84eec87e04f58ab5c074857823091a1d43d8bd91",
+      "037278756e021e56ce3527aaf89d1638056c9342",
+      "8ccca3f9469a2df1de38b7d34ebf1e3180138778",
+      "a8d348a6ade413663fe7fec491a993efe96e5fd2"
     ],
     "Automattic/stats-agent-experiment": [
       "166d4bc6bb2ef5dbae048a343185a621738e0f14",
@@ -21359,7 +21386,11 @@
       "c31d8241d6ac5ce2ce43e423909b2ce50f38f0de",
       "3dd655d3653a233ca59e8e91981a3f57e5127a8b",
       "dc044f2691c896c23c8d1075b957b84ecc30bcca",
-      "5a15dcc8ff2f9333635b94155aa0be403f4c9baf"
+      "5a15dcc8ff2f9333635b94155aa0be403f4c9baf",
+      "87f54ed16434a8de25474b866cfd2fa552289c5f",
+      "6f9ef815f75ef0d0a48a49abb344e12018174d08",
+      "a6d5657bd5e454456fe247aa4aba91edebfac1fb",
+      "2318ce641e7a80f2e23d98c79257822bcb78c26a"
     ],
     "brave/brightray": [
       "d730b79e944b0342afd2968e60385a01e243872a",
@@ -21911,7 +21942,12 @@
       "b5764be4fa8841284f4c8008cfd45e02af9cffce",
       "509cff262b67423f6a7015ce74c16b249754fcc7",
       "972017b53f88089542303627abaf79f561210881",
-      "c4d103d8f992c4ca0c3f9f5a6f8c92dfbe526d66"
+      "c4d103d8f992c4ca0c3f9f5a6f8c92dfbe526d66",
+      "b875734005e6baa55e221a024f94b6d0bb7203db",
+      "7f32d8ef6adc191aa29eebbde4622c47986c6d2a",
+      "af745e57470b93521b0c4fc149a3165c07ab729d",
+      "f372acd2f212be5c492ac1f13906a18a4d97f57b",
+      "576857ae27c61cdee58e2dbbe83948e8b5e73845"
     ],
     "brave/chromium-releases": [
       "21ea0d3c72cbd02264b2d5096d2bd709fc802b20",
@@ -22816,7 +22852,9 @@
       "46dff5d8c29e59fff7a8cfae0c4fc41365e3d171",
       "a11844e31c03d237df87977b7c4ed8111c2c3024",
       "7a45b113d6703881859de91bc53eb27c6be115da",
-      "2b79dd83cf711b9298a41ac1d84ef863f35105bb"
+      "2b79dd83cf711b9298a41ac1d84ef863f35105bb",
+      "9f959982c141f7f7a445920e6301e7487adfa6ec",
+      "71fa7e75f2712ce2c3c1dbfaeff8ba2cecd5f064"
     ],
     "brave/pagegraph-rust": [
       "e6a204faefea12f1904c250ecd6892f7bfa68219",
