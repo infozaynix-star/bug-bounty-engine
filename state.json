@@ -13008,7 +13008,9 @@
       "cfeec53c24560b0d16367625b62303bd0d73d962",
       "ec1f12068f7e36f6a9afb0093950b4f8f783aa4e",
       "b939ea5beb83cc16918912e007ee543637bd6469",
-      "4a30fb844d86ce6ea327bb323347413c76a7d0a9"
+      "4a30fb844d86ce6ea327bb323347413c76a7d0a9",
+      "bbc8f6e223ceb623f2aa3d1bb9d39825f55ff94e",
+      "8c18cfbd562e05723bd88efa7c03b2bfc7933ca5"
     ],
     "Automattic/newspack-event-logger-plugins": [
       "a46566b2e216845421d57d9d54c631603c2859e0",
@@ -13131,7 +13133,12 @@
       "9ba0c30834354fcd3ec33653ef2f6510c2542c27",
       "4b2836f860b16101f9c242ebb97bc490a3ed00cf",
       "459a637ae64d4ad779ccfa08d512f4d9d2fe1c7e",
-      "bf1c575cdf256b0f41923ae63b890a12e8f6eb91"
+      "bf1c575cdf256b0f41923ae63b890a12e8f6eb91",
+      "b8756f5b6f6020bfa2c467edc9adf173fda5a712",
+      "d302163997f10d0142134e410e02f63a00eff0bb",
+      "f27ed4ed5a51484891fc327faf37d177c2e7ff69",
+      "aae5787139008d65010f7f57ff47c11120b6a2de",
+      "fcb2456048894ac350ecef549cc33bf7dacfc6da"
     ],
     "Automattic/newspack-ios": [
       "fd901cc5d11575ca5498705f466543a4b1153b44",
@@ -13428,7 +13435,12 @@
       "108977a511426248811ce521e369b830d239cd39",
       "3837394e47092335a19419a678ce050fcf5e5e6a",
       "bb9c3782ed8e8e2bdf0a7eb904366d9dd442927c",
-      "1ee4a4e6ae85d6c47f21bdcb503663ff52de4400"
+      "1ee4a4e6ae85d6c47f21bdcb503663ff52de4400",
+      "c34c0123fec9b462dbf229a092eaedc6072a81e4",
+      "e24b2697ce22986df28c22ca9caec35ea52bd8e3",
+      "3ed00a172bfe52fdf5a6b1ffd65a2c6b761bb1a5",
+      "6289199da600d69f40447435ce30ac95fb33b9f2",
+      "03c9ba5094ba9732e6f51c8e124c9efc5690ec6f"
     ],
     "Automattic/newspack-plugin": [
       "21d5921609c63e2de41c58b70d9ea5e934ff5360",
@@ -16619,7 +16631,10 @@
       "b7c1f2b9557213c4d183c84e6473628ba593de64",
       "8e76f70371d62295203c29b0cce075c569a559d8",
       "64512c51ed183fcb3491b2c8e9c9c8fed887d63f",
-      "3a07df419403f4d78c3749598a07bee7cf1d68eb"
+      "3a07df419403f4d78c3749598a07bee7cf1d68eb",
+      "b0d28535342dac5c5afcc2db181c861b9e9f8c57",
+      "30d42154306ebf4dfb1ffcd7659d21b3f754d339",
+      "0363c59c761a85efdb786c909468be9bb03c0410"
     ],
     "Automattic/studio-demo-site-companion": [
       "052cc68a7a098041bea00c0241b0407b5bc4b41e",
@@ -21852,7 +21867,12 @@
       "90ae08bb37a9fec1d94e6e2271b68dc5eb68721d",
       "76057c483d8dc866269282032e8f246b25ff84dc",
       "ae721cdfa93afb9ff497c2549817c8c89ffb10b5",
-      "dde8f79a5a309a3a339b78a7dd620b91b02b2c9d"
+      "dde8f79a5a309a3a339b78a7dd620b91b02b2c9d",
+      "3cad6337d4a2891329158ab2126a1ead4ccca62a",
+      "f9be67ea27dd7ff06caca6f20019a19fda9be05c",
+      "4f06bb52211e4cfd509c3f7dd5a5cf5eab740d82",
+      "998d1c74b26eb869fe8353987db4bd621a8e9bc0",
+      "f3650e360214ec07dd3ecce7e48d413d9fb9edd6"
     ],
     "brave/chromium-releases": [
       "21ea0d3c72cbd02264b2d5096d2bd709fc802b20",
@@ -26527,7 +26547,8 @@
       "5c0c78a73409dd5effe5d80e70cf9735abb85f67",
       "77e1310116bbdac75e37849a04a30684866d1ec3",
       "146ee262f668828bf443c2d6ed51265a4e98950f",
-      "968b7c4fcfa0f97bdb9caaa7d341a8c3ea52f60d"
+      "968b7c4fcfa0f97bdb9caaa7d341a8c3ea52f60d",
+      "58cef465e4583fd0da8770dc75684dab88887621"
     ],
     "hashicorp/packer-plugin-googlecompute": [
       "beb5e907abd1a52697c41d36e67528600a9d0c64",
@@ -26656,7 +26677,8 @@
       "e85c7c5eda36277f3f4e1312628c0a5302b4f91e",
       "6a17a784b0828b592ab49c41480a42e77faa0920",
       "504fef9fd58c6a4a730f75290e79841badf05601",
-      "961d227624ff71a04c2c4a366b47b203555cb98d"
+      "961d227624ff71a04c2c4a366b47b203555cb98d",
+      "d51bb372d501ce6f94e9d6003bf7e6e26a38db10"
     ],
     "hashicorp/packer-plugin-salt": [
       "f3b9a4a7fbce365f8c5d3ff97d0c2555574844ef",
@@ -26743,7 +26765,12 @@
       "66bef718b90a68de6b5dd73a3576705dcf2c49c4",
       "0f7e9c084b82a3d6d45849815fa96a3be782def5",
       "4dee85fe4c0bd539d55a8a9dd353326e20d3b403",
-      "2025948892be44b251db8cca99f018822c016943"
+      "2025948892be44b251db8cca99f018822c016943",
+      "bcc7ec3bab4aac2eafe19f82df54684aecf3bd04",
+      "8c17987289730c5e979f24b69910a74630f0ad7b",
+      "3ed245662b9fdb89e7f60c40df9b89647367037e",
+      "3dacd429ee629d6fb1a56c24a929d51e77cb2c2f",
+      "76efc20c2b1688aa9a0dd319757399ae8adc5b92"
     ],
     "hashicorp/photon-vagrant": [
       "016355a3bcbad8bdc74a154432deacaa3d0cd81b",
