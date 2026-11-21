@@ -2754,7 +2754,12 @@
       "65e9e4e64d0c5c8b36c97ed5359d724a23fa75e0",
       "a4993a04fd1f83d3ab5fbfc8d0b214179fa58e10",
       "8d38b3d738fb1bd1670661107df93b8cd9ec2839",
-      "f30da82113908ff776ed54b4d1477b08216f3617"
+      "f30da82113908ff776ed54b4d1477b08216f3617",
+      "5e5456ba22db269c9e7d6f3fd13404347b764142",
+      "22f56638e4b22c4c9bd5b8395c27389b0cdc8b64",
+      "f7eb2defc1562931e2e82158ee7e6b5510c498d5",
+      "566da41b68e681c5466e74ba1b5f1ea89acfdb01",
+      "8405542f904e1035f2ac3331caaa13cb618b4a4b"
     ],
     "Automattic/blocks-engine-php-transformer": [
       "23cc29f2da29df5adf7863b71d713252bd232c46",
@@ -3506,7 +3511,12 @@
       "147fc49d560d829e099bb35d8381897f30312605",
       "99651a8d8cb8f6285f8b6e74a72a3b58660262d9",
       "7c493ec22bd74109e0fc83850c21d6d6d6ef9e59",
-      "20cbeb8b4defa0837b25cd9ff644bd87ee9ffa54"
+      "20cbeb8b4defa0837b25cd9ff644bd87ee9ffa54",
+      "c39dcc6ee66de107e86f10af6960eaeb6db4a0e4",
+      "faf05a7024845b22f00be6fac2003a0e12eca9bc",
+      "610a80528c05d9307ccd78214ff55164efce8dad",
+      "c1b5bd58dcdc43f4a24f3ac2a1f839e4d5141c97",
+      "ee3c89b588c6f32f4cb04f8b8df8e39500c3fa23"
     ],
     "Automattic/blocks-everywhere": [
       "1857fcca96989bc58c57db05a70712c2dba0e0df",
@@ -5419,7 +5429,12 @@
       "1b167faeb9226ba0604eb91495031fa306ed803d",
       "c1c1c3136a43df5f36535789a33065dfe320c0b4",
       "fcd0b5d051f365a5db31058ba2f5fa2c4c59699a",
-      "422b97af20b2baadb173cc7538f959df4f426585"
+      "422b97af20b2baadb173cc7538f959df4f426585",
+      "7df0c528d71f538767df593d795806bca79dceaf",
+      "e550c290bfd91b36cdb8549b824ecacb345dc730",
+      "f08555fd06430babf42191454bca3003477e8b01",
+      "a5b5322593bfe8c813d8c843286f79308facae03",
+      "8d7cf02ff446cb5a2978392690c7d27bab97f545"
     ],
     "Automattic/dataviz-blocks": [
       "e0ec03b6a614ca85c5461b38bd8df8589c78fe9d",
@@ -7041,7 +7056,9 @@
       "6359b765dd8b15f3fd746c990d53dfd87827a64b",
       "62a53e24556ea469e17ee7230e396e84c7347f2b",
       "0dfea2bd7de7cadeb22c9f6e518dacb877eccb8d",
-      "f7946173e146c9722419971f957414c271920902"
+      "f7946173e146c9722419971f957414c271920902",
+      "f80af2554ffed87cf6cbb1cf26529973da4495e9",
+      "2c17ed581ab7ecba7ce200f2c065130c0d39f9ae"
     ],
     "Automattic/harper-obsidian-plugin": [
       "de5b305b94d83ac62b61ae81c1106092aa3876bf",
@@ -24661,7 +24678,12 @@
       "bf15749cc931186736e1e99720a304891d38f086",
       "dbf9cc344ba46255b3113edf5b1ea2408ac974b8",
       "6e9af0ab89941a265ac1c06631effec89feef3ba",
-      "c2c2d9a40e0ca3cb00a146d0dbe9aa0b2927d557"
+      "c2c2d9a40e0ca3cb00a146d0dbe9aa0b2927d557",
+      "f01135f7ba1b538f8ecdb3e69cf11a6999beac08",
+      "cdb31d12d7970e0979cd07709346a383249a7108",
+      "5752e9755be82f93abffcd637d52173aa910b906",
+      "303079362a4a1d646869522230cdc0753638e689",
+      "30c650a1f8de9938b94141bbf84bf1e7d149929c"
     ],
     "Automattic/stats-agent-experiment": [
       "166d4bc6bb2ef5dbae048a343185a621738e0f14",
@@ -27176,7 +27198,9 @@
       "d72e80950c1f2ca40c621a9a2f1e5fe091ca71d0",
       "2311d8f4d1a9dbd8a9d5232d840af8d081b53eb6",
       "4a4c2234f80d02ebd2fd73a0b50198d970cf6a5a",
-      "9d8766d6444b8a46fe34ebd0bcc089f0855761f5"
+      "9d8766d6444b8a46fe34ebd0bcc089f0855761f5",
+      "3436ad7fb7be7fbb0a03445fe4dc5cfa22bd1093",
+      "08db4810a261118b5a3bc561bb1abc91aaf81f97"
     ],
     "Automattic/vip-workflows-extensions": [
       "abb1f87280b92f5595514e48c0582d08ac144fe2",
@@ -28092,7 +28116,12 @@
       "13f6b32fcd28fd2c46d617832c532243fd4ffdd3",
       "b1d5de4342a65a4f38f9b9d4e5bc3b4367fd4fee",
       "293b3c060e644bcdc842acd715153896e387d884",
-      "99d277b34edbaeb84989cd6cd2749201b4c0de45"
+      "99d277b34edbaeb84989cd6cd2749201b4c0de45",
+      "2d099fc911acd5d06b3526dba0b3db7d1e22776a",
+      "edf9ffe8a0a8eaafa3aef16d585002bbc4b70d89",
+      "daafa103d7b6a2f5921b150daa5c1944e2965121",
+      "388dfa97ead2c50f330d13b4d55720fdb17a6f54",
+      "afa1a7a442085dd518ea3cad25fed53f77e6dcd4"
     ],
     "Automattic/wordpress-saml-vipgo-helper": [
       "97ff78cb9e7cbc73c4693e0249073a1b6208d8d3",
@@ -28832,7 +28861,8 @@
       "4e0fc4cb4cbd1562747c4cd55135ce7e17eb460b",
       "e56e9881d8c410e7bda03e41f8b20f7f0aa9bbe2",
       "7990d8163dab2214dd898e825867b87e10c8577b",
-      "508c4a658ed78609118a9c4524fbebeb4f44dec4"
+      "508c4a658ed78609118a9c4524fbebeb4f44dec4",
+      "e056fa123b8bfc942d36b8529f1fd7a984160706"
     ],
     "Automattic/wp-calypso-bootstrap": [
       "28a8ee926c867355a781a6865cfa3229455ccea4",
@@ -30940,7 +30970,8 @@
       "b167e0bcac96b1ac41fcabc97536b77cfca7be87",
       "29bc2e35e8e5d050407cdb72a9a6b27d15f9901c",
       "158b74ea94a6ff8e6796f27298b86457c1ce8f2e",
-      "f342dfb14c6ec4ad6be5a894e70b672e774258fe"
+      "f342dfb14c6ec4ad6be5a894e70b672e774258fe",
+      "465d8b25a566f4e78f1c92fcbbbf235750dad0c8"
     ],
     "brave/brave-core-crx-packager": [
       "79a7865bf77f3c3d08c79ba407961c802b4ec582",
@@ -31696,7 +31727,8 @@
       "1b75267757b22fee2d12703efc2bddb262683464",
       "53a77d7c9b631036f82f2b616ce1d8954abd763b",
       "6affd5acd2ea14d17d07b0e54a9e8f584f62421d",
-      "236f3c067dc42cc3e7e4be30d2c042cde89db895"
+      "236f3c067dc42cc3e7e4be30d2c042cde89db895",
+      "bccb9dc367f376f7486d985c736872e02c6543d5"
     ],
     "brave/brightray": [
       "d730b79e944b0342afd2968e60385a01e243872a",
@@ -32523,7 +32555,12 @@
       "244dccd3b8aa2f7dce5dbe339aabb57439954b51",
       "370d8a0c1c4b13f0d62c69130aa9abbb75d8233b",
       "20593e81f4363471cf34ce2bce441e5f1ad4d4ff",
-      "be149a569d0fa6e22dcba1fc7f957dae3fe67783"
+      "be149a569d0fa6e22dcba1fc7f957dae3fe67783",
+      "122125b543c3ac46b752149dbf57c2999da7eee1",
+      "f217d1a6809e4a2ec757973b8e2a2fe955d905ce",
+      "a727de805b194043071558e2542df8034b890be0",
+      "4593cbd6d29e0ce265d488e0e22c41fb242a2a39",
+      "0b06350a4d5436997354d84fdf3fce356fa4ab31"
     ],
     "brave/chromium-releases": [
       "21ea0d3c72cbd02264b2d5096d2bd709fc802b20",
@@ -33712,7 +33749,8 @@
       "156bff8bc02c29928892b5a653deee0ca69b1f63",
       "544f1df422dbcfbc73f759559bb1a987c31da900",
       "7becad929489d78c010f188d9f3d41f0960dba2a",
-      "ab410746ef9bb36ea9d99f50fd8693da93ef6eaf"
+      "ab410746ef9bb36ea9d99f50fd8693da93ef6eaf",
+      "8a9a80f54ced600663ac3691044e9f32cf093a1f"
     ],
     "brave/scproxy": [
       "d1e16821f6d31645e465271a2f67f5c656eb58dd",
