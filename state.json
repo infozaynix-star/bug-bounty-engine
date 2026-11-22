@@ -2774,7 +2774,9 @@
       "d209a2349e533ea5895ac87c4fb59c0de84e149d",
       "541e5b69d25e2be7ac99cf1f39b04ae060606868",
       "25399dc934fd6e8aa258b24df451bd9df60b732a",
-      "969517fb8903b69468c5170a8dd4b8fb3346bf36"
+      "969517fb8903b69468c5170a8dd4b8fb3346bf36",
+      "4441fbded65d59ff346647cfdc33aac05d7ecb41",
+      "1bb29d5dd2335fe44b54a944b41f9b1a02ddde63"
     ],
     "Automattic/blocks-engine-php-transformer": [
       "23cc29f2da29df5adf7863b71d713252bd232c46",
@@ -3546,7 +3548,9 @@
       "52998c74e6836e9d9305ae38c6c6a630ac39de9a",
       "4bb3ce74cac5de9bae5852b9ff354077511e574f",
       "ab3ae47daf73508ecb01eba3beeb673df499a7e5",
-      "d8be46c091b4c410297b9cc31ee7dac79ee43e62"
+      "d8be46c091b4c410297b9cc31ee7dac79ee43e62",
+      "f5cbf65c84bc9cde2fcda0a39000f6bb6b7c863b",
+      "00dc6eca56bdf61abcd8ad78b7b5583c42c17c5a"
     ],
     "Automattic/blocks-everywhere": [
       "1857fcca96989bc58c57db05a70712c2dba0e0df",
@@ -22168,7 +22172,8 @@
       "a0d5e4ada0e4049eccf8078812bb3fba44228325",
       "21e63885cf39cc65d2b7556e8c2b168b2686cc72",
       "25befc7e6e629373df080f83a7a5fbc69683a527",
-      "7cad9da442be0115a4ce8987e0eb902033fcb100"
+      "7cad9da442be0115a4ce8987e0eb902033fcb100",
+      "bb6afa1073ed373f5b314bf753d749e8c805043c"
     ],
     "Automattic/pocket-casts-client-dependencies": [
       "61a0756e8327b6244df04be26b36902d8685fd61",
@@ -24762,7 +24767,12 @@
       "561e94d5efaa593004832d522f5886dcec5420c7",
       "e396ca6a11b1d5d4042e97a2bda5be2409b9b5a0",
       "45950e09fe7889e09b068e2f249999ac63ce4e0a",
-      "5b18f84e90664fc93e4e2d792c2ccde92da7b635"
+      "5b18f84e90664fc93e4e2d792c2ccde92da7b635",
+      "3bfc8efff872c79b9a2b736ff7321b454cff4db0",
+      "232ca92d049af5ffcd1b8b6cf946d79d1e332b9d",
+      "1dcfaaf272608bac5cc28db78f4f8ecd9ac99ca7",
+      "3f565e1eee1f5596e99905e5304392f64c03d519",
+      "6449b913df92ac88e7fb78be7240d8b28d29d2ae"
     ],
     "Automattic/stats-agent-experiment": [
       "166d4bc6bb2ef5dbae048a343185a621738e0f14",
@@ -25369,7 +25379,8 @@
       "d85c566882b29203ba81aa7eb81585e6bb574de3",
       "c87077f141697df3daadf604b20453603b1adb03",
       "133c19a060c5597b414ecf8b6937eb87bbe64f2a",
-      "1aca898d03d11223b6d247f90230211cc594005f"
+      "1aca898d03d11223b6d247f90230211cc594005f",
+      "96955294f66fdeb7b25edcaf4983b93999d61c6a"
     ],
     "Automattic/studio-demo-site-companion": [
       "052cc68a7a098041bea00c0241b0407b5bc4b41e",
@@ -28951,7 +28962,8 @@
       "e056fa123b8bfc942d36b8529f1fd7a984160706",
       "4b645094fccc8135af985d0e2ab81ef04944dd4e",
       "4cf7c4601c0566cb6636a23611d2e1442a8b1221",
-      "083d38511e7bbb487432d0dd1c705935d95f2eda"
+      "083d38511e7bbb487432d0dd1c705935d95f2eda",
+      "5067ec7b0bc7905592437191cc432dc5c1f07982"
     ],
     "Automattic/wp-calypso-bootstrap": [
       "28a8ee926c867355a781a6865cfa3229455ccea4",
@@ -30220,7 +30232,9 @@
       "6c8b432509262cdbf881c4d06c2ae51cb02e6527",
       "cb603690ff0b1cf9bd8f491950acfcae75ccf4f2",
       "9778b880ffce465d7230aa83afdf78dcbf9c26f3",
-      "2dbf5b14136afb4b0798a7a138e692fb160b7ecf"
+      "2dbf5b14136afb4b0798a7a138e692fb160b7ecf",
+      "ee162640cf8c99386c872385a3bac18c1f996128",
+      "44b431decc2b327c028b72f6950834279a3c31ab"
     ],
     "brave/adblock-lists-mirror": [
       "337ff7a785a3a7c56716917151ce817c68965148",
@@ -31840,7 +31854,9 @@
       "509344ff84a4543ffa1a0da93b8069e645a54ce1",
       "9911df48539162f9284d49fb0b9af5ead6da6e4f",
       "0ba8c3ae39cd6c3876e23fadaf56d81c3e298bfd",
-      "aec06f57c14e9c00389d307d1eb46a6e174d5d7c"
+      "aec06f57c14e9c00389d307d1eb46a6e174d5d7c",
+      "f0923ee31e8f6b451040e7039badf54cdc2590a9",
+      "b67999216f2196ca493ba6e636262c083f93acc0"
     ],
     "brave/brightray": [
       "d730b79e944b0342afd2968e60385a01e243872a",
@@ -32687,7 +32703,12 @@
       "4e1523002cd44858ba0c0cb918191093ede46795",
       "79f27feb111c0bfe96a4e51ac7bf95cf41c3c1c4",
       "a6d88abeb139bd14abb954c6e783c4b2e74883dd",
-      "8b81b59fc6586baeabc7f8a432e48f2c3ae30880"
+      "8b81b59fc6586baeabc7f8a432e48f2c3ae30880",
+      "bf6ea7d601e733f17f97859b662145693e98877e",
+      "773e4e7012e34dffdcc6e3e7c8b9d17174dce28e",
+      "9cd96fb3d030fe93462069202f5150f8a5860cdc",
+      "4c90b7b767112c0eef7802e666c444f1f6b25d6a",
+      "feb2404de5aa649364e2db043273bbf98e974c7c"
     ],
     "brave/chromium-releases": [
       "21ea0d3c72cbd02264b2d5096d2bd709fc802b20",
@@ -38792,6 +38813,151 @@
       "19b17fff16b04f9056c688c8c53f647f92113ea6",
       "23b6b095513ae454badd8a67b45e83317fd69098",
       "b724b175783c1316919566c2835f279775f42f5d"
+    ],
+    "hashicorp/terraform-AWS-CIS-Policy-Set": [
+      "b313361e781a3adc3d8b7a945529e741379c95f8",
+      "469d8fb7f3eb22bb13011efb540f633d1527a961",
+      "337dcab6693437434eb922d13a7492575e6e22f3",
+      "616c4935b0183a85f7e5df1361dcbe7ea09d6e72",
+      "39e97dc635182645164e7a4e05a89a80636fd91b"
+    ],
+    "hashicorp/terraform-actions-demo": [
+      "783e2be92d9a361a6f5539787bf8aacdb070ea87",
+      "63d64762fdb577c2ee7065bef4c5e86d550d08b3",
+      "54d4b2b77b54903b5f54b046efed434cbb4af4a1",
+      "fea0438df9e437c15a58550e76d2ef2eca7e7856",
+      "dd703685369910dfec66da6bf0be9f52f01eaabc"
+    ],
+    "hashicorp/terraform-ansible-collection": [
+      "c0a7a6121d8998230841178357299f7173691a9c",
+      "ff17f9bd8ce46fd0201653ff9094a96a55a0b470",
+      "d8de7108b2799c1834220b6f36fad0b4384ec77d",
+      "49e073980344bc434cc2935eec625d63d1c63b58",
+      "98f682ce000c09fe6de38c29ea866f4527d761d4"
+    ],
+    "hashicorp/terraform-aws-autoscaling": [
+      "bdaf960faec883094b172e6f5b2a5d616b51088b",
+      "766e59b33e3f6b51fef1877bffe6f0b9e622dc68",
+      "ef548a6b5f757973fef2a0746295288a5b02c657",
+      "347336551f5c26eaad1b3ed474fd45fcd2c12dc7",
+      "fa4eb2595726773c85ebd9feaa7b2ae14ed4d8c9"
+    ],
+    "hashicorp/terraform-aws-awx": [
+      "0aab8099bbb6c61f6c4cf8efab3427bfbf53d0ec",
+      "f078c8a70ffc8309152057cb2dbbfd8d61b76fd2",
+      "f706518f16103b00a286948cdc362782efb996bd",
+      "665eca70998261659bf43bac3971c8aac40222ff"
+    ],
+    "hashicorp/terraform-aws-boundary-enterprise-controller-hvd": [
+      "88129e5283888621545d1b5c8fabbbea08dd8d85",
+      "e176bd9772c16759bbf2c1724a1785fa21279077",
+      "69145753b62ad2949aa09ae12544013b8178148c",
+      "832cac15a991d6fadc1c74a818d0e1e664784eea",
+      "2ff4748544e721ba7fbf40c39c532f8e15006104"
+    ],
+    "hashicorp/terraform-aws-boundary-enterprise-worker-hvd": [
+      "0f7a9b830300504b2e27cfd0e101c7eeb870bf10",
+      "3fa6cd43d870df4dcbf43c87489597be0e2266f2",
+      "a662a9b116596f38932376c6801c1d3dfc9d6b85",
+      "e9e9fea2caa1711fc30143d3df837283628dd50f",
+      "4ce6946650113638b9585fa4d2c6be13e9920a37"
+    ],
+    "hashicorp/terraform-aws-consul": [
+      "9fc09ae0e0528dfe7ba3bba71c428a4be4fa31eb",
+      "ccaf846c1d801b75d3f20397f316500b96766056",
+      "81b6173e8f0869ce96cbc93545dce4b8f68a16e0",
+      "283c3d5a369db57d4385ce6958adb62b42e575d4",
+      "9494e13f5d2091ad0d4491353eb3e383b8f69306"
+    ],
+    "hashicorp/terraform-aws-consul-ecs": [
+      "dbc2c581193edf75915c297d3877264711201ace",
+      "8ad1f68ca710e4075135f5e6a8e74ee788899bd6",
+      "f53a77e186c1fa8b1f1d55da4ad4199b842fc3ba",
+      "4342d3d7044c767f54c977d08c2bc930a0c176e8",
+      "bc33c72e4df29e6204aecc49e7444cb57ee848fb"
+    ],
+    "hashicorp/terraform-aws-consul-ent-k8s": [
+      "9ab6549794a277127f602ae2266a36d448b7329d",
+      "76280dbef242083d45efc78620381b65cc74aa64",
+      "c9a95bd09e7c8d8530cb08044ac11c35599b195f",
+      "a7e6b9481e5be415908b3b8017edb7c83271fa7c",
+      "85f6ae496427c6b1c0b0ef3ffc3a773d9da40654"
+    ],
+    "hashicorp/terraform-aws-consul-ent-starter": [
+      "3a82a647120e620d7fbdf871be7b0b07be63e554",
+      "079d25b13ac9b3ce8ef681bcf8585e788cd99ae2",
+      "030e83d42467ebeb9cf699b97700c45c1c5b87b6",
+      "5e2009229465d05d1e6c425bca0f46b296b6e18f",
+      "a7f1564032fb0dc62e70b5f35da53d8a3ac48aa3"
+    ],
+    "hashicorp/terraform-aws-consul-enterprise-hvd": [
+      "faeeba1fef086d66d0179325a93ec36dcdc37729",
+      "11c1a67e3770defef150fc9628c207021560ffba",
+      "8ae12938502f69b8ea86d9f9b5e6c81d97e928d6",
+      "b0237c762c48ac9be22cd77417b300a2d00092cc",
+      "7b4b0ca5bf48632ee73d512b971f052e4e8516be"
+    ],
+    "hashicorp/terraform-aws-consul-lambda": [
+      "3501bba061d0df34886fcc36334e2f52e568bd32",
+      "0a1c759c9bf376fbd1489288948587cb13f57c96",
+      "d962d725151e4422e574efb7b4d3385d3f4d8896",
+      "b9a4afdaea2d3d0b393cd4192f951982c92b0500",
+      "fccaa197ecb5eb9c74bcb486cf9e6c63ae8dd1a4"
+    ],
+    "hashicorp/terraform-aws-consul-starter": [
+      "ac97ed4c0567dbd5c85f0a95b458d88cf0f98ab5",
+      "1728ab5be5cf48b298eabb31e2a50de0249792fd",
+      "cc9f0cb64986686d571604e419aa7d72aa3515a0",
+      "1856779cfefd2bf24c1fc4365ead0464ac9755ea",
+      "81ceec37bc0f4d460b8e63eb67004d89724e2b32"
+    ],
+    "hashicorp/terraform-aws-ecs-advanced-microservice": [
+      "a19f6e8061f0cd9ab9be7fdf011bfe0b64fb7c72",
+      "4d8fb25fe8ee32d0c1d3a87df424d3783673c05d",
+      "a04a9d6a4f6f8c05c60d254c72f90dac5c25de6a",
+      "372d1726fea438661628b1cf4c1b46cfa366131d",
+      "7547dfad03aa1f20ab662fd99521e4c262639ed5"
+    ],
+    "hashicorp/terraform-aws-example-microservice-ecs-allenvs": [
+      "8d669abf79c51c8293d61f3db44d529243a2e672",
+      "a50351fe7afc1bb41be92ed963edb1a599873209",
+      "cd60b5eed857025fe821c452227f00c67e767fa3",
+      "577ebcceb68006cb63c65f58984deb070441a1c2",
+      "1e9183727cf87e9a14d2af3b870ef1bfe99dc164"
+    ],
+    "hashicorp/terraform-aws-hashicorp-consul-eks-addon": [
+      "4800a3f00f5206994bc427bc4b901ea0194a1c1e",
+      "746b77c08f9b3651cb90d236ce8a9b57ace3a2e8",
+      "17cd0bdaa1b8e6d991fc258bbc11dac843a66346",
+      "12d189de7fd8f026df3008cb330a0bb08363e231",
+      "9b4fdf762c19de3d397a1e736d0d44a3d51d31f6"
+    ],
+    "hashicorp/terraform-aws-hashicorp-vault-eks-addon": [
+      "7ba29cd446293a44c321ee76d2713d624bf961d7",
+      "db6dec189c31416ba6e4de02a4a587f0fa27dbb2",
+      "13f9ee9e79c619c7995367167a0213ff064adc4f",
+      "d6045bfa3aa687625400d0b275821ab09b3a399e",
+      "0efc261638a9a29bb3be1b143eb08f8367c6e88c"
+    ],
+    "hashicorp/terraform-aws-hcp-consul": [
+      "5315948f2bbd61830cbebf68b288d820d63d18ac",
+      "a758622fdb51787311aee9de212ac6aeddb5c71d",
+      "607024325243e6443cf6e61bf12d3723032b9a06",
+      "49706d347ce64d89e0112afd4e27532d4f199754",
+      "caf1406822143586ce9cdf79ff60a9623410e092"
+    ],
+    "hashicorp/terraform-aws-infragraph-connector-permissions": [
+      "54bf85bd9fce3ab3223a56f098c9f764c5261617",
+      "6f557a0562f67ff7266727c81a1030001633ce8a",
+      "a74398a6c49772c6bf2bee354b0ff2d515cd9dc2",
+      "9d949d5c22335ae1238b765be6fc214ac13fc9ce",
+      "d6941c9f908e5b9e1196f96849547efed4d014e5"
+    ],
+    "hashicorp/terraform-aws-module-installer-acctest": [
+      "e55c1477df0a6ea3c38eaaeb0fd0ede05d18085e",
+      "1dd17166da8c78fd31642000916975955c18babf",
+      "ce69faa81e3483de126990468f86bd31fc5f4c9a",
+      "fbad92afe22792b939ceb233acd86ebd57af8fc7"
     ]
   }
 }
